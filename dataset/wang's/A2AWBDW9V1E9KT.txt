@@ -1,0 +1,82 @@
+3 X X # 3 X X # 3 X X # 2 X X # 0 X X # 2 X X	remove the red blocks	3 X X # 3 X X # 3 X X # X X X # 0 X X # X X X
+2 X X # 1 X X # 0 X X # 1 X X # 3 X X # 0 X X	remove the blue blocks	2 X X # 1 X X # X X X # 1 X X # 3 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 3 X X	remove the red block	1 X X # 1 X X # 1 X X # 1 X X # X X X
+3 X X # 2 X X # 2 X X # 2 X X # 0 X X	remove the red blocks	3 X X # X X X # X X X # X X X # 0 X X
+1 X X # 1 X X # 1 X X # 3 X X # 2 X X	remove the red block	1 X X # 1 X X # 1 X X # 3 X X # X X X
+3 X X # 0 X X # 1 X X # 0 X X # 0 X X # 3 X X	remove the orange blocks	X X X # 0 X X # 1 X X # 0 X X # 0 X X # X X X
+0 X X # 2 X X # 2 X X # 2 X X # 2 X X	remove the blue block	X X X # 2 X X # 2 X X # 2 X X # 2 X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X # 3 X X	remove the red blocks	3 X X # X X X # 3 X X # X X X # 3 X X # 3 X X
+1 X X # 1 X X # 0 X X # 1 X X # 1 X X # 1 X X	remove the last block	1 X X # 1 X X # 0 X X # 1 X X # 1 X X # X X X
+3 X X # 0 X X # 3 X X # 0 X X # 3 X X # 3 X X	add an orange block to the last stack	3 X X # 0 X X # 3 X X # 0 X X # 3 X X # 3 3 X
+2 X X # 0 X X # 0 X X # 0 X X # 2 X X # 2 X X	add a red block to the last stack	2 X X # 0 X X # 0 X X # 0 X X # 2 X X # 2 2 X
+1 X X # 1 X X # 1 X X # 3 X X	add an orange block to the last stack	1 X X # 1 X X # 1 X X # 3 3 X
+1 X X # 0 X X # 0 X X # 1 X X # 1 X X # 1 X X	remove the brown blocks	X X X # 0 X X # 0 X X # X X X # X X X # X X X
+2 X X # 2 X X # 0 X X # 0 X X # 0 X X	remove the last block	2 X X # 2 X X # 0 X X # 0 X X # X X X
+3 X X # 2 X X # 3 X X # 2 X X # 2 X X	remove the last block	3 X X # 2 X X # 3 X X # 2 X X # X X X
+2 X X # 2 X X # 2 X X # 2 X X # 0 X X # 2 X X	remove the blue block	2 X X # 2 X X # 2 X X # 2 X X # X X X # 2 X X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	stack brown on orange	3 1 X # 1 3 1 # 3 1 X # 1 3 1 # 3 1 X # 1 3 1
+2 X X # 3 X X # 1 X X # 0 X X # 2 X X	remove brown	2 X X # 3 X X # X X X # 0 X X # 2 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 3 X X	remove orange	3 X X # 3 X X # X X X # 2 X X # 0 X X # 3 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 3 X X	remove orange	X X X # X X X # 1 X X # 2 X X # 0 X X # X X X
+1 X X # 1 X X # 2 X X # 0 X X # 3 X X	remove red	1 X X # 1 X X # X X X # 0 X X # 3 X X
+1 X X # 2 X X # 3 X X # 2 X X # 0 X X	remove blue	1 X X # 2 X X # 3 X X # 2 X X # X X X
+0 X X # 2 X X # 2 X X # 3 X X # 1 X X	remove red	0 X X # X X X # X X X # 3 X X # 1 X X
+1 X X # 2 X X # 3 X X # 1 X X # 0 X X # 1 X X	remove blue	1 X X # 2 X X # 3 X X # 1 X X # X X X # 1 X X
+1 X X # 3 X X # 1 X X # 1 X X # 3 X X # 1 X X	remove orange	1 X X # X X X # 1 X X # 1 X X # X X X # 1 X X
+2 X X # 0 X X # 2 X X # 2 X X # 3 X X # 1 X X	remove orange	2 X X # 0 X X # 2 X X # 2 X X # X X X # 1 X X
+2 X X # 0 X X # 2 X X # 0 X X	remove red	X X X # 0 X X # X X X # 0 X X
+0 X X # 0 X X # 3 X X # 0 X X # 0 X X # 3 X X	remove six	0 X X # 0 X X # 3 X X # 0 X X # 0 X X # X X X
+2 X X # 1 X X # 2 X X # 1 X X	remove red	X X X # 1 X X # X X X # 1 X X
+0 X X # 1 X X # 1 X X # 1 X X # 0 X X	add blue two, blue three, blue four	0 X X # 1 0 X # 1 0 X # 1 0 X # 0 X X
+2 X X # 2 X X # 3 X X # 3 X X	add red one	2 2 X # 2 X X # 3 X X # 3 X X
+0 X X # 1 X X # 0 X X # 1 X X	remove four	0 X X # 1 X X # 0 X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 X X	add orange six	2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 3 X
+0 X X # 2 X X # 0 X X # 2 X X # 0 X X	remove blue	X X X # 2 X X # X X X # 2 X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X	add orange one	0 3 X # 0 X X # 0 X X # 0 X X # 0 X X
+2 X X # 1 X X # 1 X X # 2 X X	remove one	X X X # 1 X X # 1 X X # 2 X X
+3 3 X # 2 2 X # 3 3 X # 2 2 X	remove red	3 3 X # 2 X X # 3 3 X # 2 X X
+2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X	add brown two, brown four	2 1 X # 1 2 1 # 2 1 X # 1 2 1 # 2 1 X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	remove brown	3 X X # 1 3 X # 3 X X # 1 3 X # 3 X X
+3 X X # 1 3 X # 3 X X # 1 3 X # 3 X X	add blue	3 0 X # 1 3 0 # 3 0 X # 1 3 0 # 3 0 X
+2 2 X # 2 3 X # 2 2 X # 2 3 X # 2 2 X # 2 3 X	add orange two, orange four, orange six	2 2 X # 2 3 3 # 2 2 X # 2 3 3 # 2 2 X # 2 3 3
+1 1 X # 2 2 X # 1 1 X # 2 2 X	remove red	1 1 X # 2 X X # 1 1 X # 2 X X
+1 1 X # 2 X X # 1 1 X # 2 X X	add blue one, blue two	1 1 0 # 2 X X # 1 1 0 # 2 X X
+2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	add blue two, blue four, blue six	2 0 X # 0 2 0 # 2 0 X # 0 2 0 # 2 0 X # 0 2 0
+3 3 X # 2 2 X # 3 3 X	add  brown one, brown three	3 3 1 # 2 2 X # 3 3 1
+3 3 1 # 2 2 X # 3 3 1	remove red	3 3 1 # 2 X X # 3 3 1
+0 0 X # 0 3 X # 0 0 X # 0 3 X	remove blue	0 X X # 0 3 X # 0 X X # 0 3 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X	add brown two, brown four	3 3 X # 3 0 1 # 3 3 X # 3 0 1
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	add orange two, add orange three, add orange four	1 0 X # 0 1 3 # 1 0 X # 0 1 3 # 1 0 X # 0 1 3
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	remove blue	1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X # 0 1 X
+1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X # 0 1 X	add orange	1 3 X # 0 1 3 # 1 3 X # 0 1 3 # 1 3 X # 0 1 3
+1 X X # 2 X X # 2 X X # 2 X X	add brown three, brown two, brown four	1 X X # 2 1 X # 2 1 X # 2 1 X
+1 X X # 3 X X # 1 X X	add brown one, brown three	1 1 X # 3 X X # 1 1 X
+2 X X # 3 X X # 2 X X # 3 X X # 3 X X	add red	2 2 X # 3 2 X # 2 2 X # 3 2 X # 3 2 X
+2 2 X # 3 2 X # 2 2 X # 3 2 X # 3 2 X	remove six	2 2 X # 3 2 X # 2 2 X # 3 2 X # 3 X X
+0 X X # 0 X X # 2 X X # 2 X X # 2 X X # 2 X X	leave six	X X X # X X X # X X X # X X X # X X X # 2 X X
+1 X X # 1 X X # 1 X X # 3 X X	add orange	1 3 X # 1 3 X # 1 3 X # 3 X X
+2 X X # 1 X X # 2 X X	remove brown	2 X X # X X X # 2 X X
+3 X X # 2 X X # 2 X X	add orange	3 X X # 2 3 X # 2 3 X
+0 X X # 0 X X # 2 X X # 0 X X	remove blue	X X X # X X X # 2 X X # X X X
+1 X X # 3 X X # 3 X X # 1 X X # 3 X X # 1 X X	add orange	1 3 X # 3 3 X # 3 3 X # 1 3 X # 3 3 X # 1 3 X
+1 3 X # 3 3 X # 3 3 X # 1 3 X # 3 3 X # 1 3 X	remove one	1 X X # 3 3 X # 3 3 X # 1 3 X # 3 3 X # 1 3 X
+1 X X # 1 X X # 1 X X # 3 X X	remove all	X X X # X X X # X X X # X X X
+0 X X # 1 X X # 1 X X # 0 X X # 1 X X # 1 X X	add brown	0 1 X # 1 1 X # 1 1 X # 0 1 X # 1 1 X # 1 1 X
+0 1 X # 1 1 X # 1 1 X # 0 1 X # 1 1 X # 1 1 X	remove six	0 1 X # 1 1 X # 1 1 X # 0 1 X # 1 1 X # 1 X X
+0 3 X # 1 X X # 3 X X	add brown one	0 3 1 # 1 X X # 3 X X
+1 0 X # 2 X X	remove red	1 0 X # X X X
+3 1 X # 3 X X # 0 3 X	add brown one	3 1 1 # 3 X X # 0 3 X
+1 0 X # 2 0 X	add red two	1 0 X # 2 0 2
+1 X X # 0 2 X # 2 0 X	remove one	X X X # 0 2 X # 2 0 X
+1 X X # 0 2 X # 2 0 X	remove blue	1 X X # 0 2 X # 2 X X
+1 X X # 0 2 X # 2 0 X	add blue one	1 0 X # 0 2 X # 2 0 X
+3 2 X # 2 X X	add orange one	3 2 3 # 2 X X
+1 X X # 2 2 X # 3 X X # 1 2 X	remove brown one	X X X # 2 2 X # 3 X X # 1 2 X
+0 3 X # 0 X X	remove blue	0 3 X # X X X
+3 2 X # 2 X X # 3 2 X	add orange two, orange three	3 2 3 # 2 3 X # 3 2 3
+3 2 X # 2 X X # 3 2 X	add orange	3 2 3 # 2 3 X # 3 2 3
+3 2 3 # 2 3 X # 3 2 3	remove one	3 2 X # 2 3 X # 3 2 3
+2 X X # 1 1 X # 1 2 X # 0 0 X	remove blue	2 X X # 1 1 X # 1 2 X # 0 X X
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	remove red two	0 0 X # 0 2 X # 0 2 2 # 0 2 X # 0 0 X
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	add blue one	0 0 0 # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X
+0 0 0 # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	add redadd blue six	0 0 0 # 0 2 2 # 0 2 2 # 0 2 X # 0 0 0

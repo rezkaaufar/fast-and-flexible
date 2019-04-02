@@ -1,0 +1,59 @@
+1 X X # 3 X X # 2 X X # 0 X X # 1 X X # 0 X X	Remove brown blocks	X X X # 3 X X # 2 X X # 0 X X # X X X # 0 X X
+3 X X # 3 X X # 0 X X # 1 X X # 2 X X	Remove orange blocks	X X X # X X X # 0 X X # 1 X X # 2 X X
+0 X X # 1 X X # 3 X X # 3 X X # 1 X X # 3 X X	Remove orange blocks	0 X X # 1 X X # X X X # X X X # 1 X X # X X X
+1 X X # 0 X X # 1 X X # 2 X X # 0 X X # 0 X X	remove brown blocks	X X X # 0 X X # X X X # 2 X X # 0 X X # 0 X X
+2 X X # 0 X X # 1 X X # 0 X X # 2 X X # 3 X X	remove blue blocks	2 X X # X X X # 1 X X # X X X # 2 X X # 3 X X
+2 X X # 2 X X # 1 X X # 1 X X # 2 X X	Add brown block to red block	2 1 X # 2 X X # 1 X X # 1 X X # 2 X X
+1 X X # 1 X X # 2 X X # 1 X X	Add 1 red block to the brown block	1 X X # 1 X X # 2 X X # 1 2 X
+1 X X # 0 X X # 1 X X # 1 X X	Remove 1 brown block	X X X # 0 X X # 1 X X # 1 X X
+2 X X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X	Add 1 red block	2 2 X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X
+1 X X # 0 X X # 0 X X # 0 X X # 1 X X # 0 X X	Remove brown boxes	X X X # 0 X X # 0 X X # 0 X X # X X X # 0 X X
+3 X X # 3 X X # 3 X X # 0 X X # 0 X X	Add 1 orange block	3 3 X # 3 X X # 3 X X # 0 X X # 0 X X
+0 X X # 3 X X # 3 X X # 0 X X	Add 1 orange block	0 3 X # 3 X X # 3 X X # 0 X X
+1 X X # 1 X X # 1 X X # 1 X X	Add 1 orange block	1 3 X # 1 X X # 1 X X # 1 X X
+1 X X # 0 X X # 1 X X # 1 X X	Remove 1 brown block	X X X # 0 X X # 1 X X # 1 X X
+2 X X # 2 X X # 2 X X # 1 X X # 1 X X	Add 1 brown box	2 X X # 2 X X # 2 X X # 1 X X # 1 1 X
+1 3 X # 3 1 X # 1 3 X	Remove 1 brown box	1 3 X # 3 X X # 1 3 X
+1 1 X # 0 0 X # 1 1 X	Add 1 blue box	1 1 X # 0 0 0 # 1 1 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X	Remove the top 2 blue boxes	3 X X # 0 3 X # 3 X X # 0 3 X
+0 0 X # 1 1 X # 0 0 X # 1 1 X	Remove the top blue boxes	0 X X # 1 1 X # 0 X X # 1 1 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Remove top blue boxes	1 X X # 0 1 X # 1 X X # 0 1 X
+1 X X # 0 1 X # 1 X X # 0 1 X	Add red boxes	1 2 X # 0 1 2 # 1 2 X # 0 1 2
+2 2 X # 2 0 X # 2 2 X # 2 0 X	Add 2 blue boxes	2 2 0 # 2 0 X # 2 2 0 # 2 0 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Remove second layer	1 X X # 0 X X # 1 X X # 0 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Remove top layer	1 X X # 0 X X # 1 X X # 0 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Replace top layer with brown boxes	1 0 1 # 0 1 1 # 1 0 1 # 0 1 1
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Remove the top layer	1 X X # 0 X X # 1 X X # 0 X X
+1 X X # 0 X X # 1 X X # 0 X X	put * brown boxes	1 1 X # 0 1 X # 1 1 X # 0 1 X
+1 X X # 0 X X # 1 X X # 0 X X	put * brown boxes	1 1 X # 0 1 X # 1 1 X # 0 1 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Replace top layer with brown boxes	1 X X # 0 1 X # 1 X X # 0 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	Remove second layer	1 X X # 0 X X # 1 X X # 0 X X
+3 3 X # 3 0 X # 3 3 X	Add 2 orange boxes	3 3 X # 3 0 X # 3 3 X
+3 3 X # 3 0 X # 3 3 X	Remove 2 orange boxes	3 X X # 3 0 X # 3 X X
+1 1 X # 1 2 X # 1 1 X # 1 2 X # 1 1 X	Add 3 red boxes	1 1 2 # 1 2 X # 1 1 2 # 1 2 X # 1 1 2
+2 0 X # 0 2 X # 2 0 X	Add 2 red boxes	2 0 2 # 0 2 X # 2 0 2
+3 3 X # 0 0 X # 3 3 X # 0 0 X	Add 2 orange boxes	3 3 X # 0 0 3 # 3 3 X # 0 0 3
+1 X X # 0 X X # 0 X X # 1 X X # 0 X X # 0 X X	Add 2 blue boxes	1 0 X # 0 X X # 0 X X # 1 0 X # 0 X X # 0 X X
+1 X X # 1 X X # 1 X X # 1 X X	Add red boxes	1 2 X # 1 2 X # 1 2 X # 1 2 X
+2 X X # 2 X X # 1 X X # 2 X X # 1 X X	Add brown boxes	2 1 X # 2 1 X # 1 1 X # 2 1 X # 1 X X
+1 X X # 1 X X # 1 X X # 1 X X # 3 X X # 1 X X	Add 5 brown boxes	1 1 X # 1 1 X # 1 1 X # 1 1 X # 3 1 X # 1 X X
+0 X X # 2 X X # 2 X X # 0 X X	Remove blue boxes	X X X # 2 X X # 2 X X # X X X
+1 X X # 1 X X # 2 X X # 2 X X # 2 X X # 1 X X	Add 3 red boxes	1 X X # 1 X X # 2 2 X # 2 2 X # 2 2 X # 1 X X
+2 X X # 2 X X # 2 X X	Add 3 brown boxes	2 1 X # 2 1 X # 2 1 X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 0 X X	remove all except 1 red box	2 X X # X X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 0 X X # 1 X X	Add 4 brown boxes and 1 blue box	1 X X # 1 X X # 1 X X # 1 X X # 0 0 X # 1 X X
+1 X X # 1 X X # 1 X X # 1 X X # 0 X X # 1 X X	Remove all except 1 brown box	1 X X # X X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X	Add 2 brown boxes	1 X X # 1 1 X # 1 1 X
+0 1 X # 1 X X # 1 X X	Add 3 blue boxes	0 1 0 # 1 0 X # 1 0 X
+2 X X # 1 X X # 2 1 X	Add 2 brown boxes	2 1 X # 1 1 X # 2 1 X
+3 X X # 3 X X # 2 X X # 0 0 X	Add 1 red box	3 X X # 3 X X # 2 X X # 0 0 2
+3 X X # 1 3 X	Add 1 orange box	3 3 X # 1 3 X
+2 X X # 2 X X # 0 2 X	Add 2 blue boxes	2 X X # 2 0 X # 0 2 0
+3 X X # 1 1 X	Add 1 orange box	3 X X # 1 1 3
+1 X X # 3 X X # 1 1 X # 1 X X	Add 1 brown box	1 X X # 3 X X # 1 1 X # 1 0 X
+1 X X # 3 X X # 1 1 X # 1 X X	Remove 1 brown box	X X X # 3 X X # 1 1 X # 1 X X
+2 X X # 2 1 X	Remove 1 red box	X X X # 2 1 X
+2 0 X # 2 2 X	Remove 1 blue box	2 X X # 2 2 X
+2 3 X # 2 2 X	Add 1 red box	2 3 X # 2 2 0
+2 3 X # 2 2 X	Add 1 red box	2 3 X # 2 2 X
+2 3 X # 2 2 X	Remove 1 red box	2 3 X # 2 X X

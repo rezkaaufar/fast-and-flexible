@@ -1,0 +1,20 @@
+3 X X # 2 X X # 3 X X # 0 X X # 2 X X # 1 X X	take out brown block at the end	3 X X # 2 X X # 3 X X # 0 X X # 2 X X # X X X
+0 X X # 3 X X # 0 X X # 0 X X # 2 X X	take out red block at end	0 X X # 3 X X # 0 X X # 0 X X # X X X
+2 X X # 2 X X # 3 X X # 0 X X # 1 X X	delete two red block from start	X X X # X X X # 3 X X # 0 X X # 1 X X
+1 X X # 0 X X # 3 X X # 2 X X # 1 X X # 1 X X	take out blue block	1 X X # X X X # 3 X X # 2 X X # 1 X X # 1 X X
+2 X X # 0 X X # 3 X X # 2 X X # 3 X X # 1 X X	take out brown block	2 X X # 0 X X # 3 X X # 2 X X # 3 X X # X X X
+3 X X # 3 X X # 1 X X # 0 X X # 2 X X # 0 X X	take out red block	3 X X # 3 X X # 1 X X # 0 X X # X X X # 0 X X
+1 X X # 0 X X # 0 X X # 0 X X # 0 X X	add brown block on top of blue block	1 X X # 0 X X # 0 X X # 0 X X # 0 1 X
+1 X X # 3 X X # 1 X X # 3 X X # 3 X X	take out brown block at front	X X X # 3 X X # 1 X X # 3 X X # 3 X X
+2 X X # 1 X X # 1 X X # 1 X X	add one brown block on top of pink block	2 1 X # 1 X X # 1 X X # 1 X X
+0 X X # 3 X X # 0 X X # 0 X X # 3 X X # 3 X X	delete last block	0 X X # 3 X X # 0 X X # 0 X X # 3 X X # X X X
+0 X X # 1 X X # 1 X X # 0 X X # 1 X X # 1 X X	add blue block on top of front block	0 0 X # 1 X X # 1 X X # 0 X X # 1 X X # 1 X X
+1 X X # 2 X X # 2 X X # 2 X X # 1 X X # 2 X X	delete front block	X X X # 2 X X # 2 X X # 2 X X # 1 X X # 2 X X
+0 X X # 1 X X # 1 X X # 1 X X	add blue block ontop of brown block	0 X X # 1 X X # 1 X X # 1 0 X
+3 X X # 2 X X # 2 X X # 2 X X # 3 X X # 2 X X	add orange block on top of front and middle block	3 3 X # 2 X X # 2 X X # 2 X X # 3 3 X # 2 X X
+2 X X # 3 X X # 2 X X # 2 X X	delete front red block	X X X # 3 X X # 2 X X # 2 X X
+1 X X # 1 X X # 3 X X # 1 X X # 3 X X # 1 X X	delete last block	1 X X # 1 X X # 3 X X # 1 X X # 3 X X # X X X
+3 1 X # 1 3 X # 3 1 X	add brown block on top of orange block	3 1 X # 1 3 1 # 3 1 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	delete orange blocks	3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X
+3 3 X # 3 2 X # 3 3 X	delete middle block	3 3 2 # 3 2 X # 3 3 2
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X	add 2 orange blocks	2 2 X # 2 0 3 # 2 2 X # 2 0 3 # 2 2 X

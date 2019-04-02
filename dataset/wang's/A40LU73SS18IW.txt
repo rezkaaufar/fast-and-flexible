@@ -1,0 +1,54 @@
+2 X X # 1 X X # 2 X X # 1 X X # 0 X X # 0 X X	move	X X X # 1 X X # X X X # 1 X X # 0 X X # 0 X X
+3 X X # 0 X X # 0 X X # 2 X X # 0 X X	move	3 X X # 0 X X # 0 X X # X X X # 0 X X
+1 X X # 2 X X # 0 X X # 2 X X # 3 X X # 0 X X	move	X X X # 2 X X # 0 X X # 2 X X # 3 X X # 0 X X
+3 X X # 2 X X # 0 X X # 2 X X # 1 X X	move	3 X X # 2 X X # 0 X X # 2 X X # X X X
+1 X X # 0 X X # 2 X X # 1 X X # 0 X X # 2 X X	move	1 X X # 0 X X # X X X # 1 X X # 0 X X # X X X
+2 X X # 1 X X # 1 X X # 3 X X # 2 X X	move	2 X X # X X X # X X X # 3 X X # 2 X X
+1 X X # 1 X X # 0 X X # 0 X X # 1 X X # 3 X X	move	1 X X # 1 X X # X X X # X X X # 1 X X # 3 X X
+3 X X # 1 X X # 3 X X # 3 X X # 1 X X	move	X X X # 1 X X # X X X # X X X # 1 X X
+3 X X # 3 X X # 1 X X # 1 X X	build	3 X X # 3 X X # 1 3 X # 1 3 X
+1 X X # 1 X X # 1 X X # 1 X X	match	1 X X # 1 X X # 1 X X # X X X
+1 X X # 0 X X # 0 X X # 1 X X	build	1 X X # 0 X X # 0 X X # 1 1 X
+3 X X # 3 X X # 2 X X # 3 X X # 2 X X # 3 X X	match	3 X X # 3 X X # X X X # 3 X X # X X X # 3 X X
+1 X X # 1 X X # 0 X X # 0 X X	build	1 X X # 1 X X # 0 X X # 0 0 X
+2 X X # 3 X X # 2 X X # 2 X X	match	X X X # 3 X X # X X X # X X X
+1 X X # 3 X X # 3 X X # 3 X X	less	1 X X # 3 X X # 3 X X # X X X
+1 X X # 1 X X # 2 X X # 1 X X # 2 X X	less	1 X X # 1 X X # X X X # 1 X X # X X X
+3 X X # 3 X X # 1 X X # 1 X X	add 2 orange blocks	3 X X # 3 X X # 1 3 X # 1 3 X
+1 X X # 1 X X # 1 X X # 0 X X # 1 X X # 1 X X	just blue	X X X # X X X # X X X # 0 X X # X X X # X X X
+3 3 X # 1 1 X # 3 3 X # 1 1 X	less brown more orange	3 3 3 # 1 1 X # 3 3 3 # 1 1 X
+3 3 3 # 1 1 X # 3 3 3 # 1 1 X	less brown	3 3 3 # 1 X X # 3 3 3 # 1 X X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	less blue	0 X X # 2 X X # 0 X X # 2 X X # 0 X X
+0 X X # 2 X X # 0 X X # 2 X X # 0 X X	more red	0 X X # 2 2 X # 0 X X # 2 2 X # 0 X X
+3 3 X # 3 0 X # 3 3 X # 3 0 X # 3 3 X	add brown	3 3 X # 3 0 1 # 3 3 X # 3 0 1 # 3 3 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X	add blue	1 0 0 # 0 1 X # 1 0 0 # 0 1 X
+2 0 X # 0 2 X # 2 0 X # 0 2 X	add blue	2 0 X # 0 2 0 # 2 0 X # 0 2 0
+2 2 X # 2 3 X # 2 2 X # 2 3 X # 2 2 X	add 3 orange	2 2 3 # 2 3 X # 2 2 3 # 2 3 X # 2 2 3
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X	no blue	2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X
+2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X	add orange	2 2 3 # 2 3 X # 2 2 3 # 2 3 X # 2 2 3
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	add blue	3 0 X # 0 3 0 # 3 0 X # 0 3 0 # 3 0 X
+0 0 X # 2 2 X # 0 0 X	less red	0 0 X # 2 X X # 0 0 X
+0 0 X # 2 X X # 0 0 X	red on top of blue	0 0 2 # 2 X X # 0 0 2
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	add brown	0 0 1 # 2 2 X # 0 0 1 # 2 2 X # 0 0 1
+3 X X # 3 X X # 1 X X	add brown	3 X X # 3 1 X # 1 1 X
+2 X X # 2 X X # 2 X X	add 2 brown	2 X X # 2 1 X # 2 1 X
+2 X X # 2 X X # 3 X X	add 1 orange	2 X X # 2 X X # 3 3 X
+1 X X # 2 X X # 1 X X # 2 X X # 1 X X # 2 X X	no brown	X X X # 2 X X # X X X # 2 X X # X X X # 2 X X
+2 X X # 2 X X # 3 X X # 3 X X	no red	X X X # X X X # 3 X X # 3 X X
+3 X X # 0 X X # 0 X X # 3 X X # 3 X X	add 4 orange	3 X X # 0 3 X # 0 3 X # 3 3 X # 3 3 X
+2 X X # 2 X X # 2 X X # 1 X X	add 1 brown	2 X X # 2 X X # 2 X X # 1 1 X
+0 X X # 2 X X # 2 X X # 0 X X	no blue	X X X # 2 X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X	only 1 red	2 X X # X X X # X X X # X X X
+1 X X # 0 X X # 0 X X	add 1 blue	1 0 X # 0 X X # 0 X X
+2 0 X # 0 0 X	add 1 orange	2 0 3 # 0 0 X
+2 3 X # 2 3 X	less orange	2 3 X # 2 X X
+0 2 X # 2 X X # 3 0 X # 3 3 X	less red	0 X X # 2 X X # 3 0 X # 3 3 X
+1 X X # 0 2 X	add 1 blue	1 0 X # 0 2 X
+3 0 X # 0 2 X	add 1 red	3 0 X # 0 X X
+0 2 X # 2 3 X # 0 3 X # 0 X X	add 2 red on top	0 2 2 # 2 3 2 # 0 3 2 # 0 X X
+0 2 2 # 2 3 2 # 0 3 2 # 0 X X	1 less red	0 2 X # 2 3 2 # 0 3 2 # 0 X X
+0 X X # 0 1 X # 0 1 X	add 1 blue	0 0 X # 0 1 0 # 0 1 X
+0 0 X # 0 1 0 # 0 1 X	1 less blue	0 0 X # 0 1 X # 0 1 X
+0 X X # 3 X X	no blue	X X X # 3 X X
+3 X X # 1 X X # 3 3 X # 2 2 X	no orange on end	X X X # 1 X X # 3 3 X # 2 2 X
+0 X X # 2 X X # 0 2 X # 2 1 X	add brown	0 X X # 2 1 X # 0 2 1 # 2 1 1

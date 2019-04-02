@@ -1,0 +1,59 @@
+3 X X # 0 X X # 1 X X # 0 X X # 1 X X	no blue cubes	3 X X # X X X # 1 X X # X X X # 1 X X
+2 X X # 1 X X # 3 X X # 0 X X # 1 X X	no brown cubes	2 X X # X X X # 3 X X # 0 X X # X X X
+2 X X # 2 X X # 1 X X # 2 X X # 3 X X # 3 X X	no orange cubes	2 X X # 2 X X # 1 X X # 2 X X # X X X # X X X
+3 X X # 2 X X # 1 X X # 3 X X # 1 X X	no orange cubes	X X X # 2 X X # 1 X X # X X X # 1 X X
+0 X X # 0 X X # 1 X X # 3 X X # 1 X X	no orange cubes	0 X X # 0 X X # 1 X X # X X X # 1 X X
+2 X X # 0 X X # 3 X X # 1 X X # 1 X X # 3 X X	no orange cubes	2 X X # 0 X X # X X X # 1 X X # 1 X X # X X X
+2 X X # 3 X X # 3 X X # 1 X X # 0 X X	no blue cubes	2 X X # 3 X X # 3 X X # 1 X X # X X X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X	-1 right	2 X X # 2 X X # 2 X X # 2 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 1 X X	-1 right	1 X X # 1 X X # 1 X X # 1 X X # 2 X X # X X X
+2 X X # 3 X X # 2 X X # 2 X X	-1 right	2 X X # 3 X X # 2 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 0 X X # 0 X X	no brown cubes	X X X # X X X # X X X # X X X # 0 X X # 0 X X
+2 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	no red cubes	X X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+0 X X # 2 X X # 2 X X # 2 X X	no blue cubes	X X X # 2 X X # 2 X X # 2 X X
+2 X X # 3 X X # 2 X X # 3 X X # 2 X X	+1 red cube right	2 X X # 3 X X # 2 X X # 3 X X # 2 2 X
+1 X X # 1 X X # 2 X X # 1 X X	-1 left	X X X # 1 X X # 2 X X # 1 X X
+1 X X # 0 X X # 1 X X # 1 X X # 1 X X	-1 right	1 X X # 0 X X # 1 X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 1 X X	-1 left	X X X # 3 X X # 3 X X # 3 X X # 3 X X # 1 X X
+2 2 X # 1 1 X # 2 2 X # 1 1 X	no brown cubes	2 2 X # 1 X X # 2 2 X # 1 X X
+2 2 X # 1 X X # 2 2 X # 1 X X	add brown cubes	2 2 1 # 1 X X # 2 2 1 # 1 X X
+3 1 X # 1 3 X # 3 1 X # 1 3 X	add brown cubes	3 1 1 # 1 3 X # 3 1 1 # 1 3 X
+3 1 X # 1 3 X # 3 1 X # 1 3 X	add brown cubes	3 1 X # 1 3 1 # 3 1 X # 1 3 1
+0 0 X # 0 1 X # 0 0 X # 0 1 X # 0 0 X # 0 1 X	no blue cubes	0 X X # 0 1 X # 0 X X # 0 1 X # 0 X X # 0 1 X
+3 2 X # 2 3 X # 3 2 X	1 orange cube top	3 2 X # 2 3 3 # 3 2 X
+2 2 X # 2 3 X # 2 2 X # 2 3 X # 2 2 X # 2 3 X	3 brown cubes	2 2 1 # 2 3 X # 2 2 1 # 2 3 X # 2 2 1 # 2 3 X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	no orange cubes	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X
+0 0 X # 2 2 X # 0 0 X # 2 2 X	no red cubes	0 0 X # 2 X X # 0 0 X # 2 X X
+0 0 X # 2 X X # 0 0 X # 2 X X	blue cubes top	0 0 0 # 2 X X # 0 0 0 # 2 X X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X	brown cubes top	2 2 X # 3 3 1 # 2 2 X # 3 3 1 # 2 2 X
+2 3 X # 3 2 X # 2 3 X	no orange cubes	2 X X # 3 2 X # 2 X X
+3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X	no blue cubes	3 3 X # 0 X X # 3 3 X # 0 X X # 3 3 X # 0 X X
+2 X X # 1 X X # 2 X X # 1 X X # 1 X X	no red cubes	X X X # 1 X X # X X X # 1 X X # 1 X X
+1 X X # 1 X X # 0 X X # 1 X X # 1 X X	no blue cubes	1 X X # 1 X X # X X X # 1 X X # 1 X X
+1 X X # 1 X X # 0 X X # 1 X X # 1 X X	remove all but 1 right	X X X # X X X # X X X # X X X # 1 X X
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	remove all but 1 left	2 X X # X X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X	add brown cubes	0 1 X # 0 1 X # 0 1 X # 0 1 X
+0 1 X # 0 1 X # 0 1 X # 0 1 X	-1 left	0 X X # 0 1 X # 0 1 X # 0 1 X
+1 X X # 2 X X # 2 X X # 1 X X	no brown cubes	X X X # 2 X X # 2 X X # X X X
+3 X X # 2 X X # 2 X X # 2 X X # 2 X X # 3 X X	no red cubes	3 X X # X X X # X X X # X X X # X X X # 3 X X
+2 X X # 2 X X # 2 X X # 2 X X	add red cubes	2 2 X # 2 2 X # 2 2 X # 2 2 X
+2 2 X # 2 2 X # 2 2 X # 2 2 X	-1 left	2 X X # 2 2 X # 2 2 X # 2 2 X
+1 X X # 0 X X # 0 X X # 0 X X # 0 X X # 0 X X	add blue cubes	1 X X # 0 0 X # 0 0 X # 0 0 X # 0 0 X # 0 0 X
+1 X X # 1 X X # 0 X X # 1 X X	no blue cubes	1 X X # 1 X X # X X X # 1 X X
+1 X X # 0 X X # 1 X X	remove all but 1 right	X X X # X X X # 1 X X
+2 X X # 3 3 X # 2 X X	remove orange cube	2 X X # 3 X X # 2 X X
+3 X X # 2 X X # 2 3 X	add blue cubes top	3 0 X # 2 X X # 2 3 0
+0 3 X # 3 X X # 0 0 X	no blue cubes	0 3 X # 3 X X # 0 X X
+0 3 X # 3 X X # 0 X X	remove middle	0 3 X # X X X # 0 X X
+3 3 X # 0 2 X # 0 3 X # 0 0 X	add orange cubes	3 3 3 # 0 2 3 # 0 3 3 # 0 0 3
+3 3 3 # 0 2 3 # 0 3 3 # 0 0 3	-1 right	3 3 3 # 0 2 3 # 0 3 3 # 0 0 X
+0 X X # 3 X X	no blue cubes	X X X # 3 X X
+3 X X # 3 X X # 2 0 X # 3 3 X	add red cubes top	3 2 X # 3 2 X # 2 0 2 # 3 3 2
+3 X X # 2 X X # 0 X X # 2 3 X	+1 red left	3 2 X # 2 X X # 0 X X # 2 3 X
+1 X X # 3 X X # 3 X X	add red cubes	1 2 X # 3 2 X # 3 2 X
+1 2 X # 3 2 X # 3 2 X	remove all but 1 right	1 X X # 3 X X # 3 2 X
+1 X X # 3 X X # 3 X X # 3 X X	add orange cubes	1 3 X # 3 3 X # 3 3 X # 3 3 X
+0 X X # 0 2 X	+1 red left	0 2 X # 0 2 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	-1 cube left	0 0 X # 0 3 X # 0 3 3 # 0 3 X # 0 0 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	+1 orange cube	0 0 X # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 X	add blue cubes	0 0 0 # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 0

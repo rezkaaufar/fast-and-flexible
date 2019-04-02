@@ -1,0 +1,46 @@
+3 X X # 0 X X # 3 X X # 2 X X # 0 X X	d	X X X # 0 X X # X X X # 2 X X # 0 X X
+3 X X # 1 X X # 2 X X # 2 X X # 1 X X # 3 X X	fds	3 X X # X X X # 2 X X # 2 X X # X X X # 3 X X
+0 X X # 2 X X # 1 X X # 3 X X # 2 X X # 0 X X	sdf	0 X X # 2 X X # X X X # 3 X X # 2 X X # 0 X X
+0 X X # 1 X X # 2 X X # 1 X X # 0 X X	fd	0 X X # X X X # 2 X X # X X X # 0 X X
+1 X X # 0 X X # 2 X X # 2 X X # 3 X X # 3 X X	fd	1 X X # 0 X X # X X X # X X X # 3 X X # 3 X X
+2 X X # 3 X X # 0 X X # 2 X X # 2 X X # 1 X X	gfd	X X X # 3 X X # 0 X X # X X X # X X X # 1 X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X # 1 X X	fgsf	0 X X # 0 X X # 0 X X # 0 X X # 0 X X # 1 1 X
+3 X X # 3 X X # 2 X X # 2 X X	gfd	3 2 X # 3 X X # 2 X X # 2 X X
+3 X X # 1 X X # 1 X X # 3 X X	sdgh	3 X X # 1 X X # 1 X X # 3 3 X
+1 X X # 0 X X # 1 X X # 1 X X	sjf	1 1 X # 0 X X # 1 X X # 1 X X
+0 X X # 3 X X # 0 X X # 0 X X # 3 X X	gfd	0 3 X # 3 X X # 0 X X # 0 X X # 3 X X
+1 X X # 2 X X # 1 X X # 2 X X # 1 X X # 1 X X	dthj	1 X X # 2 X X # 1 X X # 2 X X # 1 X X # X X X
+0 X X # 0 X X # 1 X X # 0 X X	fg	0 X X # 0 X X # 1 X X # X X X
+0 X X # 0 X X # 2 X X # 0 X X # 2 X X # 2 X X	fgd	0 X X # 0 X X # 2 X X # 0 X X # 2 X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X # 1 X X	gdf	1 X X # 1 X X # 3 X X # 1 X X # 1 1 X
+3 X X # 3 X X # 3 X X # 3 X X	gfd	3 X X # 3 X X # 3 X X # 3 1 X
+0 2 X # 2 0 X # 0 2 X	df	0 X X # 2 0 X # 0 X X
+2 2 X # 3 3 X # 2 2 X	df	2 2 X # 3 3 3 # 2 2 X
+1 1 X # 0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X	fr	1 1 X # 0 X X # 1 1 X # 0 X X # 1 1 X # 0 X X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X	fds	0 2 X # 2 X X # 0 2 X # 2 X X # 0 2 X # 2 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	dfs	2 3 X # 3 2 3 # 2 3 X # 3 2 3
+0 0 X # 3 3 X # 0 0 X # 3 3 X	df	0 0 0 # 3 3 X # 0 0 0 # 3 3 X
+3 1 X # 1 3 X # 3 1 X	d	3 1 2 # 1 3 X # 3 1 2
+2 2 X # 2 0 X # 2 2 X # 2 0 X	d	2 2 X # 2 X X # 2 2 X # 2 X X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	d	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X
+0 1 X # 1 0 X # 0 1 X # 1 0 X	ed	0 X X # 1 0 X # 0 X X # 1 0 X
+3 X X # 3 X X # 3 X X # 3 X X	ed	3 1 X # 3 1 X # 3 1 X # 3 1 X
+2 X X # 2 X X # 0 X X # 2 X X	d	2 X X # X X X # X X X # X X X
+2 X X # 2 X X # 0 X X # 2 X X # 2 X X # 2 X X	d	X X X # X X X # 0 X X # X X X # X X X # X X X
+3 X X # 3 X X # 3 X X	d	X X X # X X X # 3 X X
+3 X X # 1 X X # 3 X X # 1 X X # 1 X X	s	3 X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 3 X X # 3 X X	dd	0 X X # 0 X X # X X X # X X X
+2 X X # 0 X X # 0 X X	d	X X X # X X X # 0 X X
+3 X X # 1 X X # 1 X X # 1 X X	dd	3 1 X # 1 X X # 1 X X # 1 X X
+3 X X # 0 X X # 3 X X # 3 X X	d	3 X X # X X X # X X X # X X X
+0 X X # 2 X X # 2 X X # 0 X X	d	X X X # X X X # X X X # 0 X X
+3 X X # 0 X X # 3 3 X	d	3 X X # X X X # 3 X X
+2 2 X # 2 2 X	d	2 2 2 # 2 2 2
+1 X X # 0 2 X	d	1 X X # 0 X X
+0 2 X # 2 X X	s	0 2 X # X X X
+0 X X # 1 X X # 1 0 X	sd	0 0 X # 1 X X # 1 0 0
+1 X X # 3 2 X # 2 1 X	s	1 3 X # 3 2 X # 2 1 X
+0 0 X # 1 1 X	d	0 0 X # 1 X X
+0 1 X # 0 X X # 1 0 X	d	0 1 X # 0 X X # 1 X X
+1 0 X # 0 X X	d	1 X X # X X X
+3 X X # 3 3 X	d	3 X X # 3 X X

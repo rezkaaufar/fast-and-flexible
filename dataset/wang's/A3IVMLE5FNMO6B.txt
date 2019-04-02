@@ -1,0 +1,3 @@
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 0 X X	up	X X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 0 X X	over	X X X # 2 X X # 1 X X # 1 X X # 2 X X # 0 X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X	over	X X X # 2 X X # 3 X X # 2 X X # 3 X X

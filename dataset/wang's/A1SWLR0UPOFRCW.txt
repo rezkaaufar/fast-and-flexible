@@ -1,0 +1,110 @@
+3 X X # 3 X X # 3 X X # 1 X X # 0 X X	discard blue	3 X X # 3 X X # 3 X X # 1 X X # X X X
+1 X X # 2 X X # 1 X X # 0 X X # 2 X X	discard blue	1 X X # 2 X X # 1 X X # X X X # 2 X X
+1 X X # 2 X X # 1 X X # 3 X X # 3 X X # 0 X X	discard all orange	1 X X # 2 X X # 1 X X # X X X # X X X # 0 X X
+3 X X # 2 X X # 2 X X # 2 X X # 1 X X	discard all red	3 X X # X X X # X X X # X X X # 1 X X
+0 X X # 3 X X # 2 X X # 2 X X # 1 X X	discard brown	0 X X # 3 X X # 2 X X # 2 X X # X X X
+3 X X # 3 X X # 1 X X # 0 X X # 2 X X # 3 X X	discard red	3 X X # 3 X X # 1 X X # 0 X X # X X X # 3 X X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X	add orange fifth block	2 X X # 2 X X # 2 X X # 2 X X # 2 3 X
+2 X X # 2 X X # 2 X X # 2 X X	remove fourth block	2 X X # 2 X X # 2 X X # X X X
+3 X X # 0 X X # 3 X X # 0 X X # 3 X X # 3 X X	add orange one, three, five, six	3 3 X # 0 X X # 3 3 X # 0 X X # 3 3 X # 3 3 X
+0 X X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X	add red three, four, six	0 X X # 0 X X # 2 2 X # 2 2 X # 0 X X # 2 2 X
+0 X X # 3 X X # 3 X X # 0 X X # 3 X X	add blue one, four	0 0 X # 3 X X # 3 X X # 0 0 X # 3 X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X	add brown one, two, three, four, five	1 1 X # 1 1 X # 1 1 X # 1 1 X # 1 1 X
+2 X X # 1 X X # 1 X X # 2 X X # 2 X X # 2 X X	add red six	2 X X # 1 X X # 1 X X # 2 X X # 2 X X # 2 2 X
+3 X X # 0 X X # 3 X X # 3 X X # 3 X X	add blue five	3 X X # 0 X X # 3 X X # 3 X X # 3 0 X
+3 X X # 2 X X # 2 X X # 2 X X # 3 X X	add orange to five	3 X X # 2 X X # 2 X X # 2 X X # 3 3 X
+3 X X # 2 X X # 2 X X # 2 X X # 2 X X	discard orange	X X X # 2 X X # 2 X X # 2 X X # 2 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	remove row two	2 X X # 3 X X # 2 X X # 3 X X
+2 X X # 3 X X # 2 X X # 3 X X	add red to one, two, three, four	2 2 X # 3 2 X # 2 2 X # 3 2 X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	row two discard orange\\	2 X X # 3 2 X # 2 X X # 3 2 X
+2 X X # 3 2 X # 2 X X # 3 2 X	add one red all columns	2 2 X # 3 2 2 # 2 2 X # 3 2 2
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	add one brown to column one, three, and five	3 3 1 # 3 1 X # 3 3 1 # 3 1 X # 3 3 1 # 3 1 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X	add one blue to column one and three	2 2 0 # 2 0 X # 2 2 0 # 2 0 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X	discard brown	3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X
+3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X	add one blue to all columns	3 3 0 # 3 0 X # 3 3 0 # 3 0 X # 3 3 0
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	remove row two	1 X X # 0 X X # 1 X X # 0 X X # 1 X X # 0 X X
+1 X X # 0 X X # 1 X X # 0 X X # 1 X X # 0 X X	add one brown to column two, four, and six	1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X # 0 1 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X	discard brown	3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X
+3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X	add red to all columns	3 3 2 # 3 2 X # 3 3 2 # 3 2 X # 3 3 2
+0 0 X # 0 2 X # 0 0 X # 0 2 X	discard red	0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X	add brown to all columns	0 0 1 # 0 1 X # 0 0 1 # 0 1 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X	remove row two blue	0 3 X # 3 X X # 0 3 X # 3 X X
+0 1 X # 1 0 X # 0 1 X # 1 0 X	add orange to column one and three	0 1 3 # 1 0 X # 0 1 3 # 1 0 X
+1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X	discard row two red	1 1 X # 2 X X # 1 1 X # 2 X X # 1 1 X
+1 1 X # 2 X X # 1 1 X # 2 X X # 1 1 X	add blue to column one, three, five	1 1 0 # 2 X X # 1 1 0 # 2 X X # 1 1 0
+1 X X # 1 X X # 1 X X # 2 X X # 2 X X # 1 X X	remove red	1 X X # 1 X X # 1 X X # X X X # X X X # 1 X X
+1 X X # 3 X X # 1 X X	discard column two, three	1 X X # X X X # X X X
+0 X X # 0 X X # 1 X X # 1 X X	discard column one, two, and three	X X X # X X X # X X X # 1 X X
+0 X X # 0 X X # 0 X X # 3 X X # 3 X X # 3 X X	add blue to column two, three, four, five, and six	0 X X # 0 0 X # 0 0 X # 3 0 X # 3 0 X # 3 0 X
+0 X X # 3 X X # 3 X X # 3 X X	remove column one, two, and three	X X X # X X X # X X X # 3 X X
+3 X X # 3 X X # 0 X X # 3 X X # 3 X X # 3 X X	add orange to column one, two, three, four, and five	3 X X # 3 3 X # 0 3 X # 3 3 X # 3 3 X # 3 3 X
+0 X X # 2 X X # 0 X X # 2 X X # 2 X X # 0 X X	remove column one, two, three, four, and five	X X X # X X X # X X X # X X X # X X X # 0 X X
+0 X X # 0 X X # 0 X X	add brown to column one and two	0 1 X # 0 1 X # 0 X X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X	remove blue	2 X X # X X X # 2 X X # 2 X X # X X X # X X X
+1 X X # 0 X X # 1 X X	remove column one and two	X X X # X X X # 1 X X
+3 X X # 1 2 X # 2 X X	remove column one	X X X # 1 2 X # 2 X X
+2 X X # 0 1 X	remove row two column one	2 X X # 0 1 X
+2 X X # 0 1 X	add brown column one	2 1 X # 0 1 X
+3 X X # 0 1 X # 0 0 X	add brown column one and two	3 1 X # 0 1 1 # 0 0 X
+1 1 X # 0 2 X	remove brown row two column one	1 X X # 0 2 X
+3 3 X # 1 0 X # 0 3 X # 1 0 X	remove blue row two	3 3 X # 1 X X # 0 3 X # 1 X X
+1 1 X # 1 X X	add red column one	1 1 2 # 1 X X
+0 X X # 0 X X	add orange column two	0 X X # 0 3 X
+0 0 X # 1 X X # 1 X X	add brown all columns	0 0 1 # 1 1 X # 1 1 X
+0 0 X # 1 1 X # 0 1 X	remove row two column one	0 X X # 1 1 X # 0 1 X
+1 X X # 0 0 X # 2 X X	add blue to column two and three	1 X X # 0 0 0 # 2 0 X
+1 X X # 1 X X # 0 X X # 3 X X # 1 X X	remove orange	1 X X # 1 X X # 0 X X # X X X # 1 X X
+1 X X # 3 X X # 0 X X # 2 X X # 2 X X	remove red	1 X X # 3 X X # 0 X X # X X X # X X X
+1 X X # 0 X X # 1 X X # 0 X X # 2 X X # 3 X X	remove orange	1 X X # 0 X X # 1 X X # 0 X X # 2 X X # X X X
+3 X X # 2 X X # 1 X X # 3 X X # 2 X X # 1 X X	remove orange	X X X # 2 X X # 1 X X # X X X # 2 X X # 1 X X
+0 X X # 2 X X # 2 X X # 1 X X # 2 X X	remove red	0 X X # X X X # X X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove orange	X X X # X X X # X X X # X X X # X X X
+3 X X # 0 X X # 0 X X # 3 X X	add orange column four	3 X X # 0 X X # 0 X X # 3 3 X
+2 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove red	X X X # 3 X X # 3 X X # 3 X X # 3 X X
+1 X X # 3 X X # 1 X X # 1 X X # 3 X X	remove brown	X X X # 3 X X # X X X # X X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X # 2 X X # 2 X X	remove red	3 X X # 3 X X # X X X # 3 X X # X X X # X X X
+0 X X # 0 X X # 2 X X # 0 X X	add blue column four	0 X X # 0 X X # 2 X X # 0 0 X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X	add orange column one	0 3 X # 0 X X # 3 X X # 3 X X # 3 X X
+0 X X # 0 X X # 3 X X # 3 X X # 0 X X	remove column one	X X X # 0 X X # 3 X X # 3 X X # 0 X X
+1 X X # 3 X X # 3 X X # 1 X X # 3 X X	remove orange	1 X X # X X X # X X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 0 X X # 0 X X # 0 X X	remove column one	X X X # 3 X X # 3 X X # 0 X X # 0 X X # 0 X X
+3 X X # 3 X X # 2 X X # 2 X X # 3 X X # 2 X X	add orange column six	3 X X # 3 X X # 2 X X # 2 X X # 3 X X # 2 3 X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	add red column one, three, five	0 0 2 # 2 2 X # 0 0 2 # 2 2 X # 0 0 2
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	remove blue	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X
+1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X	add orange to all columns	1 1 3 # 1 3 X # 1 1 3 # 1 3 X # 1 1 3
+0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X	remove brown row two	0 0 X # 1 X X # 0 0 X # 1 X X # 0 0 X
+0 0 X # 1 X X # 0 0 X # 1 X X # 0 0 X	add orange column one, three, five	0 0 3 # 1 X X # 0 0 3 # 1 X X # 0 0 3
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X	remove red row two	2 X X # 3 3 X # 2 X X # 3 3 X # 2 X X
+0 0 X # 0 3 X # 0 0 X	remove orange	0 0 X # 0 X X # 0 0 X
+0 0 X # 0 X X # 0 0 X	add blue all columns	0 0 0 # 0 0 X # 0 0 0
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X # 2 0 X	remove blue	2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X # 2 X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	remove orange	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X	add brown all columns	0 0 1 # 0 1 X # 0 0 1 # 0 1 X # 0 0 1 # 0 1 X
+0 1 X # 1 0 X # 0 1 X	remove brown row two	0 X X # 1 0 X # 0 X X
+0 X X # 1 0 X # 0 X X	add red all columns	0 2 X # 1 0 2 # 0 2 X
+0 2 X # 2 0 X # 0 2 X # 2 0 X	remove red row two	0 X X # 2 0 X # 0 X X # 2 0 X
+0 X X # 2 0 X # 0 X X # 2 0 X	add orange all columns	0 3 X # 2 0 3 # 0 3 X # 2 0 3
+3 3 X # 3 2 X # 3 3 X # 3 2 X	remove red	3 3 X # 3 X X # 3 3 X # 3 X X
+3 3 X # 3 X X # 3 3 X # 3 X X	add orange all columns	3 3 3 # 3 3 X # 3 3 3 # 3 3 X
+1 X X # 3 X X # 3 X X # 1 X X # 1 X X # 3 X X	remove orange	1 X X # X X X # X X X # 1 X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 1 X X	remove column two, three, four	3 X X # X X X # X X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 3 X X	add blue column two, three, four, five, six	0 X X # 0 0 X # 0 0 X # 0 0 X # 3 0 X # 3 0 X
+0 X X # 1 X X # 1 X X	add brown column two, three	0 X X # 1 1 X # 1 1 X
+1 X X # 2 X X # 2 X X # 2 X X	add red column two, three, four	1 X X # 2 2 X # 2 2 X # 2 2 X
+1 X X # 0 X X # 1 X X # 0 X X # 1 X X # 0 X X	add blue column two, four, six	1 X X # 0 0 X # 1 X X # 0 0 X # 1 X X # 0 0 X
+2 X X # 1 X X # 2 X X # 2 X X	add red column two, three, four	2 X X # 1 2 X # 2 2 X # 2 2 X
+1 X X # 1 X X # 2 X X # 1 X X	add brown column one, two, four	1 1 X # 1 1 X # 2 X X # 1 1 X
+0 X X # 0 X X # 3 X X # 0 X X	remove blue	X X X # X X X # 3 X X # X X X
+2 X X # 2 X X # 3 X X # 3 X X # 2 X X	add red column one, two, five	2 2 X # 2 2 X # 3 X X # 3 X X # 2 2 X
+1 2 X # 3 3 X # 2 X X # 1 3 X	remove red	1 X X # 3 3 X # X X X # 1 3 X
+1 X X # 3 3 X # X X X # 1 3 X	remove row two	1 X X # 3 X X # X X X # 1 X X
+2 1 X # 2 2 X # 2 X X # 3 X X	add brown column two, three, four	2 1 X # 2 2 1 # 2 1 X # 3 1 X
+1 2 X # 2 X X # 3 X X # 3 3 X	add red column one, two, three	1 2 2 # 2 2 X # 3 2 X # 3 3 X
+2 2 X # 0 0 X # 0 X X # 3 0 X	remove red row two	2 X X # 0 0 X # 0 X X # 3 0 X
+1 1 X # 0 X X # 1 0 X	remove brown row two	1 X X # 0 X X # 1 0 X
+1 1 X # 1 0 X	remove brown row two	1 X X # 1 0 X
+2 3 X # 0 X X # 2 X X # 3 2 X	add blue column two, three, four	2 3 X # 0 0 X # 2 0 X # 3 2 0
+1 X X # 0 1 X	add brown column one	1 1 X # 0 1 X
+3 1 X # 0 0 X # 3 X X # 0 X X	add brown column one	3 1 1 # 0 0 X # 3 X X # 0 X X
+2 1 X # 1 2 X # 1 2 X # 0 1 X	add red column two, three, four	2 1 X # 1 2 2 # 1 2 2 # 0 1 2
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	add blue column one, five	0 0 0 # 0 2 2 # 0 2 2 # 0 2 X # 0 0 0

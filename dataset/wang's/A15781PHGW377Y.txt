@@ -1,0 +1,28 @@
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	mend	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	melt	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	melt	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	melt	2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X
+X X X # X X X # X X X # X X X # X X X # X X X	mend	2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move one	3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move two	3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move two	X X X # X X X # X X X # 2 X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move two	X X X # X X X # X X X # 2 X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move two	3 X X # 3 X X # 1 X X # X X X # 0 X X # 1 X X
+1 X X # 1 X X # 2 X X # 1 X X # 3 X X # 0 X X	move two	1 X X # 1 X X # X X X # 1 X X # 3 X X # 0 X X
+1 X X # 1 X X # X X X # 1 X X # 3 X X # 0 X X	move four	1 X X # 1 X X # X X X # 1 X X # 3 X X # 0 X X
+0 X X # 1 X X # 3 X X # 3 X X # 3 X X	move three	0 X X # X X X # 3 X X # 3 X X # 3 X X
+0 X X # 1 X X # 0 X X # 2 X X # 2 X X	move three	0 X X # X X X # 0 X X # 2 X X # 2 X X
+0 X X # 1 X X # 0 X X # 3 X X # 0 X X	move one	X X X # 1 X X # X X X # 3 X X # X X X
+3 X X # 0 X X # 0 X X # 1 X X # 2 X X # 2 X X	move one	3 X X # X X X # X X X # 1 X X # 2 X X # 2 X X
+2 X X # 3 X X # 2 X X # 0 X X # 3 X X	move one	2 X X # X X X # 2 X X # 0 X X # X X X
+0 X X # 2 X X # 0 X X # 3 X X # 0 X X	move two	0 X X # 2 X X # 0 X X # X X X # 0 X X
+1 X X # 0 X X # 1 X X # 1 X X # 1 X X # 1 X X	move two	1 X X # X X X # 1 X X # 1 X X # 1 X X # 1 X X
+3 X X # 3 X X # 3 X X # 2 X X # 3 X X # 2 X X	move three	3 X X # 3 X X # 3 X X # 2 X X # 3 X X # 2 2 X
+3 X X # 3 X X # 0 X X # 0 X X # 0 X X	move three	3 X X # 3 X X # 0 X X # 0 X X # X X X
+0 X X # 0 X X # 3 X X # 0 X X	move five	X X X # 0 X X # 3 X X # 0 X X
+2 X X # 1 X X # 2 X X # 2 X X # 2 X X # 1 X X	move five	2 X X # X X X # 2 X X # 2 X X # 2 X X # X X X
+3 X X # 3 X X # 2 X X # 2 X X	move off three	3 X X # 3 X X # X X X # X X X
+3 X X # 3 X X # 2 X X # 2 X X # 2 X X	stack two	3 X X # 3 X X # X X X # X X X # X X X
+3 X X # 3 X X # X X X # X X X # X X X	stack three	3 X X # 3 X X # X X X # X X X # X X X
+3 X X # 3 X X # X X X # X X X # X X X	stack three	3 3 X # 3 X X # X X X # X X X # X X X
+3 X X # 3 X X # X X X # X X X # X X X	stack three	3 3 X # 3 X X # X X X # X X X # X X X

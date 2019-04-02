@@ -1,0 +1,8 @@
+2 X X # 3 X X # 0 X X # 0 X X # 2 X X # 0 X X	2	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # X X X # X X X	2	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X

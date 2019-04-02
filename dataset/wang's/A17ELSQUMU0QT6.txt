@@ -1,0 +1,24 @@
+0 X X # 0 X X # 0 X X # 3 X X # 2 X X	a	X X X # X X X # X X X # 3 X X # 2 X X
+3 X X # 2 X X # 2 X X # 0 X X # 2 X X # 0 X X	take red out	3 X X # X X X # X X X # 0 X X # X X X # 0 X X
+1 X X # 0 X X # 0 X X # 3 X X # 2 X X	remove block 4	1 X X # 0 X X # 0 X X # X X X # 2 X X
+2 X X # 0 X X # 0 X X # 3 X X # 0 X X # 2 X X	remove block 4	2 X X # 0 X X # 0 X X # X X X # 0 X X # 2 X X
+0 X X # 2 X X # 0 X X # 1 X X # 3 X X # 1 X X	remove blue blocks	X X X # 2 X X # X X X # 1 X X # 3 X X # 1 X X
+2 X X # 3 X X # 0 X X # 2 X X # 0 X X	remove blue blocks	2 X X # 3 X X # X X X # 2 X X # X X X
+2 X X # 3 X X # 2 X X # 1 X X # 1 X X # 3 X X	remove pink blocks	X X X # 3 X X # X X X # 1 X X # 1 X X # 3 X X
+1 X X # 2 X X # 2 X X # 3 X X # 3 X X # 3 X X	remove pink blocks	1 X X # X X X # X X X # 3 X X # 3 X X # 3 X X
+1 X X # 1 X X # 0 X X # 0 X X # 1 X X	stack on blue blocks	1 X X # 1 X X # 0 2 X # 0 2 X # 1 X X
+1 X X # 1 X X # 0 X X # 0 X X # 1 X X	stack on blue	1 X X # 1 X X # 0 0 X # 0 0 X # 1 X X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X	stack on blue	0 0 X # 0 0 X # 1 X X # 1 X X # 0 0 X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X # 0 X X	remove last block	0 X X # 0 X X # 1 X X # 1 X X # 0 X X # X X X
+2 X X # 2 X X # 2 X X # 2 X X # 3 X X	double block 1	2 2 X # 2 X X # 2 X X # 2 X X # 3 X X
+0 X X # 0 X X # 0 X X # 3 X X # 0 X X # 3 X X	double block 1	0 0 X # 0 X X # 0 X X # 3 X X # 0 X X # 3 X X
+3 X X # 2 X X # 3 X X # 3 X X # 2 X X # 2 X X	remove block 1	X X X # 2 X X # 3 X X # 3 X X # 2 X X # 2 X X
+3 X X # 2 X X # 3 X X # 2 X X # 2 X X # 2 X X	double block one red	3 2 X # 2 X X # 3 X X # 2 X X # 2 X X # 2 X X
+0 X X # 0 X X # 3 X X # 0 X X # 3 X X	double block 1 blue	0 0 X # 0 X X # 3 X X # 0 X X # 3 X X
+1 X X # 1 X X # 1 X X # 1 X X	remove row 2	1 X X # 1 X X # 1 X X # 1 X X
+1 X X # 0 X X # 0 X X # 1 X X	remove blue	1 X X # X X X # X X X # 1 X X
+0 X X # 1 X X # 0 X X # 0 X X	double all blue	0 0 X # 1 X X # 0 0 X # 0 0 X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	change all to red	2 3 X # 3 2 2 # 2 3 X # 3 2 2
+3 3 X # 3 0 X # 3 3 X	add orange to blue	3 3 X # 3 0 3 # 3 3 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X	double orange	3 0 X # 0 3 3 # 3 0 X # 0 3 3
+3 2 X # 2 3 X # 3 2 X	remove row 3	3 2 X # 2 3 X # 3 2 X

@@ -1,0 +1,42 @@
+2 X X # 0 X X # 0 X X # 3 X X # 0 X X	discard second third and last block	2 X X # X X X # X X X # 3 X X # X X X
+3 X X # 1 X X # 3 X X # 0 X X # 1 X X	discard second and last block	3 X X # X X X # 3 X X # 0 X X # X X X
+3 X X # 0 X X # 0 X X # 0 X X # 2 X X # 2 X X	discard second to last block and last block	3 X X # 0 X X # 0 X X # 0 X X # X X X # X X X
+3 X X # 0 X X # 2 X X # 0 X X # 0 X X # 1 X X	discard third block	3 X X # 0 X X # X X X # 0 X X # 0 X X # 1 X X
+3 X X # 2 X X # 0 X X # 2 X X # 3 X X	discard first and last block	X X X # 2 X X # 0 X X # 2 X X # X X X
+2 X X # 2 X X # 3 X X # 2 X X # 1 X X # 1 X X	discard third block	2 X X # 2 X X # X X X # 2 X X # 1 X X # 1 X X
+0 X X # 0 X X # 2 X X # 0 X X	add red block first	0 2 X # 0 X X # 2 X X # 0 X X
+0 X X # 2 X X # 0 X X # 2 X X	add cyan block second and last	0 X X # 2 0 X # 0 X X # 2 0 X
+3 X X # 0 X X # 3 X X # 0 X X	remove last block	3 X X # 0 X X # 3 X X # X X X
+0 X X # 3 X X # 0 X X # 3 X X	add cyan block first and third	X X X # 3 X X # X X X # 3 X X
+0 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X	remove last block	0 X X # 2 X X # 2 X X # 2 X X # 2 X X # X X X
+2 X X # 2 X X # 2 X X # 0 X X # 0 X X	add cyan block last	2 X X # 2 X X # 2 X X # 0 X X # 0 0 X
+0 X X # 0 X X # 0 X X # 0 X X	add sh block first	0 1 X # 0 X X # 0 X X # 0 X X
+1 X X # 1 X X # 1 X X # 0 X X	remove sh block first	X X X # 1 X X # 1 X X # 0 X X
+3 X X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X	add o block first	3 3 X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X
+1 X X # 3 X X # 3 X X # 3 X X # 3 X X	add o block second third fourth last	1 X X # 3 3 X # 3 3 X # 3 3 X # 3 3 X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	remove r block first third fifth	2 X X # 3 3 X # 2 X X # 3 3 X # 2 X X # 3 3 X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	add sh block first third last	3 1 1 # 1 3 X # 3 1 1 # 1 3 X # 3 1 1
+2 2 X # 3 3 X # 2 2 X	remove r block first last	2 X X # 3 3 X # 2 X X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	add r block first third fifth	0 0 2 # 0 2 X # 0 0 2 # 0 2 X # 0 0 2 # 0 2 X
+3 3 X # 2 2 X # 3 3 X # 2 2 X	remove r block second last	3 3 X # 2 X X # 3 3 X # 2 X X
+2 2 X # 3 3 X # 2 2 X # 3 3 X	remove o block second last	2 2 X # 3 X X # 2 2 X # 3 X X
+2 2 X # 3 X X # 2 2 X # 3 X X	add r block first third	2 2 2 # 3 X X # 2 2 2 # 3 X X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X # 1 0 X	add cyan block first third fifth	1 1 0 # 1 0 X # 1 1 0 # 1 0 X # 1 1 0 # 1 0 X
+1 1 X # 0 0 X # 1 1 X	remove cyan block second	1 1 X # 0 X X # 1 1 X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	add cyan block first third last	1 1 0 # 1 0 X # 1 1 0 # 1 0 X # 1 1 0
+0 0 X # 2 2 X # 0 0 X	remove red block second	0 0 X # 2 X X # 0 0 X
+0 0 X # 2 X X # 0 0 X	add o block first last	0 0 3 # 2 X X # 0 0 3
+3 X X # 2 X X # 3 X X	add o block second	3 X X # 2 3 X # 3 X X
+3 X X # 3 X X # 1 X X	add o block first second	3 3 X # 3 3 X # 1 X X
+0 X X # 0 X X # 0 X X # 0 X X	remove cyan block first second third last	X X X # X X X # X X X # X X X
+3 X X # 3 X X # 0 X X # 3 X X # 0 X X	remove cyan	3 X X # 3 X X # X X X # 3 X X # X X X
+3 X X # 3 X X # X X X # 3 X X # X X X	remove second fourth	3 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 0 X X # 0 X X	remove sh	X X X # X X X # 0 X X # 0 X X
+X X X # X X X # 0 X X # 0 X X	remove fourth	X X X # X X X # X X X # 0 X X
+1 X X # 1 X X # 1 X X # 0 X X	add sh second third last	1 X X # 1 1 X # 1 1 X # 0 1 X
+1 X X # 0 X X # 1 X X # 1 X X	remove cyan	1 X X # X X X # 1 X X # 1 X X
+0 X X # 0 X X # 1 X X # 0 X X # 1 X X # 1 X X	remove sh	X X X # X X X # 1 X X # X X X # 1 X X # 1 X X
+0 X X # 0 X X # 1 X X # 0 X X # 1 X X # 1 X X	remove sh	0 X X # 0 X X # X X X # 0 X X # X X X # X X X
+0 X X # 0 X X # X X X # 0 X X # X X X # X X X	remove second fourth	0 X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X	add o second last	3 X X # 3 3 X # 1 3 X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove o	X X X # X X X # X X X # X X X # X X X # X X X

@@ -1,0 +1,9 @@
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X # 1 X X	remove the blue blocks	0 0 X # 0 0 X # 1 X X # 0 0 X # 0 0 X # 1 X X
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X # 1 X X	add four more blue blocks	0 0 X # 0 0 X # 1 X X # 0 0 X # 0 0 X # 1 X X
+1 X X # 0 X X # 0 X X # 2 X X # 3 X X	add two blue blocks	1 X X # 0 0 X # 0 0 X # 2 X X # 3 X X
+1 X X # 0 0 X # 0 0 X # 2 X X # 3 X X	remove the brown block	1 X X # 0 0 1 # 0 0 1 # 2 X X # 3 X X
+2 X X # 3 X X # 2 X X # 2 X X # 2 X X # 3 X X	there are two orange blocks	2 2 X # 3 X X # 2 2 X # 2 2 X # 2 2 X # 3 X X
+2 2 X # 3 X X # 2 2 X # 2 2 X # 2 2 X # 3 X X	remove the orange blocks	2 2 X # 3 X X # 2 2 X # 2 2 X # 2 2 X # 3 X X
+2 X X # 2 X X # 2 X X # 2 X X # 3 X X # 1 X X	there are eight red one brown and one orange	2 2 X # 2 2 X # 2 2 X # 2 2 X # 3 X X # 1 X X
+2 2 X # 2 2 X # 2 2 X # 2 2 X # 3 X X # 1 X X	there is one brown	2 2 2 # 2 2 2 # 2 2 2 # 2 2 2 # 3 X X # 1 X X
+2 2 X # 2 2 X # 2 2 X # 2 2 X # 3 X X # 1 X X	there is one brown	2 2 2 # 2 2 2 # 2 2 2 # 2 2 2 # 3 X X # 1 X X

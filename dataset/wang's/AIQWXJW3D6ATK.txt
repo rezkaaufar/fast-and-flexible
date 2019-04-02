@@ -1,0 +1,19 @@
+1 X X # 2 X X # 0 X X # 3 X X # 3 X X # 1 X X	hi	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # X X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 0 X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 0 X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 0 X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 0 X # 3 X X # 3 X X # 1 X X
+1 X X # 2 1 X # 0 X X # 3 X X # 3 X X # 1 X X	delete brown blocks	1 X X # 2 1 X # 0 0 X # 3 X X # 3 X X # 1 X X

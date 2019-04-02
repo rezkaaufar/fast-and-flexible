@@ -1,0 +1,10 @@
+2 X X # 0 X X # 1 X X # 0 X X # 1 X X	hop	2 X X # 0 X X # 1 3 X # 0 X X # 1 3 X
+3 X X # 1 X X # 0 X X # 3 X X # 0 X X	brown and blue	X X X # 1 X X # 0 X X # X X X # 0 X X
+0 X X # 3 X X # 2 X X # 1 X X # 0 X X	brown and blue and red	0 X X # X X X # 2 X X # 1 X X # 0 X X
+3 X X # 3 X X # 1 X X # 1 X X # 1 X X	brown	X X X # X X X # 1 X X # 1 X X # 1 X X
+2 X X # 0 X X # 3 X X # 2 X X # 3 X X	blue and orange	X X X # 0 X X # 3 X X # X X X # 3 X X
+1 X X # 2 X X # 3 X X # 3 X X # 0 X X # 1 X X	red and orange and blue	X X X # 2 X X # 3 X X # 3 X X # 0 X X # X X X
+0 X X # 2 X X # 0 X X # 1 X X # 3 X X # 3 X X	blue and brown and orange	0 X X # X X X # 0 X X # 1 X X # 3 X X # 3 X X
+0 X X # 0 X X # 2 X X # 1 X X # 2 X X # 3 X X	blue and red and orange	0 X X # 0 X X # 2 X X # X X X # 2 X X # 3 X X
+1 X X # 0 X X # 3 X X # 0 X X # 2 X X # 3 X X	brown and orange and red	1 X X # X X X # 3 X X # X X X # 2 X X # 3 X X
+2 X X # 1 X X # 2 X X # 2 X X	red brown red	2 X X # 1 X X # 2 X X # X X X

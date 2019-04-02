@@ -1,0 +1,68 @@
+2 X X # 3 X X # 3 X X # 1 X X # 3 X X # 1 X X	Put red square at end	X X X # 3 X X # 3 X X # 1 X X # 3 X X # 1 X X
+2 X X # 3 X X # 3 X X # 0 X X # 1 X X	Add red	X X X # 3 X X # 3 X X # 0 X X # 1 X X
+0 X X # 3 X X # 1 X X # 2 X X # 1 X X # 1 X X	remove orange	0 X X # X X X # 1 X X # 2 X X # 1 X X # 1 X X
+2 X X # 0 X X # 2 X X # 0 X X # 1 X X # 1 X X	goal	2 X X # X X X # 2 X X # X X X # 1 X X # 1 X X
+1 X X # 3 X X # 1 X X # 3 X X # 0 X X # 2 X X	start	1 X X # 3 X X # 1 X X # 3 X X # X X X # 2 X X
+1 X X # 1 X X # 2 X X # 0 X X # 1 X X	yes	X X X # X X X # 2 X X # 0 X X # X X X
+0 X X # 2 X X # 1 X X # 0 X X # 1 X X # 2 X X	remove red	0 X X # X X X # 1 X X # 0 X X # 1 X X # X X X
+0 X X # 0 X X # 0 X X # 3 X X # 0 X X	add blue on top	0 0 X # 0 X X # 0 X X # 3 X X # 0 X X
+2 X X # 1 X X # 1 X X # 1 X X	add red on top right side	2 X X # 1 X X # 1 X X # 1 2 X
+2 X X # 3 X X # 2 X X # 3 X X	add a orange on right side	2 X X # 3 X X # 2 X X # X X X
+0 X X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X	add a red on top left	0 2 X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X
+1 X X # 2 X X # 2 X X # 2 X X	remove a brown	X X X # 2 X X # 2 X X # 2 X X
+3 X X # 2 X X # 3 X X # 2 X X # 2 X X	remove all red	3 X X # X X X # 3 X X # X X X # X X X
+2 X X # 2 X X # 0 X X # 0 X X # 2 X X	add a red on the left	X X X # 2 X X # 0 X X # 0 X X # 2 X X
+2 X X # 2 X X # 2 X X # 2 X X	remove one red from the right	2 X X # 2 X X # 2 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X	add a brown on the top left	1 1 X # 1 X X # 1 X X # 1 X X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X	add a blue on the top left	2 0 X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	add three brown blocks on the top orange layer	3 3 1 # 3 1 X # 3 3 1 # 3 1 X # 3 3 1 # 3 1 X
+0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X	brown on blue	0 0 1 # 1 1 X # 0 0 1 # 1 1 X # 0 0 1
+0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X	remove brown middle	0 0 X # 1 X X # 0 0 X # 1 X X # 0 0 X
+0 0 X # 1 X X # 0 0 X # 1 X X # 0 0 X	brown top	0 0 1 # 1 X X # 0 0 1 # 1 X X # 0 0 1
+2 2 X # 2 3 X # 2 2 X	change orange to brown	2 2 X # 2 X X # 2 2 X
+2 2 X # 2 X X # 2 2 X	add brown on top of red	2 2 1 # 2 1 X # 2 2 1
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	add brown on top of brown	1 3 X # 3 1 1 # 1 3 X # 3 1 1 # 1 3 X # 3 1 1
+0 0 X # 0 2 X # 0 0 X # 0 2 X	add top blue	0 0 0 # 0 2 X # 0 0 0 # 0 2 X
+1 1 X # 3 3 X # 1 1 X # 3 3 X	remove top orange	1 1 X # 3 X X # 1 1 X # 3 X X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	remove all red	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X	add layer of blue	0 0 0 # 0 0 X # 0 0 0 # 0 0 X # 0 0 0 # 0 0 X
+1 3 X # 3 1 X # 1 3 X # 3 1 X	make top brown	1 3 X # 3 1 3 # 1 3 X # 3 1 3
+2 2 X # 2 0 X # 2 2 X	make everything red	2 2 2 # 2 0 X # 2 2 2
+2 2 X # 2 0 X # 2 2 X	add bottom layer	2 2 X # 2 X X # 2 2 X
+2 2 X # 2 X X # 2 2 X	add bottom red layer	2 2 2 # 2 2 X # 2 2 2
+1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X	add top red on brown	1 2 X # 2 1 2 # 1 2 X # 2 1 2 # 1 2 X
+0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X	add brown on blue	0 0 1 # 3 3 X # 0 0 1 # 3 3 X # 0 0 1
+0 0 1 # 3 3 X # 0 0 1 # 3 3 X # 0 0 1	remove middle orange	0 0 1 # 3 X X # 0 0 1 # 3 X X # 0 0 1
+0 X X # 3 X X # 0 X X # 0 X X	add blue on far right	0 X X # 3 0 X # 0 0 X # 0 0 X
+3 X X # 3 X X # 3 X X # 0 X X # 3 X X # 0 X X	add five orange on top right	3 X X # 3 0 X # 3 0 X # 0 0 X # 3 0 X # 0 0 X
+1 X X # 0 X X # 0 X X	remove brown	X X X # 0 X X # 0 X X
+0 X X # 0 X X # 1 X X	remove one blue and brown	0 X X # X X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X	add three red far left	2 2 X # 2 2 X # 2 2 X # 3 X X
+3 X X # 2 X X # 3 X X # 3 X X # 2 X X	add orange on red	3 X X # 2 1 X # 3 X X # 3 X X # 2 1 X
+0 X X # 0 X X # 0 X X # 2 X X # 2 X X	add four blue blocks top left	0 1 X # 0 1 X # 0 1 X # 2 1 X # 2 X X
+0 X X # 0 X X # 0 X X # 2 X X # 2 X X	top layer blue	0 X X # 0 0 X # 0 0 X # 2 0 X # 2 0 X
+0 X X # 0 X X # 0 X X # 2 X X # 2 X X	add blue on top	0 0 X # 0 0 X # 0 0 X # 2 0 X # 2 X X
+0 X X # 2 X X # 2 X X # 0 X X # 0 X X # 2 X X	remove red	0 X X # X X X # X X X # 0 X X # 0 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X	remove all, but one red on right	X X X # X X X # X X X # X X X # 2 X X
+3 X X # 3 X X # 3 X X	add red on top left	3 2 X # 3 2 X # 3 X X
+3 X X # 3 X X # 2 X X # 2 X X	add orange top right	3 X X # 3 3 X # 2 3 X # 2 3 X
+1 X X # 0 X X # 0 X X # 0 X X # 1 X X	add blue on blue	1 X X # 0 0 X # 0 0 X # 0 0 X # 1 X X
+3 3 X # 3 X X # 3 X X # 3 X X	remove top orange	3 X X # 3 X X # 3 X X # 3 X X
+1 X X # 3 X X	remove orange	1 X X # X X X
+2 2 X # 1 X X	remove brown	2 2 X # X X X
+1 X X # 2 1 X # 2 1 X	add brown top right	X X X # 2 X X # 2 1 X
+0 X X # 2 X X	remove blue	X X X # 2 X X
+1 2 X # 3 2 X	remove one red top left	1 X X # 3 2 X
+0 1 X # 2 X X # 2 1 X # 2 0 X	remove top right brown and blue	0 1 X # X X X # 2 X X # 2 X X
+0 X X # 1 2 X # 1 X X # 0 X X	add blue on top	0 0 X # 1 2 0 # 1 0 X # 0 X X
+1 X X # 1 X X # 1 3 X	add brown on top	1 1 X # 1 1 X # 1 3 X
+1 X X # 2 1 X # 1 3 X # 1 1 X	remove brown bottom left	X X X # 2 1 X # 1 3 X # 1 1 X
+3 3 X # 3 0 0 # 3 0 0 # 3 0 X # 3 3 X	add blue top on blue	3 3 X # 3 0 0 # 3 0 0 # 3 0 0 # 3 3 X
+1 1 X # 1 0 0 # 1 0 0 # 1 0 X # 1 1 X	add blue top middle	1 1 X # 1 0 0 # 1 0 0 # 1 0 0 # 1 1 X
+1 1 X # 1 0 0 # 1 0 0 # 1 0 0 # 1 1 X	add brown top level	1 1 1 # 1 0 0 # 1 0 0 # 1 0 0 # 1 1 1
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	add red on top red	0 0 X # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 X
+0 0 X # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 X	add blue on blue	0 0 0 # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 0
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	put orange middle	2 2 X # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 X	put red on top	2 2 2 # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 2
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	put red middle, put blue top	0 0 X # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 X
+0 0 X # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 X	put blue	0 0 0 # 0 2 2 # 0 2 2 # 0 2 2 # 0 0 0

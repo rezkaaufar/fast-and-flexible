@@ -1,0 +1,59 @@
+3 X X # 3 X X # 0 X X # 2 X X # 2 X X # 0 X X	move second block	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	move second block	X X X # X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X # X X X	move second block	2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X
+X X X # X X X # X X X # X X X # X X X # X X X	move color blocks	2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X
+2 X X # 1 X X # 2 X X # 2 X X # 2 X X # 3 X X	move orange cube	2 X X # 1 X X # 2 X X # 2 X X # 2 X X # X X X
+3 X X # 2 X X # 1 X X # 0 X X # 0 X X # 2 X X	move brown cube	3 X X # 2 X X # X X X # 0 X X # 0 X X # 2 X X
+2 X X # 3 X X # 2 X X # 0 X X # 2 X X	move red cubes	X X X # 3 X X # X X X # 0 X X # X X X
+3 X X # 2 X X # 3 X X # 0 X X # 1 X X # 0 X X	move orange cubes	X X X # 2 X X # X X X # 0 X X # 1 X X # 0 X X
+2 X X # 2 X X # 2 X X # 1 X X # 0 X X	move blue cube	2 X X # 2 X X # 2 X X # 1 X X # X X X
+1 X X # 0 X X # 2 X X # 0 X X # 3 X X	move red cube	1 X X # 0 X X # X X X # 0 X X # 3 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	move red cubes	X X X # 0 X X # 0 X X # X X X # X X X # X X X
+0 X X # 0 X X # 3 X X # 0 X X # 0 X X	add orange cube	0 3 X # 0 X X # 3 X X # 0 X X # 0 X X
+2 X X # 1 X X # 2 X X # 1 X X	add brown cube	2 X X # 1 X X # 2 X X # 1 1 X
+1 X X # 1 X X # 2 X X # 2 X X # 1 X X	add brown cube	1 X X # 1 X X # 2 X X # 2 X X # 1 1 X
+2 X X # 2 X X # 2 X X # 1 X X # 2 X X # 2 X X	move red cube	X X X # 2 X X # 2 X X # 1 X X # 2 X X # 2 X X
+2 X X # 2 X X # 2 X X # 2 X X	move red cube	X X X # 2 X X # 2 X X # 2 X X
+2 X X # 3 X X # 3 X X # 3 X X # 2 X X	add red cubes	2 2 X # 3 X X # 3 X X # 3 X X # 2 2 X
+0 X X # 2 X X # 0 X X # 2 X X	add red cube	0 X X # 2 X X # 0 X X # 2 2 X
+0 X X # 1 X X # 0 X X # 1 X X # 1 X X # 1 X X	move brown cubes	0 X X # X X X # 0 X X # X X X # X X X # X X X
+0 X X # 1 X X # 1 X X # 1 X X # 0 X X # 0 X X	add brown cube	0 X X # 1 X X # 1 X X # 1 X X # 0 X X # 0 1 X
+0 X X # 3 X X # 3 X X # 0 X X # 0 X X	move blue cubes	X X X # 3 X X # 3 X X # X X X # X X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	move top blue cubes	0 X X # 0 3 X # 0 X X # 0 3 X # 0 X X # 0 3 X
+2 1 X # 1 2 X # 2 1 X # 1 2 X	add brown cubes	2 1 X # 1 2 1 # 2 1 X # 1 2 1
+2 2 X # 0 0 X # 2 2 X # 0 0 X	move top blue cubes	2 2 X # 0 X X # 2 2 X # 0 X X
+2 2 X # 0 X X # 2 2 X # 0 X X	add brown cubes	2 2 1 # 0 X X # 2 2 1 # 0 X X
+1 1 X # 3 3 X # 1 1 X # 3 3 X # 1 1 X # 3 3 X	move top orange cubes	1 X X # 3 3 X # 1 X X # 3 3 X # 1 X X # 3 3 X
+0 0 X # 0 1 X # 0 0 X	add red cubes	0 0 2 # 0 1 X # 0 0 2
+1 0 X # 0 1 X # 1 0 X # 0 1 X	move top blue cubes	1 X X # 0 1 X # 1 X X # 0 1 X
+1 X X # 0 1 X # 1 X X # 0 1 X	add orange cubes	1 3 X # 0 1 3 # 1 3 X # 0 1 3
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	add red cubes	2 2 X # 3 3 2 # 2 2 X # 3 3 2 # 2 2 X # 3 3 2
+0 0 X # 1 1 X # 0 0 X	move top brown cube	0 0 X # 1 X X # 0 0 X
+2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 X	move top brown cubes	2 2 X # 1 X X # 2 2 X # 1 X X # 2 2 X
+3 3 X # 2 2 X # 3 3 X	move top red cube	3 3 X # 2 X X # 3 3 X
+3 3 X # 2 X X # 3 3 X	add orange cubes	3 3 3 # 2 X X # 3 3 3
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X	move orange cubes	2 X X # X X X # X X X # 2 X X # X X X
+2 X X # X X X # X X X # 2 X X # X X X	move red cube	2 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 3 X X	add orange cubes	1 3 X # 1 3 X # 3 X X
+2 X X # 2 X X # 1 X X	add red cubes	2 X X # 2 2 X # 1 2 X
+3 X X # 3 X X # 2 X X # 2 X X	add red cubes	3 X X # 3 2 X # 2 2 X # 2 2 X
+1 X X # 3 X X # 1 X X # 1 X X	add orange cubes	1 X X # 3 3 X # 1 3 X # 1 3 X
+2 X X # 2 X X # 1 X X # 2 X X	add brown cube	2 X X # 2 X X # 1 1 X # 2 X X
+0 X X # 0 X X # 1 X X	move blue cubes	X X X # X X X # 1 X X
+2 X X # 1 X X # 2 X X # 2 X X	move brown cube	2 X X # X X X # 2 X X # 2 X X
+2 X X # X X X # 2 X X # 2 X X	move red cubes	X X X # X X X # X X X # 2 X X
+2 X X # 0 X X # 0 X X # 2 X X	move red cubes	X X X # 0 X X # 0 X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X	move orange cube	1 X X # 1 X X # X X X # 1 X X
+1 X X # 1 X X # X X X # 1 X X	move brown cubes	X X X # X X X # X X X # 1 X X
+3 0 X # 3 X X # 2 0 X # 3 X X	add red cubes	3 0 X # 3 2 X # 2 0 X # 3 2 X
+3 X X # 1 0 X # 1 X X # 3 0 X	move orange cube	X X X # 1 0 X # 1 X X # 3 0 X
+X X X # 1 0 X # 1 X X # 3 0 X	move brown cube	X X X # 1 0 X # X X X # 3 0 X
+3 X X # 1 X X # 0 X X # 3 X X	move orange cube	X X X # 1 X X # 0 X X # 3 X X
+2 X X # 1 X X # 1 0 X	add red cube	2 2 X # 1 X X # 1 0 X
+0 2 X # 2 X X # 0 2 X # 1 X X	add blue cubes	0 2 X # 2 0 X # 0 2 0 # 1 0 X
+2 1 X # 0 X X # 2 X X	add red cubes	2 1 X # 0 2 X # 2 2 X
+0 X X # 2 0 X # 2 2 X	move top red cube	0 X X # 2 0 X # 2 X X
+3 0 X # 0 X X # 0 X X # 3 X X	add red cube	3 0 2 # 0 X X # 0 X X # 3 X X
+0 X X # 1 X X # 1 X X # 0 1 X	add blue cube	0 0 X # 1 X X # 1 X X # 0 1 X
+0 X X # 1 3 X # 3 X X # 3 1 X	move blue cube	X X X # 1 3 X # 3 X X # 3 1 X
+X X X # 1 3 X # 3 X X # 3 1 X	move brown cube	X X X # 1 3 X # 3 X X # 3 X X

@@ -1,0 +1,25 @@
+3 3 X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X	put another block next	3 X X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X
+3 X X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X	move the brown block	X X X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X
+X X X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X	move a red block	X X X # 3 1 X # 3 1 1 # 3 1 X # 3 3 X
+X X X # 3 1 X # 3 1 1 # 3 1 X # 3 3 X	move the block again	X X X # 3 X X # 3 1 1 # 3 1 X # 3 3 X
+X X X # 3 1 X # 3 1 1 # 3 1 X # 3 3 X	move the block again	X X X # 3 1 1 # 3 1 1 # 3 1 X # 3 3 X
+0 0 X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	start with the red block	0 X X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X
+0 X X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X	put the block on the next space	X X X # 0 2 2 # 0 2 2 # 0 2 X # 0 0 X
+2 2 X # 0 X X # 0 X X # 2 0 X	build the block	2 2 1 # 0 X X # 0 X X # 2 0 X
+3 X X # 3 X X # 0 X X # 0 X X	stack the block	3 1 X # 3 X X # 0 X X # 0 X X
+3 1 X # 3 X X # 0 X X # 0 X X	stack a block	3 1 1 # 3 X X # 0 X X # 0 X X
+3 1 X # 3 X X # 0 X X # 0 X X	stack a block	3 1 1 # 3 X X # 0 X X # 0 X X
+3 1 X # 3 X X # 0 X X # 0 X X	stack a block	3 1 1 # 3 X X # 0 X X # 0 X X
+3 X X # 0 X X # 2 X X # 0 X X # 0 X X # 1 X X	move the orange block	3 1 X # 0 X X # 2 X X # 0 X X # 0 X X # 1 X X
+3 1 X # 0 X X # 2 X X # 0 X X # 0 X X # 1 X X	move the orange block	3 1 1 # 0 X X # 2 X X # 0 X X # 0 X X # 1 X X
+2 X X # 3 X X # 2 X X # 3 X X	move the orange block	2 1 X # 3 X X # 2 X X # 3 X X
+2 1 X # 3 X X # 2 X X # 3 X X	move the orange block	2 1 1 # 3 X X # 2 X X # 3 X X
+2 1 X # 3 X X # 2 X X # 3 X X	move the orange block	2 1 1 # 3 X X # 2 X X # 3 X X
+3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X	move the brown block	3 3 1 # 0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X
+3 X X # 0 X X # 0 X X # 0 X X # 0 X X	set up the block	3 1 X # 0 X X # 0 X X # 0 X X # 0 X X
+3 1 X # 0 X X # 0 X X # 0 X X # 0 X X	put the brown block down	3 X X # 0 X X # 0 X X # 0 X X # 0 X X
+1 0 X # 0 0 X # 1 X X	stack the block	1 0 1 # 0 0 X # 1 X X
+1 0 1 # 0 0 X # 1 X X	stack the block	1 0 1 # 0 0 1 # 1 X X
+1 0 1 # 0 0 X # 1 X X	stack the block	1 0 1 # 0 0 1 # 1 X X
+1 0 X # 0 0 X # 1 X X	take away a block	1 0 1 # 0 0 X # 1 X X
+1 0 1 # 0 0 X # 1 X X	move the block	1 0 1 # 0 0 1 # 1 X X

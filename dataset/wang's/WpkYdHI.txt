@@ -1,0 +1,15 @@
+0 X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece from left	X X X # 0 X X # 0 X X # 1 X X # 1 X X
+X X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece fromleft	X X X # X X X # 0 X X # 1 X X # 1 X X
+X X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece fromleft	X X X # X X X # 0 X X # 1 X X # 1 X X
+X X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece fromleft	X X X # X X X # 0 X X # 1 X X # 1 X X
+X X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece fromleft	X X X # X X X # 0 X X # 1 X X # 1 X X
+X X X # 0 X X # 0 X X # 1 X X # 1 X X	remove a blue piece fromleft	X X X # X X X # X X X # 1 X X # 1 X X
+2 X X # 3 X X # 2 X X # 2 X X # 2 X X	add a orange piece from top left	2 3 X # 3 X X # 2 X X # 2 X X # 2 X X
+1 X X # 2 X X # 1 X X # 1 X X # 1 X X # 2 X X	add a brow piece from top right	1 X X # 2 X X # 1 X X # 1 X X # 1 X X # 2 1 X
+1 X X # 2 X X # 2 X X # 1 X X # 1 X X	remove red piece	1 X X # X X X # X X X # 1 X X # 1 X X
+3 X X # 3 X X # 2 X X # 3 X X	move a orange piece from right	3 X X # 3 X X # 2 X X # X X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X	add orange piece from top	0 0 3 # 0 3 3 # 0 0 3 # 0 3 3 # 0 0 3
+2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X	remove brown piece from top of red piece	2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X # 1 2 X
+2 2 X # 2 1 X # 2 2 X	add a red piece on top left	2 2 X # 2 1 X # 2 2 2
+2 2 X # 2 1 X # 2 2 2	add a red piece on top of right	2 2 2 # 2 1 X # 2 2 2
+1 0 X # 0 1 X # 1 0 X	add a blue piece on top of brow	1 0 X # 0 1 0 # 1 0 X

@@ -1,0 +1,62 @@
+1 X X # 0 X X # 1 X X # 3 X X # 0 X X	remove orange	1 X X # 0 X X # 1 X X # X X X # 0 X X
+1 X X # 0 X X # 0 X X # 0 X X # 2 X X # 1 X X	remove red	1 X X # 0 X X # 0 X X # 0 X X # X X X # 1 X X
+1 X X # 3 X X # 1 X X # 1 X X # 2 X X # 3 X X	remove brown	X X X # 3 X X # X X X # X X X # 2 X X # 3 X X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X # 3 X X	remove blue	X X X # X X X # 1 X X # 1 X X # X X X # 3 X X
+1 X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X	remove first brown	X X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X
+0 X X # 0 X X # 0 X X # 0 X X	remove first blue	X X X # 0 X X # 0 X X # 0 X X
+2 X X # 0 X X # 2 X X # 0 X X # 0 X X # 0 X X	add sixth blue	2 X X # 0 X X # 2 X X # 0 X X # 0 X X # 0 0 X
+1 X X # 1 X X # 1 X X # 2 X X # 2 X X # 1 X X	remove brown	X X X # X X X # X X X # 2 X X # 2 X X # X X X
+0 X X # 2 X X # 0 X X # 0 X X # 0 X X	remove fifth blue	0 X X # 2 X X # 0 X X # 0 X X # X X X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X	add first brown	0 1 X # 0 X X # 1 X X # 1 X X # 0 X X
+1 X X # 1 X X # 1 X X # 2 X X	add first red	1 2 X # 1 X X # 1 X X # 2 X X
+2 X X # 1 X X # 2 X X # 2 X X	remove fourth red	2 X X # 1 X X # 2 X X # X X X
+1 X X # 1 X X # 0 X X # 0 X X # 1 X X # 0 X X	remove brown	X X X # X X X # 0 X X # 0 X X # X X X # 0 X X
+2 X X # 0 X X # 0 X X # 0 X X # 2 X X	remove first	X X X # 0 X X # 0 X X # 0 X X # 2 X X
+2 2 X # 2 1 X # 2 2 X # 2 1 X # 2 2 X	add first brown	2 2 1 # 2 1 X # 2 2 X # 2 1 X # 2 2 X
+2 2 1 # 2 1 X # 2 2 X # 2 1 X # 2 2 X	add third brown add fifth brown	2 2 1 # 2 1 X # 2 2 1 # 2 1 X # 2 2 1
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	add second brown add fourth brown	1 0 X # 0 1 1 # 1 0 X # 0 1 1 # 1 0 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	Add second and fourth brown	1 0 X # 0 1 1 # 1 0 X # 0 1 1 # 1 0 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	remove tier two	1 X X # 0 X X # 1 X X # 0 X X # 1 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	remove tier two blue	1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X
+1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X	add tier two and three brown	1 1 X # 0 1 1 # 1 1 X # 0 1 1 # 1 1 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X # 3 3 X	remove tier two orange	3 X X # 3 0 X # 3 X X # 3 0 X # 3 X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X	add tier three orange	0 0 3 # 0 3 3 # 0 0 3 # 0 3 3 # 0 0 3
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X	add tier three orange	0 0 X # 0 3 3 # 0 0 X # 0 3 3 # 0 0 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	remove tier two blue	3 X X # 0 3 X # 3 X X # 0 3 X # 3 X X
+3 X X # 0 3 X # 3 X X # 0 3 X # 3 X X	add tier two and tier three orange	3 3 X # 0 3 3 # 3 3 X # 0 3 3 # 3 3 X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X	remove tier two red	0 X X # 2 0 X # 0 X X # 2 0 X # 0 X X # 2 0 X
+0 X X # 2 0 X # 0 X X # 2 0 X # 0 X X # 2 0 X	add tier two and tier three blue	0 0 X # 2 0 0 # 0 0 X # 2 0 0 # 0 0 X # 2 0 0
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	remove tier two red	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X
+1 1 X # 0 0 X # 1 1 X # 0 0 X # 1 1 X	remove tier two blue	1 1 X # 0 X X # 1 1 X # 0 X X # 1 1 X
+1 1 X # 0 X X # 1 1 X # 0 X X # 1 1 X	add tier 3 blue	1 1 0 # 0 X X # 1 1 0 # 0 X X # 1 1 0
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	remove tier two orange	3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	add tier three blue	1 0 X # 0 1 0 # 1 0 X # 0 1 0 # 1 0 X # 0 1 0
+1 X X # 3 X X # 3 X X # 1 X X	add tier two brown	1 1 X # 3 1 X # 3 1 X # 1 1 X
+1 1 X # 3 1 X # 3 1 X # 1 1 X	remove first brown	1 X X # 3 1 X # 3 1 X # 1 1 X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 2 X X	add tier two red	1 2 X # 1 2 X # 1 2 X # 1 2 X # 2 2 X # 2 2 X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 2 X X	add sixth red	1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 2 2 X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 2 2 X	add fifth red	1 X X # 1 X X # 1 X X # 1 X X # 2 2 X # 2 2 X
+0 X X # 2 X X # 0 X X # 0 X X # 2 X X	add tier two red	0 2 X # 2 2 X # 0 2 X # 0 2 X # 2 2 X
+0 2 X # 2 2 X # 0 2 X # 0 2 X # 2 2 X	remove first red	0 X X # 2 2 X # 0 2 X # 0 2 X # 2 2 X
+2 X X # 2 X X # 0 X X # 2 X X # 2 X X # 2 X X	add tier two red	2 2 X # 2 2 X # 0 2 X # 2 2 X # 2 2 X # 2 2 X
+2 2 X # 2 2 X # 0 2 X # 2 2 X # 2 2 X # 2 2 X	remove first red	2 X X # 2 2 X # 0 2 X # 2 2 X # 2 2 X # 2 2 X
+1 X X # 1 X X # 1 X X # 2 X X # 2 X X	add tier two red	1 2 X # 1 2 X # 1 2 X # 2 2 X # 2 2 X
+1 2 X # 1 2 X # 1 2 X # 2 2 X # 2 2 X	remove first red	1 X X # 1 2 X # 1 2 X # 2 2 X # 2 2 X
+0 X X # 2 X X # 0 X X # 2 X X # 0 X X	add tier two red except first	0 X X # 2 2 X # 0 2 X # 2 2 X # 0 2 X
+1 X X # 1 X X # 3 X X # 1 X X # 1 X X	remove all except first	1 X X # X X X # X X X # X X X # X X X
+3 X X # 0 X X # 3 X X # 3 X X # 3 X X	remove all except fifth	X X X # X X X # X X X # X X X # 3 X X
+3 X X # 2 X X # 2 X X # 3 X X # 3 X X # 3 X X	remove all except sixth	X X X # X X X # X X X # X X X # X X X # 3 X X
+2 X X # 1 X X # 1 X X # 2 X X # 1 X X # 2 X X	remove tier one red	X X X # 1 X X # 1 X X # X X X # 1 X X # X X X
+1 X X # 1 X X # 2 2 X # 0 X X	add tier two red	1 2 X # 1 2 X # 2 2 X # 0 2 X
+0 X X # 0 3 X # 2 X X # 2 2 X	add tier two orange except first	0 X X # 0 3 X # 2 3 X # 2 2 X
+0 X X # 0 3 X # 2 X X # 2 2 X	add tier two orange except first and tier three orange except first and third	0 X X # 0 3 3 # 2 3 X # 2 2 3
+3 X X # 1 X X # 1 0 X	remove tier two	3 X X # 1 X X # 1 X X
+0 X X # 2 X X	remove red	0 X X # X X X
+1 X X # 0 X X	add tier two second blue	1 X X # 0 0 X
+0 X X # 3 X X	remove tier one second	0 X X # X X X
+3 X X # 2 3 X	Add tier two first brown	3 1 X # 2 3 X
+3 0 X # 3 X X # 1 X X # 1 0 X	Add tier three blue	3 0 0 # 3 X X # 1 X X # 1 0 0
+2 2 X # 2 1 X	remove tier two second	2 2 X # 2 X X
+1 1 X # 0 X X	remove tier one second	1 1 X # X X X
+0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X	add tier three fourth brown	0 0 X # 0 1 1 # 0 1 1 # 0 1 1 # 0 0 X
+0 0 X # 0 1 1 # 0 1 1 # 0 1 1 # 0 0 X	add tier three blue	0 0 0 # 0 1 1 # 0 1 1 # 0 1 1 # 0 0 0

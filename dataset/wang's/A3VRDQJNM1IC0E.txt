@@ -1,0 +1,57 @@
+2 X X # 3 X X # 3 X X # 0 X X # 0 X X	go forward	X X X # 3 X X # 3 X X # 0 X X # 0 X X
+3 X X # 0 X X # 2 X X # 2 X X # 0 X X # 1 X X	go forward	X X X # 0 X X # 2 X X # 2 X X # 0 X X # 1 X X
+3 X X # 1 X X # 0 X X # 2 X X # 3 X X	go forword	3 X X # 1 X X # 0 X X # X X X # 3 X X
+2 X X # 0 X X # 3 X X # 2 X X # 3 X X # 3 X X	go forward	2 X X # 0 X X # X X X # 2 X X # X X X # X X X
+1 X X # 3 X X # 0 X X # 2 X X # 2 X X # 0 X X	go forward	1 X X # 3 X X # X X X # 2 X X # 2 X X # X X X
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	go forward	3 X X # 0 X X # 0 X X # X X X # X X X
+3 X X # 3 X X # 2 X X # 2 X X # 3 X X	go forward	X X X # 3 X X # 2 X X # 2 X X # 3 X X
+1 X X # 2 X X # 2 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # 2 X X # 2 X X # 1 X X # 2 X X # 1 X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X	4 blue block	0 X X # 0 X X # 0 X X # 0 X X # X X X
+0 X X # 0 X X # 2 X X # 2 X X	go forward	X X X # 0 X X # 2 X X # 2 X X
+3 X X # 2 X X # 3 X X # 3 X X # 3 X X # 3 X X	go forward	X X X # 2 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X	go forward	1 X X # 1 X X # 1 X X # 1 X X # X X X
+1 X X # 3 X X # 3 X X # 3 X X	go forward	X X X # 3 X X # 3 X X # 3 X X
+0 X X # 3 X X # 3 X X # 0 X X # 3 X X	replace center block	X X X # 3 X X # 3 X X # 0 X X # 3 X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X	add one block	1 1 X # 1 X X # 1 X X # 1 X X # 1 X X
+0 0 X # 1 1 X # 0 0 X	remove blue block	0 X X # 1 1 X # 0 X X
+0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X # 1 1 X	add brown blocks	0 0 X # 1 1 1 # 0 0 X # 1 1 1 # 0 0 X # 1 1 1
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	add blocks	3 3 X # 3 1 3 # 3 3 X # 3 1 3 # 3 3 X # 3 1 3
+3 3 X # 1 1 X # 3 3 X # 1 1 X # 3 3 X	remove blocks	3 X X # 1 1 X # 3 X X # 1 1 X # 3 X X
+2 2 X # 2 1 X # 2 2 X # 2 1 X # 2 2 X # 2 1 X	remove blocks	2 X X # 2 1 X # 2 X X # 2 1 X # 2 X X # 2 1 X
+0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X	moe forward	0 0 X # 3 3 3 # 0 0 X # 3 3 3 # 0 0 X # 3 3 3
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X	add blocks	0 0 3 # 0 3 X # 0 0 3 # 0 3 X # 0 0 3
+3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X	move forward	3 X X # 0 0 X # 3 X X # 0 0 X # 3 X X # 0 0 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	move forward	0 3 X # 3 X X # 0 3 X # 3 X X # 0 3 X # 3 X X
+0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	move forward	0 1 X # 1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X
+2 X X # 1 X X # 2 X X # 2 X X # 1 X X	remove block	X X X # X X X # X X X # X X X # 1 X X
+3 X X # 3 X X # 1 X X # 3 X X # 1 X X	remove brown blocks\\	3 X X # X X X # X X X # X X X # X X X
+2 X X # 2 X X # 2 X X	add one block	2 X X # X X X # X X X
+2 X X # 3 X X # 2 X X # 2 X X # 3 X X # 3 X X	add blocks	2 3 X # 3 X X # 2 3 X # 2 3 X # 3 X X # 3 X X
+1 X X # 2 X X # 2 X X # 1 X X # 2 X X	add one block	1 X X # X X X # X X X # X X X # X X X
+0 X X # 1 X X # 0 X X # 1 X X # 0 X X # 1 X X	remove one brown block	0 X X # 1 1 X # 0 1 X # 1 1 X # 0 1 X # 1 1 X
+3 X X # 0 X X # 3 X X # 0 X X # 0 X X	add one block	3 X X # 0 0 X # 3 0 X # 0 0 X # 0 0 X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X # 1 X X	move forward	X X X # X X X # X X X # X X X # X X X # 1 X X
+1 X X # 2 X X # 2 X X # 2 X X # 1 X X # 1 X X	remove blocks	1 X X # X X X # X X X # X X X # 1 X X # 1 X X
+1 X X # 3 X X # 1 X X # 1 X X # 3 X X # 1 X X	remove blocks	X X X # X X X # X X X # X X X # X X X # 1 X X
+3 X X # 2 2 X	add a block	X X X # 2 2 X
+1 X X # 1 1 X # 2 X X	add a block	1 X X # 1 1 X # X X X
+2 X X # 3 3 X # 2 3 X	remove blocks	2 X X # 3 X X # 2 X X
+3 X X # 2 X X	remove red block	3 X X # X X X
+3 3 X # 2 X X # 2 1 X # 2 2 X	move forward	3 X X # 2 X X # 2 1 X # 2 2 X
+3 0 X # 3 X X # 2 X X	move forward	3 0 X # 3 3 X # 2 X X
+1 3 X # 2 X X	add blocks	1 3 X # 2 3 X
+0 3 X # 3 X X	move forward	0 X X # X X X
+1 0 X # 2 0 X # 1 2 X	remove blocks	1 X X # 2 X X # 1 2 X
+1 X X # 2 3 X	add blocks	1 3 X # 2 3 X
+3 3 X # 3 2 2 # 3 2 2 # 3 2 X # 3 3 X	move forward	3 X X # 3 2 2 # 3 2 2 # 3 2 X # 3 X X
+2 X X # 0 X X # 3 X X # 0 X X # 1 X X	move forward	2 X X # 0 X X # X X X # 0 X X # 1 X X
+2 X X # 3 X X # 3 X X # 3 X X	add blocks	2 3 X # 3 X X # 3 X X # 3 X X
+1 2 X # 2 1 X # 1 2 X	add 1 block	1 2 X # 2 1 2 # 1 2 X
+0 X X # 0 X X # 2 X X	remove 2 blocks	X X X # X X X # 2 X X
+0 2 X # 1 X X	remove a block	0 2 X # X X X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	move forward	2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	move forward	2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	move forward	2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X
+0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X	move foward	0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X
+0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X	move forward	0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X

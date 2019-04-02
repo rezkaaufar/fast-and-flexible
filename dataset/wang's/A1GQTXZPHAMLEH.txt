@@ -1,0 +1,5 @@
+1 X X # 0 X X # 2 X X # 0 X X # 2 X X # 1 X X	move red block	1 X X # 0 X X # 2 3 X # 0 X X # 2 3 X # 1 X X
+1 X X # 0 X X # 2 3 X # 0 X X # 2 3 X # 1 X X	move orange blocks	1 X X # 0 X X # 2 3 3 # 0 X X # 2 3 3 # 1 X X
+2 X X # 1 X X # 2 X X # 1 X X # 0 X X	move blocks	2 X X # 1 X X # 2 X X # 1 X X # 0 X X
+2 X X # 1 X X # 3 X X # 3 X X # 3 X X # 2 X X	move orange blocks	X X X # 1 X X # 3 X X # 3 X X # 3 X X # X X X
+0 X X # 0 X X # 1 X X # 2 X X # 2 X X	move red blocks	X X X # X X X # X X X # 2 X X # 2 X X

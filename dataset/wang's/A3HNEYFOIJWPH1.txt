@@ -1,0 +1,94 @@
+2 X X # 3 X X # 3 X X # 1 X X # 2 X X	find	2 X X # X X X # X X X # 1 X X # 2 X X
+1 X X # 2 X X # 2 X X # 1 X X # 1 X X # 1 X X	back	X X X # 2 X X # 2 X X # X X X # X X X # X X X
+2 X X # 1 X X # 2 X X # 1 X X # 0 X X	paint	2 X X # X X X # 2 X X # X X X # 0 X X
+2 X X # 0 X X # 1 X X # 0 X X # 1 X X	roll	2 X X # X X X # 1 X X # X X X # 1 X X
+2 X X # 3 X X # 3 X X # 3 X X # 3 X X	smile	X X X # 3 X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 3 X X # 0 X X # 2 X X	run	X X X # X X X # X X X # 0 X X # 2 X X
+1 X X # 0 X X # 1 X X # 3 X X # 0 X X # 0 X X	jump	1 X X # X X X # 1 X X # 3 X X # X X X # X X X
+2 X X # 3 X X # 3 X X # 0 X X # 3 X X	play	2 X X # 3 X X # 3 X X # X X X # 3 X X
+1 X X # 0 X X # 0 X X # 1 X X # 1 X X # 1 X X	shout	1 X X # 0 X X # 0 X X # 1 X X # 1 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X	cry	1 3 X # 1 X X # 1 X X # 1 X X
+3 X X # 3 X X # 3 X X # 1 X X # 3 X X # 3 X X	laugh	3 X X # 3 X X # 3 X X # X X X # 3 X X # 3 X X
+3 X X # 1 X X # 3 X X # 1 X X # 3 X X	imitate	3 3 X # 1 X X # 3 3 X # 1 X X # 3 3 X
+0 X X # 3 X X # 3 X X # 3 X X	kill	X X X # 3 X X # 3 X X # 3 X X
+0 X X # 0 X X # 0 X X # 2 X X	mutate	X X X # 0 X X # 0 X X # 2 X X
+0 X X # 3 X X # 0 X X # 0 X X	attack	X X X # 3 X X # X X X # X X X
+0 X X # 0 X X # 0 X X # 2 X X # 0 X X	mimick	0 0 X # 0 X X # 0 X X # 2 X X # 0 X X
+1 X X # 3 X X # 1 X X # 3 X X # 3 X X	destroy	1 X X # 3 1 X # 1 X X # 3 1 X # 3 1 X
+3 X X # 2 X X # 3 X X # 2 X X	look	3 X X # X X X # 3 X X # X X X
+2 X X # 0 X X # 2 X X	talk	X X X # X X X # 2 X X
+2 X X # 0 X X # 2 X X # 0 X X # 0 X X # 2 X X	cry	2 X X # X X X # 2 X X # X X X # X X X # 2 X X
+0 X X # 0 X X # 2 X X # 0 X X # 2 X X # 0 X X	cry	X X X # X X X # X X X # X X X # X X X # 0 X X
+0 X X # 0 X X # 0 X X # 1 X X	cry	X X X # X X X # X X X # 1 X X
+1 X X # 3 X X # 1 X X # 3 X X # 1 X X	cry	1 1 X # 3 1 X # 1 1 X # 3 1 X # 1 X X
+1 X X # 0 X X # 0 X X # 1 X X # 0 X X	joy	X X X # X X X # X X X # X X X # 0 X X
+1 X X # 1 X X # 1 X X # 3 X X	joy	1 X X # 1 3 X # 1 3 X # 3 3 X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X	joy	2 X X # X X X # X X X # 2 X X # 2 X X
+3 X X # 0 X X # 3 X X # 3 X X # 3 X X	smile	3 3 X # 0 X X # 3 3 X # 3 3 X # 3 3 X
+3 X X # 0 X X # 3 X X # 3 X X	smirk	3 X X # 0 0 X # 3 X X # 3 X X
+1 X X # 1 1 X # 1 X X	brick	1 1 X # 1 1 1 # 1 X X
+3 X X # 3 X X	brown	3 X X # X X X
+3 1 X # 1 3 X # 1 X X	brown	3 1 X # 1 3 X # X X X
+3 X X # 1 3 X # 1 X X	brown	3 1 X # 1 3 X # 1 X X
+3 X X # 1 2 X # 1 X X	blow	X X X # 1 X X # 1 X X
+2 2 X # 2 X X	pink	2 X X # X X X
+0 3 X # 0 0 X # 3 1 X	laugh	0 3 X # 0 X X # 3 X X
+0 X X # 0 X X # 2 0 X # 3 3 X	try	0 3 X # 0 X X # 2 0 X # 3 3 X
+0 1 X # 3 3 X # 3 X X	cry	0 1 3 # 3 3 X # 3 X X
+0 X X # 0 3 X	run	0 X X # 0 X X
+1 1 X # 1 2 X # 1 1 X	watch me	1 1 X # 1 2 2 # 1 1 X
+2 2 X # 2 0 X # 2 2 X	cry hard	2 2 0 # 2 0 X # 2 2 0
+0 0 X # 0 2 X # 0 0 X # 0 2 X	talk a lot	0 0 X # 0 X X # 0 0 X # 0 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X # 2 3 X # 3 2 X	laugh with me	2 3 1 # 3 2 X # 2 3 1 # 3 2 X # 2 3 1 # 3 2 X
+1 0 X # 0 1 X # 1 0 X	brown block	1 0 1 # 0 1 X # 1 0 1
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X # 1 3 X	brown blocks	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X
+3 3 X # 3 0 X # 3 3 X	red blocks with one aqua	3 X X # 3 0 X # 3 X X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	aqua red alternate	0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	aqua red	0 3 X # 3 X X # 0 3 X # 3 X X # 0 3 X # 3 X X
+1 X X # 2 X X # 2 X X # 3 X X # 0 X X # 3 X X	brown red red orange aqua orange	1 X X # 2 X X # 2 X X # X X X # 0 X X # X X X
+0 X X # 2 X X # 3 X X # 1 X X # 2 X X # 3 X X	aqua red orange brown red orange	0 X X # X X X # 3 X X # 1 X X # X X X # 3 X X
+3 X X # 3 X X # 2 X X # 1 X X # 2 X X	orange orange red brown red	X X X # X X X # 2 X X # 1 X X # 2 X X
+1 X X # 3 X X # 2 X X # 3 X X # 0 X X # 1 X X	brown orange red orange aqua brown	X X X # 3 X X # 2 X X # 3 X X # 0 X X # X X X
+1 X X # 3 X X # 0 X X # 2 X X # 3 X X # 2 X X	brown orange aqua red orange red	1 X X # X X X # 0 X X # 2 X X # X X X # 2 X X
+3 X X # 2 X X # 2 X X # 2 X X # 1 X X # 0 X X	orange red red red brown aqua	X X X # 2 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 1 X X # 0 X X # 3 X X # 2 X X	brown brown aqua orange red	1 X X # 1 X X # X X X # 3 X X # 2 X X
+3 X X # 0 X X # 0 X X # 3 X X # 0 X X # 0 X X	orange aqua aqua orange aqua aqua	3 X X # 0 X X # 0 X X # 3 X X # 0 X X # X X X
+0 X X # 3 X X # 0 X X # 0 X X	left	0 3 X # 3 X X # 0 X X # 0 X X
+2 X X # 1 X X # 2 X X # 1 X X # 2 X X # 1 X X	red brown red brown red brown	2 X X # 1 X X # 2 X X # 1 X X # 2 X X # X X X
+2 X X # 2 X X # 3 X X # 2 X X	space red orange red	X X X # 2 X X # 3 X X # 2 X X
+0 X X # 3 X X # 3 X X # 3 X X # 0 X X	aqua space space space aqua	0 X X # X X X # X X X # X X X # 0 X X
+0 X X # 1 X X # 1 X X # 0 X X # 0 X X	space brown brown aqua aqua	X X X # 1 X X # 1 X X # 0 X X # 0 X X
+2 X X # 3 X X # 3 X X # 3 X X	space orange orange orange	X X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	orange orange orange orange orange space	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # X X X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X	red aqua red red aqua	2 X X # 0 X X # 2 X X # 2 X X # 0 X X # X X X
+1 X X # 3 X X # 1 X X # 3 X X # 1 X X # 1 X X	space orange brown orange brown brown	X X X # 3 X X # 1 X X # 3 X X # 1 X X # 1 X X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X	space brown space brown space brown	3 3 1 # 3 1 X # 3 3 1 # 3 1 X # 3 3 1
+1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X	second level red space red space red space	1 2 X # 2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	orange orange	1 1 X # 1 3 3 # 1 1 X # 1 3 3 # 1 1 X
+0 1 X # 1 0 X # 0 1 X	aqua aqua	0 1 0 # 1 0 X # 0 1 0
+3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	red red	3 3 X # 2 X X # 3 3 X # 2 X X # 3 3 X
+0 0 X # 0 1 X # 0 0 X # 0 1 X # 0 0 X	brown brown	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X
+3 1 X # 1 3 X # 3 1 X	orange	3 1 X # 1 X X # 3 1 X
+0 0 X # 0 2 X # 0 0 X	no red	0 0 2 # 0 2 X # 0 0 2
+2 2 X # 0 0 X # 2 2 X # 0 0 X	aqua aqua	2 2 X # 0 X X # 2 2 X # 0 X X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	brown brown brown	3 1 X # 1 3 1 # 3 1 X # 1 3 1 # 3 1 X # 1 3 1
+2 X X # 2 X X # 3 X X # 3 X X # 3 X X # 2 X X	one red	X X X # X X X # X X X # X X X # X X X # 2 X X
+0 X X # 1 X X # 1 X X # 1 X X # 0 X X # 1 X X	no brown top	0 X X # 1 1 X # 1 1 X # 1 1 X # 0 1 X # 1 1 X
+2 X X # 2 X X # 2 X X # 2 X X # 3 X X	one orange	X X X # X X X # X X X # X X X # 3 X X
+3 X X # 0 X X # 0 X X # 0 X X	one orange	3 X X # X X X # X X X # X X X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X	no aqua	0 X X # 0 X X # 3 0 X # 3 0 X # 3 0 X
+1 X X # 2 X X # 2 X X # 2 X X # 1 X X # 2 X X	red	X X X # X X X # X X X # X X X # X X X # 2 X X
+2 X X # 2 X X # 2 X X # 2 X X # 1 X X # 1 X X	red red red red	2 X X # 2 X X # 2 X X # 2 X X # X X X # X X X
+1 X X # 1 X X # 0 X X # 0 X X # 0 X X # 0 X X	no brown	1 X X # 1 X X # 0 1 X # 0 1 X # 0 1 X # 0 1 X
+2 X X # 0 X X # 2 X X # 0 X X # 2 X X # 2 X X	red	X X X # X X X # X X X # X X X # X X X # 2 X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X	no red	3 2 X # 2 2 X # 3 2 X # 2 2 X # 3 X X
+2 X X # 2 X X	none	X X X # X X X
+0 0 X # 2 X X # 1 X X # 2 X X	no brown	0 0 X # 2 1 X # 1 1 X # 2 1 X
+3 0 X # 3 X X # 3 X X	orange orange orange	3 X X # 3 X X # 3 X X
+2 1 X # 0 1 X	red aqua	2 X X # 0 X X
+2 2 X # 2 X X	no orange	2 2 X # 2 3 X
+2 2 X # 1 0 X # 0 0 X	no aqua	2 2 0 # 1 0 0 # 0 0 X
+2 3 X # 3 X X # 3 3 X # 3 0 X	no red	2 3 X # 3 X X # 3 3 X # 3 0 2
+1 X X # 1 0 X # 0 1 X	brown	1 X X # 1 0 X # 0 X X
+2 0 X # 0 1 X	no aqua	2 0 0 # 0 1 X
+2 X X # 3 X X # 0 X X	no orange	2 X X # 3 X X # 0 3 X

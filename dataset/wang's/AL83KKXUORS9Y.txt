@@ -1,0 +1,57 @@
+0 X X # 2 X X # 2 X X # 2 X X # 3 X X	dog	0 X X # 2 X X # 2 X X # 2 X X # 3 3 X
+0 X X # 2 X X # 2 X X # 2 X X # 3 3 X	cat	0 X X # 2 X X # 2 X X # 2 X X # 3 3 3
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	woman girl female	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	boy man male	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	boy man male female girl woman dog cat pet animal	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	baby toddler infant	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 X X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 2 X X # 2 X X # 1 X X # 0 X X	red blue orange green purple	1 3 X # 2 X X # 2 X X # 1 X X # 0 X X
+1 X X # 1 X X # 2 X X # 3 X X # 2 X X # 2 X X	now put two brown blocks, 1 red block, skip a space, then put 2 red blocks	1 X X # 1 X X # 2 X X # 3 3 X # 2 X X # 2 X X
+1 X X # 1 X X # 2 X X # 3 3 X # 2 X X # 2 X X	put two brown blocks, one red block, one orange block, 2 red blocks	1 X X # 1 X X # 2 X X # 3 3 3 # 2 X X # 2 X X
+1 X X # 1 X X # 2 X X # 3 3 X # 2 X X # 2 X X	put two brown blocks, one red block, one orange block, 2 red blocks	1 X X # 1 X X # 2 X X # 3 3 3 # 2 X X # 2 X X
+1 X X # 1 X X # 2 X X # 3 X X # 2 X X # 2 X X	put two brown blocks, one red block, one orange block, 2 red blocks	1 X X # 1 X X # 2 X X # 3 3 X # 2 X X # 2 X X
+1 X X # 1 X X # 2 X X # 3 3 X # 2 X X # 2 X X	put two brown blocks, one red block, two orange blocks stacked on one another, 2 red blocks	1 X X # 1 X X # 2 X X # 3 3 3 # 2 X X # 2 X X
+2 X X # 3 X X # 1 X X # 0 X X # 2 X X # 0 X X	remove one orange block	2 X X # 3 3 X # 1 X X # 0 X X # 2 X X # 0 X X
+2 X X # 0 X X # 3 X X # 0 X X # 3 X X	add one red block one blue block one orange block one blue block one orange block	2 X X # 0 X X # 3 3 X # 0 X X # 3 3 X
+2 X X # 0 X X # 3 3 X # 0 X X # 3 3 X	add one red block one blue block one orange block one blue block one orange block	2 X X # 0 X X # 3 3 3 # 0 X X # 3 3 3
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	remove one orange block	3 X X # 0 X X # 0 X X # 1 X X # 1 X X
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	put one orange block two blue blocks two brown blocks	3 X X # 0 X X # 0 X X # 1 X X # 1 X X
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	put one orange block two blue blocks two brown blocks	3 X X # 0 X X # 0 X X # 1 X X # 1 X X
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	put one orange block	3 X X # 0 X X # 0 X X # 1 X X # 1 X X
+3 X X # 0 X X # 0 X X # 1 X X # 1 X X	put one orange block	3 X X # 0 X X # 0 X X # 1 X X # 1 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	put red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	put red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red two orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red two orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 3 X X	red brown red orange orange	2 X X # 1 X X # 2 X X # 3 X X # 3 X X
+2 X X # 2 X X # 3 X X # 2 X X # 1 X X	put blue on the middle	2 X X # 2 X X # 3 0 X # 2 X X # 1 X X
+2 X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X	red brown red red brown brown	2 X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X
+2 X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X	red brown red red brown brown	2 X X # 1 X X # 2 X X # 2 X X # 1 X X # 1 X X
+3 X X # 2 X X # 1 X X # 1 X X # 3 X X	orange red brown brown orange	3 X X # 2 X X # 1 X X # 1 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 3 X X	orange red brown brown orange	3 X X # 2 X X # 1 X X # 1 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 3 X X	orange red brown brown orange	3 X X # 2 X X # 1 X X # 1 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown red orange in all	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	repeat	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 0 X # 1 0 X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	X X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red brown brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X
+3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X	orange red two brown red orange	3 X X # 2 X X # 1 X X # 1 X X # 2 X X # 3 X X

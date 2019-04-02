@@ -1,0 +1,92 @@
+2 X X # 2 X X # 3 X X # 2 X X # 1 X X # 1 X X	bring the brown stack	2 3 X # 2 3 X # 3 X X # 2 3 X # 1 X X # 1 X X
+2 3 X # 2 3 X # 3 X X # 2 3 X # 1 X X # 1 X X	go to the next one	2 3 3 # 2 3 3 # 3 3 X # 2 3 3 # 1 X X # 1 X X
+1 X X # 0 X X # 2 X X # 3 X X # 0 X X # 2 X X	one!	1 X X # 0 X X # 2 X X # 3 3 X # 0 X X # 2 X X
+1 X X # 0 X X # 2 X X # 3 3 X # 0 X X # 2 X X	put down the one that is on the first layer	1 X X # 0 X X # 2 X X # 3 3 3 # 0 X X # 2 X X
+1 X X # 0 X X # 2 X X # 3 3 X # 0 X X # 2 X X	put down the one that is on the first layer	1 3 X # 0 3 X # 2 3 X # 3 3 X # 0 3 X # 2 3 X
+1 X X # 0 X X # 2 X X # 3 X X # 0 X X # 2 X X	start the game	1 X X # 0 X X # 2 X X # 3 3 X # 0 X X # 2 X X
+1 X X # 0 X X # 2 X X # 3 3 X # 0 X X # 2 X X	go back	1 X X # 0 X X # 2 X X # 3 3 3 # 0 X X # 2 X X
+1 X X # 0 X X # 2 X X # 3 X X # 0 X X # 2 X X	fill the empty one	1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 X X # 0 X X # 2 X X # 3 X X # 0 X X # 2 X X	one	1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill the next one	1 3 0 # 0 3 0 # 2 3 0 # 3 0 X # 0 3 0 # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill the next one	1 3 0 # 0 3 0 # 2 3 0 # 3 0 X # 0 3 0 # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 X # 0 X X # 2 X X # X X X # 0 X X # 2 X X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 1 # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X
+1 3 X # 0 3 X # 2 3 X # 3 X X # 0 3 X # 2 3 X	fill with new ones	1 3 2 # 0 3 2 # 2 3 2 # 3 2 X # 0 3 2 # 2 3 2
+1 X X # 1 X X # 1 X X # 3 X X	put	1 X X # 1 X X # 1 X X # 3 X X
+1 X X # 1 X X # 1 X X # 3 X X	done	1 X X # 1 X X # 1 X X # 3 X X
+1 X X # 1 X X # 1 X X # 3 X X	repeat	1 X X # 1 X X # 1 X X # X X X
+2 X X # 2 X X # 0 X X # 2 X X # 0 X X # 0 X X	enter	2 X X # 2 X X # 0 X X # 2 X X # 0 X X # 0 0 X
+2 X X # 3 X X # 2 X X # 2 X X # 2 X X # 2 X X	start	X X X # 3 X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 0 X X # 1 X X # 0 X X # 0 X X	next	0 1 X # 0 1 X # 0 1 X # 1 X X # 0 1 X # 0 1 X
+0 X X # 3 X X # 0 X X # 0 X X # 0 X X # 3 X X	proceed	0 X X # X X X # 0 X X # 0 X X # 0 X X # X X X
+0 X X # 3 X X # 0 X X # 3 X X # 0 X X # 0 X X	further proceed	0 X X # 3 X X # 0 X X # 3 X X # 0 X X # X X X
+3 X X # 1 X X # 3 X X # 1 X X	next	3 X X # 1 X X # 3 X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X	proceed once again	X X X # 2 X X # 2 X X # 3 X X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X	two more time'	X X X # 0 X X # 3 X X # 3 X X # 3 X X
+0 X X # 3 X X # 0 X X # 0 X X # 0 X X # 3 X X	one more time	0 0 X # 3 X X # 0 X X # 0 X X # 0 X X # 3 X X
+0 3 X # 3 0 X # 0 3 X	take the blue	0 X X # 3 0 X # 0 X X
+0 X X # 3 0 X # 0 X X	fill the other	0 0 X # 3 0 0 # 0 0 X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	next	0 X X # 2 X X # 0 X X # 2 X X # 0 X X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	start	0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	start	0 X X # 2 0 X # 0 X X # 2 0 X # 0 X X
+0 X X # 2 0 X # 0 X X # 2 0 X # 0 X X	start with different color	0 3 X # 2 0 3 # 0 3 X # 2 0 3 # 0 3 X
+0 0 X # 2 2 X # 0 0 X	8th one	0 0 X # 2 X X # 0 0 X
+0 0 X # 3 3 X # 0 0 X	seven	0 X X # 3 X X # 0 0 X
+0 0 X # 3 3 X # 0 0 X	fresh	0 0 3 # 3 3 X # 0 0 3
+0 0 3 # 3 3 X # 0 0 3	start	0 0 X # 3 3 X # 0 0 3
+0 0 X # 3 3 X # 0 0 X	fresh	0 0 X # 3 3 2 # 0 0 2
+0 0 X # 3 3 X # 0 0 X	one'	0 0 3 # 3 3 3 # 0 0 X
+0 0 X # 3 3 X # 0 0 X	start'	0 0 X # 3 3 3 # 0 0 3
+0 0 X # 3 3 X # 0 0 X	start	0 0 X # 3 X X # 0 0 X
+0 0 X # 3 X X # 0 0 X	fill the top	0 0 3 # 3 X X # 0 0 3
+1 1 X # 3 3 X # 1 1 X	6	1 1 X # 3 X X # 1 1 X
+1 1 X # 3 X X # 1 1 X	top	1 1 3 # 3 X X # 1 1 3
+3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X	5	3 3 X # 0 X X # 3 3 X # 0 X X # 3 3 X # 0 X X
+3 3 X # 0 X X # 3 3 X # 0 X X # 3 3 X # 0 X X	fill the top	3 3 0 # 0 X X # 3 3 0 # 0 X X # 3 3 0 # 0 X X
+0 3 X # 3 0 X # 0 3 X # 3 0 X	replace with brown	0 X X # 3 0 X # 0 X X # 3 0 X
+0 X X # 3 0 X # 0 X X # 3 0 X	fill the empty with brown in the second row	0 1 X # 3 0 1 # 0 1 X # 3 0 1
+3 2 X # 2 3 X # 3 2 X	3	3 2 X # 2 X X # 3 2 X
+3 2 X # 2 3 X # 3 2 X	fill	3 2 X # 2 3 1 # 3 2 X
+3 2 X # 2 3 X # 3 2 X	start	3 2 X # 2 3 2 # 3 2 X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	2	3 1 3 # 1 3 X # 3 1 3 # 1 3 X # 3 1 3
+0 2 X # 2 0 X # 0 2 X	1	0 2 X # 2 0 0 # 0 2 0
+0 2 X # 2 0 0 # 0 2 0	start	0 2 X # 2 0 0 # 0 2 0
+0 2 X # 2 0 X # 0 2 X	next	0 2 X # 2 0 X # 0 2 X
+0 2 X # 2 0 X # 0 2 X	1	0 2 0 # 2 0 X # 0 2 0
+0 2 X # 2 0 X # 0 2 X	start	0 2 0 # 2 0 0 # 0 2 0
+0 2 X # 2 0 X # 0 2 X	start	0 X X # 2 0 X # 0 X X
+0 X X # 2 0 X # 0 X X	fill with blue	0 0 X # 2 0 0 # 0 0 X
+0 X X # 0 X X # 0 X X # 3 X X # 3 X X # 0 X X	1	0 X X # 0 0 X # 0 0 X # 3 0 X # 3 0 X # 0 0 X
+3 X X # 3 X X # 0 X X	2	X X X # X X X # 0 X X
+1 X X # 3 X X # 3 X X	3	1 3 X # 3 X X # 3 X X
+0 X X # 0 X X # 0 X X	7	X X X # X X X # 0 X X
+1 X X # 0 X X # 0 X X # 1 X X	6	1 X X # X X X # X X X # X X X
+0 X X # 2 X X # 0 X X	5	0 X X # 2 0 X # 0 X X
+1 X X # 3 X X # 1 X X # 3 X X	4	X X X # X X X # X X X # 3 X X
+2 X X # 3 X X # 2 X X # 2 X X # 3 X X # 2 X X	3	2 2 X # 3 2 X # 2 2 X # 2 2 X # 3 2 X # 2 X X
+0 X X # 0 X X # 0 X X # 3 X X # 3 X X	2	0 X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 1 X X	1	3 3 X # 1 X X # 1 X X
+0 2 X # 0 0 X # 1 X X	1	0 X X # 0 0 X # 1 X X
+0 X X # 1 X X	9	0 X X # 1 3 X
+2 3 X # 2 X X # 0 3 X # 0 3 X	8	2 3 X # X X X # 0 X X # 0 X X
+3 3 X # 3 X X # 1 0 X	7	3 3 X # 3 X X # 1 0 1
+1 X X # 0 2 X # 1 2 X	6	X X X # 0 2 X # 1 X X
+X X X # 0 2 X # 1 X X	try	X X X # 0 2 X # 1 2 X
+2 0 X # 3 3 X # 3 X X # 0 X X	5	2 0 X # 3 3 X # 3 X X # 0 0 X
+1 X X # 0 3 X # 0 X X # 3 X X	4	1 X X # 0 3 X # 0 X X # X X X
+1 X X # 0 0 X # 1 1 X	3	X X X # 0 0 X # 1 1 X
+2 X X # 0 X X # 1 X X	2	2 1 X # 0 1 X # 1 X X
+0 X X # 1 0 X	1	0 X X # 1 X X
+2 X X # 3 X X # 2 X X # 2 X X # 0 X X	1	2 X X # 3 X X # 2 X X # 2 X X # X X X
+2 X X # 2 X X # 3 X X # 1 X X # 0 X X	4	X X X # X X X # 3 X X # 1 X X # 0 X X
+3 X X # 2 X X # 1 X X # 2 X X # 0 X X	5	X X X # 2 X X # 1 X X # 2 X X # 0 X X
+0 X X # 3 X X # 2 X X # 3 X X # 0 X X # 3 X X	5	X X X # 3 X X # 2 X X # 3 X X # X X X # 3 X X
+0 X X # 1 X X # 0 X X # 0 X X # 0 X X	3	0 X X # X X X # 0 X X # 0 X X # 0 X X
+3 X X # 2 X X # 1 X X # 3 X X # 3 X X	2	3 X X # 2 X X # X X X # 3 X X # 3 X X
+0 X X # 1 X X # 1 X X # 2 X X # 3 X X	1	0 X X # 1 X X # 1 X X # X X X # 3 X X

@@ -1,0 +1,3 @@
+2 X X # 3 X X # 2 X X # 2 X X # 2 X X	see the wall?	X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X	grab wall next to start	X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X	grab wall next to start	X X X # X X X # X X X # X X X # X X X

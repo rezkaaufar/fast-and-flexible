@@ -1,0 +1,56 @@
+3 X X # 3 X X # 3 X X # 2 X X	remove the red block from the set of blocks next to start	3 X X # 3 X X # 3 X X # X X X
+3 X X # 2 X X # 2 X X # 2 X X	place 3 red blocks on top of the 3 red blocks next to the orange block next to start	3 X X # 2 2 X # 2 2 X # 2 2 X
+0 X X # 2 X X # 2 X X # 0 X X # 0 X X # 2 X X	remove the blue block on the far left next to start	X X X # 2 X X # 2 X X # 0 X X # 0 X X # 2 X X
+1 X X # 0 X X # 1 X X # 0 X X # 1 X X # 0 X X	remove the brown cube on the left	X X X # 0 X X # 1 X X # 0 X X # 1 X X # 0 X X
+2 X X # 2 X X # 2 X X # 1 X X # 2 X X # 2 X X	remove the brown block	2 X X # 2 X X # 2 X X # X X X # 2 X X # 2 X X
+3 X X # 1 X X # 1 X X # 3 X X	add two orange blocks	3 3 X # 1 X X # 1 X X # 3 3 X
+3 X X # 1 X X # 1 X X # 1 X X	add orange block	3 3 X # 1 X X # 1 X X # 1 X X
+3 X X # 2 X X # 3 X X # 3 X X # 3 X X # 2 X X	remove orange block	X X X # 2 X X # 3 X X # 3 X X # 3 X X # 2 X X
+0 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove orange block	0 X X # 3 X X # 3 X X # 3 X X # X X X
+1 X X # 0 X X # 0 X X # 1 X X # 1 X X # 1 X X	move brown block	X X X # 0 X X # 0 X X # 1 X X # 1 X X # 1 X X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	move 2 blue	0 2 X # 2 X X # 0 2 X # 2 X X # 0 2 X
+1 3 X # 3 1 X # 1 3 X	turn top orange blocks blue	1 3 X # 3 1 0 # 1 3 X
+1 3 X # 3 1 0 # 1 3 X	turn top blocks blue	1 3 X # 3 1 X # 1 X X
+1 3 X # 3 1 0 # 1 3 X	turn top blocks blue	1 3 X # 3 1 X # 1 X X
+3 X X # 1 X X # 3 X X # 2 X X # 2 X X	build goal blocks	X X X # 1 X X # X X X # 2 X X # 2 X X
+0 X X # 0 X X # 1 X X # 2 X X # 3 X X # 1 X X	build goal blocks	X X X # X X X # 1 X X # 2 X X # 3 X X # 1 X X
+1 X X # 1 X X # 0 X X # 0 X X # 0 X X	build goal blocks	1 X X # 1 X X # X X X # X X X # X X X
+2 X X # 1 X X # 1 X X # 3 X X # 2 X X # 1 X X	build goal blocks	2 X X # 1 X X # 1 X X # X X X # 2 X X # 1 X X
+0 X X # 2 X X # 2 X X # 0 X X # 1 X X	build goal blocks	X X X # 2 X X # 2 X X # X X X # 1 X X
+0 X X # 0 X X # 2 X X # 0 X X # 0 X X	build goal blocks	0 X X # 0 X X # 2 X X # 0 X X # 0 0 X
+2 3 X # 3 2 X # 2 3 X # 3 2 X # 2 3 X	build goal blocks	2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X
+2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X	build goal blocks	2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X
+2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X	build goal blocks	2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X
+2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X	build goal blocks	2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X
+2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X	build goal blocks	2 X X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X
+2 3 X # 3 2 1 # 2 3 X # 3 2 1 # 2 3 X	build goal blocks	2 X X # 3 2 X # 2 X X # 3 2 X # 2 X X
+0 X X # 0 X X # 0 X X # 0 X X # 1 X X # 0 X X	build goal blocks	0 0 X # 0 0 X # 0 0 X # 0 0 X # 1 0 X # 0 X X
+3 X X # 3 X X # 1 X X # 1 X X	build goal blocks	3 1 X # 3 1 X # 1 1 X # 1 X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X # 3 X X	build goal blocks	X X X # X X X # X X X # X X X # X X X # 3 X X
+1 X X # 3 X X # 1 X X # 1 X X # 1 X X	build goal blocks	X X X # 3 X X # X X X # X X X # X X X
+3 X X # 3 X X # 2 X X # 3 X X	build goal blocks	3 3 X # 3 3 X # 2 3 X # 3 X X
+0 X X # 0 X X # 1 X X # 0 X X	build goal blocks	0 X X # 0 0 X # 1 0 X # 0 0 X
+3 X X # 1 X X # 1 X X # 1 X X # 3 X X	build goal blocks	3 3 X # 1 3 X # 1 3 X # 1 3 X # 3 X X
+2 X X # 2 X X # 2 X X	build goal blocks	X X X # X X X # 2 X X
+3 X X # 3 X X # 2 X X # 2 X X	build goal blocks	3 3 X # 3 3 X # 2 3 X # 2 X X
+1 X X # 3 X X # 3 X X	build goal blocks	1 X X # 3 3 X # 3 3 X
+3 X X # 1 3 X # 1 3 X	build goal blocks	3 0 X # 1 3 X # 1 3 X
+1 1 X # 2 X X # 0 X X	build goal blocks	1 X X # X X X # 0 X X
+3 X X # 3 X X # 0 X X # 0 X X	build goal blocks	X X X # X X X # 0 X X # 0 X X
+1 X X # 1 X X # 3 X X # 1 3 X	build goal blocks	1 0 X # 1 0 X # 3 X X # 1 3 X
+3 2 X # 3 X X # 1 1 X	build goal blocks	3 2 X # X X X # 1 X X
+2 X X # 3 X X # 1 3 X # 1 X X	build goal blocks	X X X # X X X # 1 X X # 1 X X
+1 3 X # 0 X X # 3 X X # 0 X X	build goal blocks	1 X X # X X X # X X X # 0 X X
+1 3 X # 0 3 X # 0 X X	build goal blocks	1 X X # 0 X X # 0 X X
+2 1 X # 2 2 X	build goal blocks	2 X X # 2 2 X
+2 X X # 2 1 X # 2 X X	build goal blocks	X X X # 2 1 X # 2 X X
+2 2 X # 2 0 X # 2 2 X	duplicate the blocks next to the goal	2 X X # 2 0 X # 2 X X
+3 3 X # 2 2 X # 3 3 X	duplicate the blocks next to the goal	3 3 3 # 2 2 X # 3 3 3
+1 1 X # 3 3 X # 1 1 X # 3 3 X # 1 1 X	duplicate the blocks next to the goal	1 1 X # 3 X X # 1 1 X # 3 X X # 1 1 X
+3 3 X # 1 1 X # 3 3 X # 1 1 X	duplicate the blocks next to the goal	3 3 3 # 1 1 X # 3 3 3 # 1 1 X
+0 0 X # 0 1 X # 0 0 X # 0 1 X # 0 0 X # 0 1 X	dulicate goal	0 0 1 # 0 1 X # 0 0 1 # 0 1 X # 0 0 1 # 0 1 X
+0 0 X # 0 1 X # 0 0 X	dulicate goal	0 0 X # 0 X X # 0 0 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X	dulicate goal	3 X X # 3 1 X # 3 X X # 3 1 X
+3 3 X # 1 1 X # 3 3 X # 1 1 X # 3 3 X	dulicate goal	3 3 X # 1 X X # 3 3 X # 1 X X # 3 3 X
+1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 X	build the goal	1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 1
+3 2 X # 2 3 X # 3 2 X # 2 3 X	duplicate goal blocks	3 2 X # 2 X X # 3 2 X # 2 X X

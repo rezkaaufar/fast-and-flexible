@@ -1,0 +1,60 @@
+1 X X # 0 X X # 3 X X # 1 X X # 0 X X # 3 X X	Move	X X X # 0 X X # 3 X X # X X X # 0 X X # 3 X X
+0 X X # 1 X X # 0 X X # 2 X X # 1 X X	shift	0 X X # X X X # 0 X X # 2 X X # X X X
+1 X X # 0 X X # 0 X X # 2 X X # 0 X X # 3 X X	move	1 X X # 0 X X # 0 X X # X X X # 0 X X # 3 X X
+3 X X # 0 X X # 3 X X # 1 X X # 0 X X # 3 X X	next	3 X X # 0 X X # 3 X X # X X X # 0 X X # 3 X X
+2 X X # 2 X X # 2 X X # 0 X X # 3 X X	red	2 X X # 2 X X # 2 X X # X X X # 3 X X
+3 X X # 1 X X # 2 X X # 0 X X # 1 X X	move	X X X # 1 X X # 2 X X # 0 X X # 1 X X
+0 X X # 0 X X # 3 X X # 1 X X # 2 X X	puz	0 X X # 0 X X # X X X # 1 X X # 2 X X
+1 X X # 1 X X # 1 X X # 3 X X # 1 X X	achive	X X X # X X X # X X X # 3 X X # X X X
+2 X X # 3 X X # 2 X X # 3 X X # 2 X X # 2 X X	puz	2 X X # 3 X X # 2 X X # 3 X X # 2 X X # 2 3 X
+0 X X # 1 X X # 1 X X # 0 X X	go	0 X X # X X X # X X X # 0 X X
+0 X X # 0 X X # 2 X X # 2 X X	go	0 X X # 0 X X # X X X # X X X
+2 X X # 3 X X # 3 X X # 2 X X # 2 X X # 2 X X	next	2 2 X # 3 X X # 3 X X # 2 2 X # 2 2 X # 2 2 X
+2 X X # 2 X X # 0 X X # 2 X X # 0 X X # 0 X X	next	2 X X # 2 X X # 0 X X # 2 X X # 0 X X # 0 2 X
+0 X X # 0 X X # 0 X X # 0 X X	solve	X X X # 0 X X # 0 X X # 0 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	solve this	X X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X
+0 X X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X	do like	0 2 X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X
+0 X X # 3 X X # 0 X X # 0 X X # 3 X X	do like	X X X # 3 X X # 0 X X # 0 X X # 3 X X
+1 X X # 0 X X # 1 X X # 0 X X	copy	1 X X # 0 X X # 1 X X # 0 1 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X # 3 3 X # 3 0 X	copy goal	3 3 0 # 3 0 X # 3 3 0 # 3 0 X # 3 3 0 # 3 0 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X	copy goal	3 3 2 # 3 0 X # 3 3 2 # 3 0 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X	copy	3 3 X # 3 X X # 3 3 X # 3 X X
+3 3 X # 3 X X # 3 3 X # 3 X X	built	3 3 3 # 3 3 X # 3 3 3 # 3 3 X
+3 3 X # 0 0 X # 3 3 X # 0 0 X	top only	3 3 X # 0 0 3 # 3 3 X # 0 0 3
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	copy	1 1 3 # 1 3 X # 1 1 3 # 1 3 X # 1 1 3
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	next move	0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X
+0 0 X # 0 1 X # 0 0 X # 0 1 X	solve	0 X X # 0 1 X # 0 X X # 0 1 X
+0 0 X # 0 2 X # 0 0 X # 0 2 X	get goal	0 X X # 0 X X # 0 X X # 0 X X
+0 0 X # 0 2 X # 0 0 X # 0 2 X	shift	0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X	get	0 0 1 # 0 1 X # 0 0 1 # 0 1 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X	patt	2 2 1 # 2 0 X # 2 2 1 # 2 0 X # 2 2 1
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X	go	2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X
+2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X	get	2 2 1 # 2 1 X # 2 2 1 # 2 1 X # 2 2 1
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	done it	0 0 1 # 0 2 X # 0 0 1 # 0 2 X # 0 0 1 # 0 2 X
+3 3 X # 3 2 X # 3 3 X	complete	3 3 X # 3 X X # 3 3 X
+3 3 X # 3 X X # 3 3 X	get	3 3 3 # 3 3 X # 3 3 3
+0 X X # 3 X X # 0 X X # 3 X X # 3 X X # 0 X X	set	0 X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 0 X X # 3 X X # 3 X X	solve it	X X X # X X X # X X X # 3 X X
+2 X X # 1 X X # 2 X X	next	X X X # X X X # 2 X X
+0 X X # 2 X X # 2 X X	got	0 X X # X X X # X X X
+2 X X # 2 X X # 3 X X	go	X X X # X X X # 3 X X
+2 X X # 0 X X # 2 X X # 0 X X # 0 X X	copy	2 0 X # 0 X X # 2 0 X # 0 X X # 0 X X
+1 X X # 3 X X # 3 X X # 3 X X # 3 X X # 1 X X	copy	1 X X # 3 3 X # 3 3 X # 3 3 X # 3 3 X # 1 X X
+2 X X # 3 X X # 3 X X # 2 X X	get goal	2 X X # X X X # X X X # 2 X X
+2 X X # 2 X X # 0 X X # 2 X X	get that	2 X X # 2 X X # 0 2 X # 2 X X
+3 X X # 3 X X # 0 X X	get it	3 X X # 3 X X # 0 0 X
+3 2 X # 3 X X # 1 1 X	state	3 2 X # 3 3 X # 1 1 3
+1 X X # 1 1 X # 1 2 X	get	1 2 X # 1 1 2 # 1 2 2
+1 X X # 1 X X	goal	X X X # 1 X X
+1 X X # 1 X X # 0 X X	get all	1 X X # X X X # X X X
+0 X X # 0 0 X	copy that	0 X X # 0 X X
+2 X X # 3 1 X	copy goal	2 2 X # 3 1 X
+0 3 X # 3 X X	get it	0 3 3 # 3 X X
+3 X X # 3 X X # 1 2 X # 2 X X	get goal	X X X # X X X # 1 2 X # 2 X X
+3 X X # 3 X X # 3 X X	copy goal	X X X # 3 X X # 3 X X
+1 X X # 3 X X # 0 X X # 1 X X	copy goal	1 X X # 3 X X # 0 X X # 1 1 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	built the goal	2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	built	2 2 2 # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	built	2 2 2 # 2 3 3 # 2 3 3 # 2 3 X # 2 2 2
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	built	2 2 2 # 2 3 3 # 2 3 3 # 2 3 X # 2 2 2
+2 2 2 # 2 3 3 # 2 3 3 # 2 3 X # 2 2 2	go built	2 2 2 # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 2

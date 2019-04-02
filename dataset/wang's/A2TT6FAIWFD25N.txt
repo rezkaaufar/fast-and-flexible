@@ -1,0 +1,55 @@
+3 X X # 1 X X # 1 X X # 0 X X # 1 X X	next	X X X # 1 X X # 1 X X # 0 X X # 1 X X
+2 X X # 3 X X # 3 X X # 1 X X # 1 X X # 0 X X	next	X X X # 3 X X # 3 X X # 1 X X # 1 X X # 0 X X
+1 X X # 3 X X # 0 X X # 0 X X # 1 X X # 1 X X	next	X X X # 3 X X # 0 X X # 0 X X # X X X # X X X
+1 X X # 3 X X # 3 X X # 2 X X # 2 X X	next	X X X # 3 X X # 3 X X # 2 X X # 2 X X
+2 X X # 0 X X # 0 X X # 3 X X # 1 X X	next	2 X X # X X X # X X X # 3 X X # 1 X X
+0 X X # 1 X X # 1 X X # 0 X X # 1 X X	next	0 X X # X X X # X X X # 0 X X # X X X
+2 X X # 2 X X # 3 X X # 2 X X # 2 X X # 2 X X	next	X X X # 2 X X # 3 X X # 2 X X # 2 X X # 2 X X
+0 X X # 0 X X # 0 X X # 0 X X # 2 X X	next	X X X # 0 X X # 0 X X # 0 X X # 2 X X
+3 X X # 3 X X # 0 X X # 0 X X # 3 X X # 0 X X	next	X X X # 3 X X # 0 X X # 0 X X # 3 X X # 0 X X
+3 X X # 1 X X # 1 X X # 3 X X # 3 X X	next	X X X # 1 X X # 1 X X # X X X # X X X
+3 X X # 3 X X # 0 X X # 0 X X # 3 X X	next	3 3 X # 3 X X # 0 X X # 0 X X # 3 X X
+3 X X # 3 X X # 1 X X # 1 X X	next	3 X X # 3 X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 1 X X	next	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 1 3 X
+0 X X # 0 X X # 3 X X # 3 X X # 0 X X	next	X X X # X X X # 3 X X # 3 X X # X X X
+1 X X # 1 X X # 1 X X # 2 X X	next	1 1 X # 1 1 X # 1 1 X # 2 X X
+1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X	next	1 1 0 # 2 2 X # 1 1 0 # 2 2 X # 1 1 0
+1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X	next	1 1 0 # 2 2 X # 1 1 0 # 2 2 X # 1 1 0
+1 1 0 # 2 2 X # 1 1 0 # 2 2 X # 1 1 0	next	1 1 0 # 2 X X # 1 1 0 # 2 X X # 1 1 0
+2 1 X # 1 2 X # 2 1 X # 1 2 X	next	2 1 X # 1 2 1 # 2 1 X # 1 2 1
+2 1 X # 1 2 X # 2 1 X # 1 2 X	next	2 1 X # 1 2 0 # 2 1 X # 1 2 0
+2 1 X # 1 2 X # 2 1 X # 1 2 X	increase	2 1 X # 1 2 X # 2 1 X # 1 2 X
+2 1 X # 1 2 X # 2 1 X # 1 2 X	next	2 1 X # 1 2 0 # 2 1 X # 1 2 0
+2 1 X # 1 2 0 # 2 1 X # 1 2 0	move	2 1 X # 1 2 0 # 2 1 X # 1 2 0
+2 1 X # 1 2 X # 2 1 X # 1 2 X	next	2 1 X # 1 2 1 # 2 1 X # 1 2 1
+2 1 X # 1 2 X # 2 1 X # 1 2 X	next	2 1 0 # 1 2 X # 2 1 0 # 1 2 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X # 3 3 X	next	3 3 1 # 3 0 X # 3 3 1 # 3 0 X # 3 3 1
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	next	1 1 X # 1 0 1 # 1 1 X # 1 0 1 # 1 1 X
+2 2 X # 1 1 X # 2 2 X	next	2 X X # 1 1 X # 2 X X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X # 1 3 X	next	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	next	1 3 X # 3 X X # 1 3 X # 3 X X # 1 3 X
+0 0 X # 0 1 X # 0 0 X	next	0 0 1 # 0 1 X # 0 0 1
+2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	next	2 0 X # 0 2 0 # 2 0 X # 0 2 0 # 2 0 X # 0 2 0
+1 1 X # 1 2 X # 1 1 X	next	1 1 X # 1 2 0 # 1 1 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X	next	2 2 X # 2 X X # 2 2 X # 2 X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X	next	X X X # X X X # X X X # X X X # 0 X X
+2 X X # 2 X X # 2 X X # 2 X X # 3 X X	next	X X X # X X X # X X X # X X X # 3 X X
+1 X X # 1 X X # 3 X X # 3 X X # 1 X X # 1 X X	next	1 3 X # 1 3 X # 3 X X # 3 X X # 1 3 X # 1 3 X
+3 X X # 2 X X # 3 X X # 2 X X	next	3 X X # 2 X X # 3 X X # 2 X X
+3 X X # 2 X X # 3 X X # 2 X X	increase blocks	3 3 X # 2 3 X # 3 3 X # 2 X X
+3 X X # 3 X X # 3 X X	next	3 1 X # 3 1 X # 3 1 X
+2 X X # 1 X X # 2 X X # 1 X X # 2 X X	next	2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X
+2 X X # 2 X X # 2 X X # 0 X X # 0 X X	increase blocks	2 X X # 2 0 X # 2 0 X # 0 0 X # 0 0 X
+3 X X # 3 X X # 0 X X	next	3 3 X # 3 3 X # 0 X X
+3 X X # 2 X X # 2 X X # 3 X X # 2 X X	next	3 X X # 2 3 X # 2 3 X # 3 3 X # 2 3 X
+1 X X # 1 X X # 0 X X	next	1 0 X # 1 0 X # 0 X X
+1 X X # 2 X X # 3 X X # 3 3 X	next	1 X X # X X X # X X X # 3 X X
+1 X X # 1 X X	next	1 X X # X X X
+1 X X # 2 X X # 1 2 X	next	X X X # X X X # 1 2 X
+3 X X # 0 3 X # 2 X X # 3 3 X	next	3 3 X # 0 3 3 # 2 3 X # 3 3 X
+1 X X # 0 X X # 0 X X	next	1 X X # 0 X X # 0 3 X
+1 X X # 1 X X	next	X X X # X X X
+0 1 X # 0 2 X # 2 X X	next	0 X X # 0 X X # 2 X X
+2 3 X # 3 0 X	next	2 3 X # 3 X X
+3 2 X # 3 2 X # 2 2 X	next	3 2 X # 3 X X # 2 X X
+0 0 X # 1 2 X # 0 X X	next	0 0 X # 1 2 X # 0 1 X

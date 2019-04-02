@@ -1,0 +1,23 @@
+0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 X X	FORWARD	0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 2 X
+0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 2 X	JUMP FORWARD	0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 2 2
+0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 2 X	FORWARD	0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 0 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	BLUE JUMP	2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP	2 X X # 0 X X # 0 X X # 2 X X # 2 0 X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP	2 X X # 0 X X # 0 X X # 2 X X # 2 0 X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP	X X X # X X X # X X X # X X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP	X X X # X X X # X X X # X X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE JUMP FORWARD	X X X # X X X # X X X # X X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE BLOCKS JUMP FORWARD	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE BLOCKS JUMP FORWARD	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE BLOCKS JUMP FORWARD	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	BLUE MOVE LEFT	2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE MOVE LEFT	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE MOVE LEFT	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	BLUE MOVE LEFT	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	FORWARD	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	PUT ON THE LEFTMOST RED	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	PUT TWO MOST LEFT	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP BLUE	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP BLUE	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # X X X	JUMP BLUE	2 X X # 0 X X # 0 X X # 2 X X # X X X # X X X

@@ -1,0 +1,60 @@
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	house	3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 2
+0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X # 1 1 X	big	0 0 X # 1 1 X # 0 0 X # 1 1 X # 0 0 X # 1 1 2
+1 0 X # 0 1 X # 1 0 X # 0 1 X	go big	1 0 X # 0 1 X # 1 0 X # 0 1 2
+0 X X # 0 X X # 0 X X # 2 X X # 0 X X	cube	0 2 X # 0 2 X # 0 2 X # 2 2 X # 0 X X
+1 X X # 2 X X # 2 2 X	raise fast	X X X # 2 X X # 2 2 X
+0 1 X # 1 X X # 2 X X # 2 X X	build new	0 1 2 # 1 X X # 2 X X # 2 X X
+0 X X # 1 X X # 3 X X # 2 X X # 1 X X	start new	X X X # 1 X X # 3 X X # 2 X X # 1 X X
+0 X X # 3 X X # 2 X X # 1 X X # 3 X X # 2 X X	big block	X X X # 3 X X # 2 X X # 1 X X # 3 X X # 2 X X
+0 X X # 3 X X # 2 X X # 2 X X # 1 X X # 1 X X	raise big	0 X X # 3 X X # 2 X X # 2 X X # X X X # X X X
+2 X X # 2 X X # 2 X X # 0 X X # 1 X X	grow large	X X X # X X X # X X X # 0 X X # 1 X X
+3 X X # 0 X X # 2 X X # 3 X X # 0 X X # 1 X X	mix colours	3 X X # 0 X X # X X X # 3 X X # 0 X X # 1 X X
+2 X X # 2 X X # 3 X X # 2 X X	apply red	2 X X # 2 X X # 3 2 X # 2 X X
+2 X X # 2 X X # 3 X X # 3 X X	set height	2 2 X # 2 X X # 3 X X # 3 X X
+2 X X # 1 X X # 1 X X # 2 X X	make blue	2 X X # 1 2 X # 1 2 X # 2 X X
+3 X X # 3 X X # 3 X X # 0 X X # 0 X X # 0 X X	mix colours	3 0 X # 3 0 X # 3 0 X # 0 X X # 0 X X # 0 X X
+3 X X # 3 X X # 1 X X # 1 X X # 1 X X	fix height	X X X # X X X # 1 X X # 1 X X # 1 X X
+1 X X # 0 X X # 1 X X # 0 X X	fix blocks	1 X X # 0 1 X # 1 X X # 0 1 X
+3 X X # 0 X X # 3 X X # 3 X X	new house	3 X X # 0 X X # 3 X X # X X X
+1 X X # 1 X X # 1 X X # 0 X X # 0 X X	height 9	X X X # X X X # X X X # 0 X X # 0 X X
+1 X X # 3 X X # 1 X X # 3 X X # 3 X X # 1 X X	fix name new	1 1 X # 3 X X # 1 1 X # 3 X X # 3 X X # 1 1 X
+1 X X # 2 X X # 1 X X # 1 X X # 1 X X # 1 X X	form length	1 X X # 2 X X # 1 X X # 1 X X # 1 X X # 1 2 X
+0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	mix colours	0 2 X # 2 0 2 # 0 2 X # 2 0 2 # 0 2 X
+0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	form circle	0 1 0 # 1 0 X # 0 1 0 # 1 0 X # 0 1 0
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	form L shape	2 2 2 # 3 3 X # 2 2 2 # 3 3 X # 2 2 2 # 3 3 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	wide	0 3 X # 3 0 X # 0 3 X # 3 0 3 # 0 3 X
+0 X X # 2 X X # 0 X X	set goal	0 X X # X X X # X X X
+1 X X # 2 X X # 1 X X # 1 X X # 2 X X # 2 X X	apply purple	X X X # 2 X X # X X X # X X X # 2 X X # 2 X X
+0 X X # 3 X X # 3 X X # 0 X X	form l shape	0 3 X # 3 3 X # 3 3 X # 0 X X
+1 X X # 3 X X # 3 X X # 1 X X # 1 X X # 1 X X	fix knots	1 X X # X X X # X X X # 1 X X # 1 X X # 1 X X
+0 X X # 2 X X # 2 X X # 2 X X	set height 10.1	0 X X # X X X # X X X # X X X
+2 X X # 0 1 X # 2 X X	make stake	2 X X # 0 1 X # X X X
+3 X X # 0 2 X	fix angle	X X X # 0 2 X
+1 0 X # 0 X X	draw circle	1 0 X # X X X
+3 3 X # 3 0 X # 0 X X # 0 X X	fix rectangle	3 3 X # 3 X X # X X X # X X X
+0 X X # 2 X X	form queue	X X X # 2 X X
+1 X X # 1 3 X	merge it	X X X # 1 3 X
+0 X X # 0 0 X # 2 1 X	bend it	0 X X # 0 0 1 # 2 1 1
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	draw line	3 3 3 # 3 1 X # 3 3 3 # 3 1 X # 3 3 3 # 3 1 X
+3 3 X # 3 2 X # 3 3 X # 3 2 X # 3 3 X # 3 2 X	straight line	3 X X # 3 2 X # 3 X X # 3 2 X # 3 X X # 3 2 X
+3 X X # 3 2 X # 3 X X # 3 2 X # 3 X X # 3 2 X	draw vertical	3 X X # 3 2 1 # 3 X X # 3 2 X # 3 X X # 3 2 X
+3 X X # 3 2 X # 3 X X # 3 2 X # 3 X X # 3 2 X	draw vertical	3 X X # 3 2 X # 3 X X # 3 2 X # 3 X X # 3 X X
+3 3 X # 3 2 X # 3 3 X # 3 2 X # 3 3 X	draw obstruct	3 3 X # 3 2 X # 3 3 X # 3 2 0 # 3 3 X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	apartment	2 2 X # 2 0 0 # 2 0 0 # 2 0 3 # 2 2 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X	new line	3 3 1 # 3 1 X # 3 3 1 # 3 1 X
+1 1 X # 1 3 X # 1 1 X	erase line	1 1 3 # 1 3 X # 1 1 3
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	modify block	2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X
+2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X	delete row	2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 0 # 3 3 X
+2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X	form cube	2 2 X # 3 3 2 # 2 2 X # 3 3 0 # 2 2 X # 3 3 X
+2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X	erase rectangle	2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 1 # 3 3 X
+2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X	draw room	2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 2 # 3 3 X
+2 2 X # 3 3 2 # 2 2 X # 3 3 X # 2 2 X # 3 3 X	new room	2 2 X # 3 3 2 # 2 2 X # 3 3 2 # 2 2 X # 3 3 X
+0 X X # 0 2 X # 0 2 X	new block	0 1 X # 0 2 1 # 0 2 X
+0 0 X # 0 1 1 # 0 1 1 # 0 1 X # 0 0 X	new apparent	0 0 2 # 0 1 1 # 0 1 1 # 0 1 X # 0 0 2
+2 0 X # 0 2 X # 2 0 X # 0 2 X	draw house	2 0 0 # 0 2 X # 2 0 X # 0 2 X
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	new floor	2 0 0 # 0 2 X # 2 X X # 0 2 X
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	new progress	2 0 0 # 0 2 3 # 2 0 3 # 0 2 3
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	fix grid	2 0 0 # 0 2 X # 2 0 0 # 0 2 X
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	draw zigzag	2 0 0 # 0 2 1 # 2 0 X # 0 2 1
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	skip pattern	2 0 0 # 0 2 1 # 2 0 X # 0 2 X
+2 0 0 # 0 2 X # 2 0 X # 0 2 X	erase command	2 0 X # 0 X X # 2 0 X # 0 X X

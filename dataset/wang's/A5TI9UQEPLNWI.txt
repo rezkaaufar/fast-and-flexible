@@ -1,0 +1,49 @@
+3 X X # 0 X X # 2 X X # 3 X X # 0 X X	back top	3 X X # 0 X X # 2 2 X # 3 X X # 0 X X
+3 X X # 2 X X # 1 X X # 0 X X # 3 X X # 1 X X	holdorange	X X X # 2 X X # 1 X X # 0 X X # X X X # 1 X X
+1 X X # 1 X X # 0 X X # 3 X X # 2 X X	holdred	1 X X # 1 X X # 0 X X # 3 X X # X X X
+1 X X # 3 X X # 3 X X # 0 X X # 1 X X	holdorange	1 X X # X X X # X X X # 0 X X # 1 X X
+2 X X # 3 X X # 2 X X # 3 X X # 2 X X	holdorange	2 X X # X X X # 2 X X # X X X # 2 X X
+2 X X # 3 X X # 3 X X # 3 X X	orangeoverred	2 3 X # 3 X X # 3 X X # 3 X X
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	redoverorangeend	2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 2 X
+0 X X # 2 X X # 0 X X # 0 X X # 2 X X # 0 X X	holdblueend	0 X X # 2 X X # 0 X X # 0 X X # 2 X X # X X X
+0 X X # 1 X X # 1 X X # 1 X X	holdbrownend	0 X X # 1 X X # 1 X X # X X X
+0 X X # 1 X X # 0 X X # 0 X X	brownoverblue	0 1 X # 1 X X # 0 1 X # 0 1 X
+3 X X # 3 X X # 3 X X # 0 X X # 3 X X # 3 X X	holdorangeend	3 X X # 3 X X # 3 X X # 0 X X # 3 X X # X X X
+1 X X # 1 X X # 2 X X # 1 X X	redstackend	1 X X # 1 X X # 2 X X # 1 2 X
+3 X X # 2 X X # 2 X X # 3 X X	orangeoverred	3 X X # 2 3 X # 2 3 X # 3 X X
+0 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X	holdblue	X X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X
+3 X X # 1 X X # 3 X X # 1 X X	holdorangeend	X X X # 1 X X # 3 X X # 1 X X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	redonblue	0 0 2 # 0 2 X # 0 0 2 # 0 2 X # 0 0 2 # 0 2 X
+2 3 X # 3 2 X # 2 3 X	orangeonred	2 3 X # 3 2 3 # 2 3 X
+3 3 X # 3 2 X # 3 3 X # 3 2 X	redonorange	3 3 2 # 3 2 X # 3 3 2 # 3 2 X
+0 1 X # 1 0 X # 0 1 X # 1 0 X	brownonblue	0 1 X # 1 0 1 # 0 1 X # 1 0 1
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	holdblue	0 3 X # 3 X X # 0 3 X # 3 X X # 0 3 X
+3 2 X # 2 3 X # 3 2 X # 2 3 X # 3 2 X	redonorange	3 2 X # 2 3 2 # 3 2 X # 2 3 2 # 3 2 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	holdorange	3 X X # 3 1 X # 3 X X # 3 1 X # 3 X X # 3 1 X
+2 2 X # 2 3 X # 2 2 X	redonred	2 2 2 # 2 3 X # 2 2 2
+2 2 X # 3 3 X # 2 2 X # 3 3 X	holdorange	2 2 X # 3 X X # 2 2 X # 3 X X
+1 1 X # 3 3 X # 1 1 X	holdorange	1 1 X # 3 X X # 1 1 X
+1 X X # 0 X X # 1 X X # 0 X X # 1 X X	holdblue	1 X X # X X X # 1 X X # X X X # 1 X X
+1 X X # X X X # 1 X X # X X X # 1 X X	holdleftmost	1 X X # X X X # X X X # X X X # X X X
+3 X X # 2 X X # 3 X X # 3 X X # 3 X X	holdrightmost	3 X X # X X X # 3 X X # 3 X X # 3 X X
+3 X X # X X X # 3 X X # 3 X X # 3 X X	holdrightmost	X X X # X X X # X X X # X X X # 3 X X
+0 X X # 0 X X # 0 X X # 0 X X	holdleftmost	0 X X # X X X # X X X # X X X
+0 X X # 2 X X # 0 X X	holdred	0 X X # X X X # 0 X X
+0 X X # X X X # 0 X X	holdleftmost	0 X X # X X X # X X X
+3 X X # 3 X X # 3 X X # 2 X X # 2 X X	redonorange	3 2 X # 3 2 X # 3 2 X # 2 X X # 2 X X
+2 X X # 2 X X # 0 X X # 0 X X # 0 X X	holdleftmost	2 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X	holdbrown	X X X # X X X # 3 X X # X X X
+2 X X # 1 X X # 2 X X # 1 X X # 1 X X	redonred	2 2 X # 1 X X # 2 2 X # 1 X X # 1 X X
+0 X X # 1 X X # 0 X X # 1 X X # 0 X X # 1 X X	holdleftmost	0 X X # X X X # X X X # X X X # X X X # X X X
+0 X X # 2 X X # 0 X X	blueonblue	0 0 X # 2 X X # 0 0 X
+2 0 X # 0 0 X # 2 X X # 0 X X	brownonblue1	2 0 X # 0 0 X # 2 X X # 0 1 X
+3 3 X # 0 2 X	blueonorange	3 3 0 # 0 2 X
+1 1 X # 0 X X	holdblue	1 1 X # X X X
+2 2 X # 3 X X # 3 3 X	holdorange2	2 2 X # 3 X X # 3 X X
+2 X X # 0 2 X	blueonred2	2 X X # 0 2 0
+3 X X # 3 0 X # 3 X X	holdends1	X X X # 3 0 X # X X X
+1 X X # 2 1 X # 1 X X	holdrightend	1 X X # 2 1 X # X X X
+1 X X # 2 1 X # X X X	hold2	1 X X # 2 X X # X X X
+2 1 X # 2 X X # 1 0 X	redonbrown	2 1 2 # 2 X X # 1 0 X
+2 0 X # 0 X X # 1 X X # 0 1 X	blueonbrown	2 0 X # 0 X X # 1 0 X # 0 1 0
+3 X X # 2 X X # 3 X X	orangeonorangerightmost	3 X X # 2 X X # 3 3 X

@@ -1,0 +1,57 @@
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 0 X X	U	2 X X # 0 1 X # 0 1 X # 2 X X # 2 X X # 0 1 X
+1 X X # 0 X X # 3 X X # 0 X X # 3 X X	Build on start	1 3 X # 0 3 X # 3 3 X # 0 3 X # 3 3 X
+1 3 X # 0 3 X # 3 3 X # 0 3 X # 3 3 X	Build	1 3 1 # 0 3 1 # 3 3 1 # 0 3 1 # 3 3 1
+2 X X # 2 X X # 0 X X # 2 X X # 2 X X # 0 X X	Remove blue blocks	2 X X # 2 X X # X X X # 2 X X # 2 X X # X X X
+0 X X # 1 X X # 1 X X # 1 X X # 0 X X	Remove blue blocks	X X X # 1 X X # 1 X X # 1 X X # X X X
+3 X X # 1 X X # 1 X X # 0 X X # 0 X X	Remove Red block	X X X # 1 X X # 1 X X # 0 X X # 0 X X
+1 X X # 2 X X # 2 X X # 0 X X # 1 X X # 1 X X	Remove brown blocks	X X X # 2 X X # 2 X X # 0 X X # X X X # X X X
+0 X X # 2 X X # 1 X X # 0 X X # 0 X X # 1 X X	Remove blue blocks	X X X # 2 X X # 1 X X # X X X # X X X # 1 X X
+2 X X # 0 X X # 0 X X # 1 X X # 1 X X # 2 X X	Remove red blocks	X X X # 0 X X # 0 X X # 1 X X # 1 X X # X X X
+1 X X # 1 X X # 0 X X # 2 X X # 1 X X # 3 X X	Remove red block	1 X X # 1 X X # 0 X X # X X X # 1 X X # 3 X X
+2 X X # 3 X X # 2 X X # 2 X X # 2 X X # 3 X X	Remove Orange block	2 X X # 3 X X # 2 X X # 2 X X # 2 X X # X X X
+1 X X # 3 X X # 3 X X # 3 X X # 1 X X	Add brown block	1 X X # 3 X X # 3 X X # 3 X X # X X X
+2 X X # 1 X X # 1 X X # 1 X X	Remove red block	X X X # 1 X X # 1 X X # 1 X X
+1 X X # 1 X X # 0 X X # 0 X X	Add brown block on top	1 X X # 1 X X # 0 X X # 0 1 X
+3 X X # 3 X X # 2 X X # 2 X X	Add orange block on top	3 3 X # 3 X X # 2 X X # 2 X X
+3 X X # 0 X X # 0 X X # 0 X X	Add blue block	3 X X # 0 X X # 0 X X # X X X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X	Remove red block	X X X # 0 X X # 2 X X # 2 X X # 0 X X # 0 X X
+0 X X # 3 X X # 0 X X # 3 X X	Add blue block	X X X # 3 X X # 0 X X # 3 X X
+1 X X # 3 X X # 1 X X # 1 X X	Remove brown block	X X X # 3 X X # 1 X X # 1 X X
+0 X X # 0 X X # 0 X X # 3 X X # 0 X X	Add blue blocks	X X X # X X X # X X X # 3 X X # X X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	Add brown blocks	0 0 1 # 0 3 X # 0 0 1 # 0 3 X # 0 0 1 # 0 3 X
+1 1 X # 1 2 X # 1 1 X	Add blue blocks	1 1 0 # 1 2 X # 1 1 0
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	Remove orange blocks and add red blocks	0 0 2 # 0 3 X # 0 0 2 # 0 3 X # 0 0 2 # 0 3 X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	Change orange to red blocks	0 X X # 0 X X # 0 X X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X # 0 3 X	Remove orange blocks	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X # 0 X X	Add red blocks	0 0 2 # 0 2 X # 0 0 2 # 0 2 X # 0 0 2 # 0 2 X
+1 0 X # 0 1 X # 1 0 X	Add orange block	1 0 X # 0 1 3 # 1 0 X
+0 0 X # 3 3 X # 0 0 X # 3 3 X # 0 0 X # 3 3 X	Remove top blue blocks	0 0 0 # 3 3 X # 0 0 0 # 3 3 X # 0 0 0 # 3 3 X
+2 2 X # 1 1 X # 2 2 X	Add top red blocks	2 2 2 # 1 1 X # 2 2 2
+0 2 X # 2 0 X # 0 2 X # 2 0 X	Remove top red blocks	0 X X # 2 0 X # 0 X X # 2 0 X
+0 X X # 2 0 X # 0 X X # 2 0 X	Add blue blocks	0 0 X # 2 0 0 # 0 0 X # 2 0 0
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	Remove brown blocks	3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X # 3 X X
+3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X # 3 X X	Add red blocks	3 3 2 # 3 2 X # 3 3 2 # 3 2 X # 3 3 2 # 3 2 X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X	Remove top orange blocks	2 2 X # 3 X X # 2 2 X # 3 X X # 2 2 X
+2 2 X # 3 X X # 2 2 X # 3 X X # 2 2 X	add red blocks	2 2 2 # 3 X X # 2 2 2 # 3 X X # 2 2 2
+2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X	Remove top brown blocks	2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X
+2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X	Add blue blocks	2 0 X # 1 2 0 # 2 0 X # 1 2 0 # 2 0 X
+1 X X # 0 X X # 1 X X	Remove brown blocks	X X X # 0 X X # 1 X X
+1 X X # 1 X X # 1 X X # 1 X X	Add orange blocks	1 3 X # 1 3 X # 1 3 X # 1 3 X
+0 X X # 3 X X # 0 X X # 0 X X # 3 X X	Add blue blocks	0 X X # 3 0 X # 0 0 X # 0 0 X # 3 0 X
+0 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	Remove red and blue blocks	0 X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 2 X X # 3 X X # 3 X X # 2 X X # 2 X X	Add red blocks	3 2 X # 2 2 X # 3 2 X # 3 2 X # 2 2 X # 2 X X
+2 X X # 2 X X # 0 X X # 0 X X # 0 X X # 2 X X	Remove red blocks	X X X # X X X # 0 X X # 0 X X # 0 X X # X X X
+2 X X # 2 X X # 0 X X # 2 X X	Remove blue block	2 X X # 2 X X # X X X # 2 X X
+1 X X # 1 X X # 1 X X	Add red blocks	1 X X # 1 2 X # 1 2 X
+0 X X # 1 X X # 0 X X # 0 X X # 0 X X	remove blue blocks and brown block	X X X # X X X # X X X # X X X # 0 X X
+3 X X # 0 X X # 3 X X # 3 X X # 3 X X	Remove orange blocks	X X X # 0 X X # X X X # X X X # X X X
+1 3 X # 3 0 X	Remove brown block	1 3 X # 3 0 1
+0 2 X # 0 X X # 0 3 X # 2 0 X	Remove blue blocks	0 2 X # 0 0 X # 0 3 0 # 2 0 0
+1 X X # 0 X X # 0 X X # 3 X X	Remvoe blue blocks and orange block	1 X X # X X X # X X X # X X X
+2 X X # 3 X X # 3 X X	Remove red block	X X X # 3 X X # 3 X X
+2 1 X # 3 3 X	Remove orange block	2 1 X # 3 X X
+3 3 X # 3 X X # 3 1 X # 2 X X	Remove brown block and orange blocks	3 X X # X X X # 3 X X # 2 X X
+2 X X # 1 X X # 2 X X	Remove brown block and red block	X X X # X X X # 2 X X
+1 0 X # 0 2 X # 1 X X # 0 X X	Remove brown blocks	1 0 1 # 0 2 1 # 1 X X # 0 1 X
+3 X X # 0 X X # 3 X X # 3 X X	Add blue block	3 0 X # 0 X X # 3 X X # 3 X X
+3 3 X # 1 X X # 0 X X # 0 X X	Remove orange block	3 X X # 1 X X # 0 X X # 0 X X

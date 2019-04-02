@@ -1,0 +1,66 @@
+3 X X # 0 X X # 2 X X # 3 X X # 1 X X	move up	3 X X # 0 X X # 2 0 X # 3 X X # 1 X X
+3 X X # 0 X X # 2 0 X # 3 X X # 1 X X	move down	3 X X # X X X # 2 X X # 3 X X # 1 X X
+3 X X # 0 X X # 2 0 X # 3 X X # 1 X X	move down	3 X X # X X X # 2 0 X # 3 X X # 1 X X
+2 X X # 2 X X # 0 X X # 1 X X # 3 X X # 0 X X	* red	X X X # X X X # 0 X X # X X X # X X X # X X X
+X X X # X X X # 0 X X # X X X # X X X # X X X	* blue block	2 X X # 2 X X # 0 X X # 2 X X # 2 X X # 2 X X
+3 X X # 0 X X # 1 X X # 3 X X # 1 X X	brown	3 X X # X X X # 1 X X # 3 X X # 1 X X
+3 X X # X X X # 1 X X # 3 X X # 1 X X	* brown	3 X X # X X X # 1 X X # 3 X X # 1 X X
+3 X X # X X X # 1 X X # 3 X X # 1 X X	* brown	3 X X # X X X # 1 X X # 3 X X # X X X
+3 X X # X X X # 1 X X # 3 X X # 1 X X	* brown	3 0 X # 0 X X # 1 0 X # 3 0 X # 1 X X
+3 X X # 0 X X # 1 X X # 3 X X # 1 X X	* left blue	3 X X # 0 X X # X X X # 3 X X # 1 X X
+3 X X # 0 X X # X X X # 3 X X # 1 X X	* remove brown	3 X X # 0 X X # X X X # 3 X X # X X X
+2 X X # 0 X X # 0 X X # 0 X X # 0 X X # 3 X X	* remove yellow	2 X X # 0 X X # 0 X X # 0 X X # 0 X X # X X X
+1 X X # 2 X X # 2 X X # 0 X X # 3 X X	* remove red	1 X X # X X X # X X X # 0 X X # 3 X X
+3 X X # 3 X X # 1 X X # 2 X X # 0 X X	* remove brown	3 X X # 3 X X # X X X # 2 X X # 0 X X
+2 X X # 1 X X # 1 X X # 1 X X # 2 X X # 3 X X	* remove brown	2 X X # X X X # X X X # X X X # 2 X X # 3 X X
+2 X X # 3 X X # 2 X X # 3 X X # 0 X X	* remove red	X X X # 3 X X # X X X # 3 X X # 0 X X
+1 X X # 3 X X # 1 X X # 3 X X # 3 X X	* remove brown	X X X # 3 X X # X X X # 3 X X # 3 X X
+1 X X # 1 X X # 3 X X # 1 X X # 1 X X	* remove left brown	X X X # 1 X X # 3 X X # 1 X X # 1 X X
+3 X X # 3 X X # 3 X X # 3 X X	* add right red	3 X X # 3 X X # 3 X X # 3 2 X
+0 X X # 2 X X # 0 X X # 0 X X # 2 X X	* remove blue	X X X # 2 X X # X X X # X X X # 2 X X
+0 X X # 3 X X # 0 X X # 0 X X # 3 X X # 0 X X	* remove blue	X X X # 3 X X # X X X # X X X # 3 X X # X X X
+3 X X # 2 X X # 3 X X # 3 X X	* remove right orange	X X X # 2 X X # 3 X X # 3 X X
+2 X X # 2 X X # 2 X X # 0 X X # 2 X X	* add blue on blue	2 X X # 2 X X # 2 X X # 0 0 X # 2 X X
+3 X X # 0 X X # 0 X X # 3 X X	* remove right orange	3 X X # 0 X X # 0 X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X	* add left orange	2 3 X # 2 X X # 2 X X # 3 X X
+3 X X # 3 X X # 2 X X # 2 X X # 2 X X	* add orange on red	3 X X # 3 X X # 2 3 X # 2 3 X # 2 3 X
+0 0 X # 1 1 X # 0 0 X	* add blue middle	0 0 X # 1 1 0 # 0 0 X
+3 2 X # 2 3 X # 3 2 X # 2 3 X	* remove red in middle	3 X X # 2 3 X # 3 X X # 2 3 X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X	* remove red	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X
+0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X	* add brown	0 0 1 # 0 1 X # 0 0 1 # 0 1 X # 0 0 1
+1 0 X # 0 1 X # 1 0 X	* remove top blue	1 X X # 0 1 X # 1 X X
+1 X X # 0 1 X # 1 X X	* add top red	1 2 X # 0 1 2 # 1 2 X
+1 1 X # 1 0 X # 1 1 X # 1 0 X	* add blue on top of blue	1 1 X # 1 0 0 # 1 1 X # 1 0 0
+1 1 X # 3 3 X # 1 1 X # 3 3 X # 1 1 X # 3 3 X	* add red on top of orange	1 1 X # 3 3 2 # 1 1 X # 3 3 2 # 1 1 X # 3 3 2
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X # 1 3 X	* remove top row	1 X X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X # 1 3 X	* brown	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X
+1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X	* add brown	1 1 1 # 1 1 X # 1 1 1 # 1 1 X # 1 1 1 # 1 1 X
+3 1 X # 1 3 X # 3 1 X	* remove top brown	3 X X # 1 3 X # 3 X X
+1 0 X # 0 1 X # 1 0 X	* add top red	1 0 2 # 0 1 X # 1 0 2
+2 0 X # 0 2 X # 2 0 X # 0 2 X	* add red on top of red	2 0 X # 0 2 2 # 2 0 X # 0 2 2
+3 X X # 3 X X # 3 X X # 2 X X	* remove orange	X X X # X X X # X X X # 2 X X
+1 X X # 3 X X # 1 X X # 1 X X # 1 X X # 1 X X	* remove brown	X X X # 3 X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 3 X X # 1 X X	* remove orange	X X X # 1 X X # X X X # 1 X X
+X X X # 1 X X # X X X # 1 X X	* remove left brown	X X X # X X X # X X X # 1 X X
+2 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove orange	2 X X # X X X # X X X # X X X # X X X
+3 X X # 0 X X # 0 X X # 0 X X	remove orange	X X X # 0 X X # 0 X X # 0 X X
+X X X # 0 X X # 0 X X # 0 X X	remove * right blue	X X X # X X X # X X X # 0 X X
+2 X X # 0 X X # 2 X X	add blue on top of blue	2 0 X # 0 X X # 2 0 X
+2 X X # 2 X X # 0 X X	remove blue	2 X X # 2 X X # X X X
+1 X X # 1 X X # 1 X X	remove * right brown	X X X # X X X # 1 X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X	add orange	3 3 X # 3 3 X # 3 3 X # 3 3 X # 3 3 X
+3 3 X # 3 3 X # 3 3 X # 3 3 X # 3 3 X	remove left orange	3 X X # 3 3 X # 3 3 X # 3 3 X # 3 3 X
+1 X X # 0 X X # 1 X X # 0 X X # 0 X X # 1 X X	add brown on blue	1 X X # 0 1 X # 1 X X # 0 1 X # 0 1 X # 1 X X
+3 X X # 0 X X # 3 X X # 3 3 X	remove blue	3 X X # X X X # 3 X X # 3 3 X
+3 X X # X X X # 3 X X # 3 3 X	remove top and * right orange	X X X # X X X # X X X # 3 X X
+3 0 X # 1 1 X # 3 X X # 3 X X	remove * right orange	3 0 X # 1 1 X # X X X # X X X
+3 0 X # 1 1 X # X X X # X X X	remove top brown	3 0 X # 1 X X # X X X # X X X
+0 3 X # 0 X X # 0 0 X	remove middle top blue	0 3 X # X X X # 0 X X
+1 X X # 0 X X # 3 X X	add top right middle brown	1 1 X # 0 1 X # 3 X X
+2 X X # 0 X X # 0 X X # 2 0 X	add red on top of blue	2 X X # 0 2 X # 0 2 X # 2 0 2
+2 X X # 2 X X # 0 0 X # 2 2 X	remove * left red	X X X # X X X # 0 X X # 2 2 X
+1 X X # 1 2 X # 3 X X	add right orange	1 X X # 1 2 X # 3 3 X
+1 X X # 1 2 X # 3 3 X	add orange on top of red	1 X X # 1 2 3 # 3 3 X
+3 X X # 1 3 X # 2 3 X	remove top orange	3 X X # 1 X X # 2 X X
+0 2 X # 0 3 X	remove top left red	0 X X # 0 3 X
+3 1 X # 2 X X # 1 2 X # 1 X X	add top left brown	3 1 1 # 2 X X # 1 2 X # 1 X X

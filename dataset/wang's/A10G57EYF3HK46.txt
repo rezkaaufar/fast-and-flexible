@@ -1,0 +1,47 @@
+2 X X # 0 X X # 3 X X # 2 X X # 2 X X # 2 X X	move	2 X X # X X X # 3 X X # 2 X X # 2 X X # 2 X X
+3 X X # 3 X X # 2 X X # 0 X X # 0 X X	move	3 X X # 3 X X # X X X # 0 X X # 0 X X
+3 X X # 1 X X # 2 X X # 2 X X # 0 X X	move	3 X X # 1 X X # X X X # X X X # 0 X X
+2 X X # 3 X X # 2 X X # 3 X X # 0 X X # 3 X X	move	2 X X # X X X # 2 X X # X X X # 0 X X # X X X
+2 X X # 3 X X # 1 X X # 1 X X # 0 X X # 2 X X	move	2 X X # 3 X X # X X X # X X X # 0 X X # 2 X X
+0 X X # 0 X X # 0 X X # 1 X X # 2 X X # 3 X X	move	0 X X # 0 X X # 0 X X # 1 X X # X X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X	move	3 X X # 3 X X # 2 2 X # 3 X X
+3 X X # 3 X X # 3 X X # 2 X X # 2 X X # 3 X X	revise	3 3 X # 3 X X # 3 X X # 2 X X # 2 X X # 3 X X
+3 X X # 0 X X # 3 X X # 0 X X	move	3 X X # 0 3 X # 3 X X # 0 3 X
+3 X X # 0 X X # 0 X X # 3 X X # 0 X X	oink	3 0 X # 0 X X # 0 X X # 3 0 X # 0 X X
+0 X X # 2 X X # 2 X X # 2 X X # 0 X X # 0 X X	apagastic	X X X # 2 X X # 2 X X # 2 X X # 0 X X # 0 X X
+0 X X # 0 X X # 0 X X # 3 X X # 0 X X	move	X X X # 0 X X # 0 X X # 3 X X # 0 X X
+1 X X # 0 X X # 0 X X # 1 X X	move	1 0 X # 0 X X # 0 X X # 1 X X
+2 X X # 1 X X # 1 X X # 2 X X # 1 X X	apagastic	2 X X # X X X # X X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 0 X X # 0 X X # 0 X X	move	X X X # 0 X X # 0 X X # 0 X X # 0 X X # 0 X X
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X	move	X X X # 0 X X # 1 X X # 0 X X # 0 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	move	2 3 X # 3 2 0 # 2 3 X # 3 2 0
+3 3 X # 0 0 X # 3 3 X # 0 0 X	move	3 3 1 # 0 0 X # 3 3 1 # 0 0 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X	unmove	3 0 0 # 0 3 X # 3 0 0 # 0 3 X
+2 2 X # 0 0 X # 2 2 X # 0 0 X	move	2 2 X # 0 X X # 2 2 X # 0 X X
+2 2 X # 1 1 X # 2 2 X	move	2 X X # 1 1 X # 2 X X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	move	1 1 0 # 1 0 X # 1 1 0 # 1 0 X # 1 1 0
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	move	1 3 X # 3 1 1 # 1 3 X # 3 1 1 # 1 3 X
+0 0 X # 0 1 X # 0 0 X # 0 1 X	move	0 0 X # 0 1 3 # 0 0 X # 0 1 3
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X	move	2 2 X # 3 3 2 # 2 2 X # 3 3 2 # 2 2 X
+1 1 X # 3 3 X # 1 1 X # 3 3 X # 1 1 X # 3 3 X	move	1 1 1 # 3 3 X # 1 1 1 # 3 3 X # 1 1 1 # 3 3 X
+3 X X # 0 X X # 3 X X # 0 X X # 0 X X	move	3 X X # 0 3 X # 3 X X # 0 3 X # 0 3 X
+2 X X # 3 X X # 3 X X	apagastic	X X X # X X X # 3 X X
+1 X X # 0 X X # 0 X X # 0 X X # 1 X X # 0 X X	apagastic	1 1 X # 0 1 X # 0 1 X # 0 1 X # 1 1 X # 0 X X
+3 X X # 3 X X # 1 X X # 3 X X # 3 X X # 3 X X	move	3 X X # 3 X X # 1 1 X # 3 X X # 3 X X # 3 X X
+2 X X # 2 X X # 3 X X # 2 X X # 2 X X # 2 X X	apagastic	2 2 X # 2 2 X # 3 2 X # 2 2 X # 2 2 X # 2 X X
+1 X X # 2 X X # 2 X X	move	X X X # X X X # 2 X X
+3 X X # 1 X X # 1 X X	move	X X X # 1 X X # 1 X X
+2 X X # 0 X X # 2 X X # 2 X X	move	2 X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 2 X X # 1 X X # 1 X X	move	1 X X # X X X # X X X # X X X # X X X # X X X
+1 X X # 0 X X # 1 X X # 0 X X	move	1 X X # 0 1 X # 1 1 X # 0 1 X
+0 3 X # 1 X X # 0 1 X	move	0 3 X # X X X # 0 X X
+1 0 X # 3 X X	move	1 0 X # X X X
+1 3 X # 1 3 X # 1 X X # 1 0 X	move	1 3 X # 1 X X # X X X # 1 X X
+1 X X # 1 0 X	move	X X X # 1 0 X
+1 1 X # 1 X X # 2 2 X	move	1 1 X # 1 0 X # 2 2 0
+3 X X # 2 X X # 2 0 X	move	3 X X # 2 3 X # 2 0 3
+2 1 X # 2 3 X # 1 3 X	move	2 1 X # 2 3 X # 1 3 1
+3 1 X # 2 X X # 1 X X	move	3 X X # 2 X X # X X X
+0 3 X # 3 3 X	move	0 3 X # 3 X X
+1 2 X # 0 2 X # 1 X X	move	1 2 X # 0 2 X # 1 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	move	2 2 X # 2 3 3 # 2 3 3 # 2 3 2 # 2 2 X

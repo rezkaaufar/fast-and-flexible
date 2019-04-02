@@ -1,0 +1,64 @@
+3 X X # 2 X X # 0 X X # 1 X X # 1 X X # 1 X X	Remove third block from left	3 X X # 2 X X # X X X # 1 X X # 1 X X # 1 X X
+0 X X # 3 X X # 0 X X # 3 X X # 1 X X	remove blue blocks	X X X # 3 X X # X X X # 3 X X # 1 X X
+2 X X # 2 X X # 0 X X # 3 X X # 1 X X	remove blue blocks	2 X X # 2 X X # X X X # 3 X X # 1 X X
+0 X X # 0 X X # 3 X X # 2 X X # 2 X X # 3 X X	remove red blocks	0 X X # 0 X X # 3 X X # X X X # X X X # 3 X X
+1 X X # 2 X X # 0 X X # 2 X X # 3 X X	remove brown	X X X # 2 X X # 0 X X # 2 X X # 3 X X
+2 X X # 3 X X # 1 X X # 1 X X # 2 X X # 0 X X	remove brown	2 X X # 3 X X # X X X # X X X # 2 X X # 0 X X
+2 X X # 3 X X # 1 X X # 1 X X # 3 X X # 2 X X	remove red	X X X # 3 X X # 1 X X # 1 X X # 3 X X # X X X
+0 X X # 0 X X # 1 X X # 0 X X # 1 X X	add brown on left	0 1 X # 0 X X # 1 X X # 0 X X # 1 X X
+1 X X # 2 X X # 2 X X # 2 X X	Add upper left brown	1 1 X # 2 X X # 2 X X # 2 X X
+0 X X # 3 X X # 0 X X # 0 X X # 0 X X	remove orange	0 X X # X X X # 0 X X # 0 X X # 0 X X
+3 X X # 1 X X # 3 X X # 1 X X # 1 X X # 3 X X	remove lower right orange	3 X X # 1 X X # 3 X X # 1 X X # 1 X X # X X X
+3 X X # 1 X X # 1 X X # 1 X X # 3 X X	add second level left brown	3 1 X # 1 X X # 1 X X # 1 X X # 3 X X
+3 X X # 0 X X # 0 X X # 3 X X # 0 X X	remove first level right blue	3 X X # 0 X X # 0 X X # 3 X X # X X X
+0 X X # 0 X X # 3 X X # 0 X X # 3 X X	add second level left blue	0 0 X # 0 X X # 3 X X # 0 X X # 3 X X
+2 X X # 1 X X # 2 X X # 2 X X # 2 X X # 1 X X	add second level left most red	2 2 X # 1 X X # 2 X X # 2 X X # 2 X X # 1 X X
+0 X X # 3 X X # 0 X X # 3 X X # 3 X X	remove first level left most blue	X X X # 3 X X # 0 X X # 3 X X # 3 X X
+1 X X # 2 X X # 2 X X # 1 X X # 1 X X	remove red	1 X X # X X X # X X X # 1 X X # 1 X X
+0 0 X # 2 2 X # 0 0 X	Two red top outside	0 0 2 # 2 2 X # 0 0 2
+3 3 X # 0 0 X # 3 3 X # 0 0 X	remove level two blue blocks	3 3 X # 0 X X # 3 3 X # 0 X X
+3 3 X # 0 X X # 3 3 X # 0 X X	Add two blue blocks on level three.	3 3 0 # 0 X X # 3 3 0 # 0 X X
+0 0 X # 0 1 X # 0 0 X # 0 1 X	remove brown blocks	0 0 X # 0 X X # 0 0 X # 0 X X
+1 1 X # 1 2 X # 1 1 X # 1 2 X	Add top left orange block	1 1 3 # 1 2 X # 1 1 X # 1 2 X
+1 1 3 # 1 2 X # 1 1 X # 1 2 X	Add orange block in top position 3	1 1 3 # 1 2 X # 1 1 3 # 1 2 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X	remove blue blocks	2 2 X # 2 X X # 2 2 X # 2 X X
+2 2 X # 2 X X # 2 2 X # 2 X X	add four orange blocks	2 2 3 # 2 3 X # 2 2 3 # 2 3 X
+3 3 X # 1 1 X # 3 3 X	Remove level two middle brown	3 3 X # 1 X X # 3 3 X
+3 3 X # 1 X X # 3 3 X	add level three blue blocks	3 3 0 # 1 X X # 3 3 0
+2 2 X # 2 3 X # 2 2 X # 2 3 X # 2 2 X	remove level two red	2 X X # 2 3 X # 2 X X # 2 3 X # 2 X X
+2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X	remove level two brown	2 2 X # 1 X X # 2 2 X # 1 X X # 2 2 X # 1 X X
+2 2 X # 1 X X # 2 2 X # 1 X X # 2 2 X # 1 X X	add level three brown	2 2 1 # 1 X X # 2 2 1 # 1 X X # 2 2 1 # 1 X X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X	remove level two blue	0 X X # 2 2 X # 0 X X # 2 2 X # 0 X X # 2 2 X
+2 2 X # 2 1 X # 2 2 X	add level three brown	2 2 1 # 2 1 X # 2 2 1
+1 X X # 2 X X # 2 X X # 1 X X	add level three brown	1 1 X # 2 1 X # 2 1 X # 1 1 X
+3 X X # 3 X X # 3 X X # 3 X X # 2 X X # 3 X X	Add level two orange	3 3 X # 3 3 X # 3 3 X # 3 3 X # 2 3 X # 3 3 X
+3 X X # 3 X X # 3 X X # 3 X X # 2 X X # 3 X X	add level two orange except position 5	3 3 X # 3 3 X # 3 3 X # 3 3 X # 2 X X # 3 3 X
+1 X X # 1 X X # 1 X X # 0 X X	add level two blue	1 0 X # 1 0 X # 1 0 X # 0 X X
+2 X X # 2 X X # 3 X X # 2 X X # 2 X X	remove all	X X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 1 X X # 3 X X # 3 X X	remove 4 right blocks	3 X X # X X X # X X X # X X X # X X X
+0 X X # 2 X X # 2 X X # 0 X X # 2 X X # 2 X X	add red blocks level two	0 2 X # 2 2 X # 2 2 X # 0 2 X # 2 2 X # 2 2 X
+0 2 X # 2 2 X # 2 2 X # 0 2 X # 2 2 X # 2 2 X	remove left block level two	0 X X # 2 2 X # 2 2 X # 0 2 X # 2 2 X # 2 2 X
+3 X X # 0 X X # 0 X X # 0 X X	remove blue	3 X X # X X X # X X X # X X X
+0 X X # 0 X X # 1 X X # 1 X X # 1 X X # 0 X X	add blue level two blocks	0 0 X # 0 0 X # 1 0 X # 1 0 X # 1 0 X # 0 0 X
+0 0 X # 0 0 X # 1 0 X # 1 0 X # 1 0 X # 0 0 X	remove right level two block	0 0 X # 0 0 X # 1 0 X # 1 0 X # 1 0 X # 0 X X
+3 X X # 2 X X # 3 X X # 3 X X	remove orange	X X X # 2 X X # X X X # X X X
+1 X X # 1 X X # 2 X X	add second level brown block position 3	1 X X # 1 X X # 2 1 X
+0 X X # 3 X X # 3 X X	add blue blocks second level	0 0 X # 3 0 X # 3 0 X
+0 0 X # 3 0 X # 3 0 X	remove left blue block second level	0 X X # 3 0 X # 3 0 X
+1 X X # 1 X X # 1 X X # 1 X X	remove right 3 brown blocks	1 X X # X X X # X X X # X X X
+0 0 X # 2 2 X # 2 X X	add red block second level position 3	0 0 X # 2 2 X # 2 2 X
+0 0 X # 0 X X # 3 X X	add blue block second level position 3	0 0 X # 0 X X # 3 0 X
+0 3 X # 3 1 X # 0 0 X	add blue block third level position 1	0 3 0 # 3 1 X # 0 0 X
+3 3 X # 2 3 X # 0 0 X	remove level two orange blocks	3 X X # 2 X X # 0 0 X
+1 X X # 2 2 X # 2 3 X	add orange block level two position 1	1 3 X # 2 2 X # 2 3 X
+1 1 X # 2 1 X # 2 2 X # 1 X X	remove brown block level one position 4	1 1 X # 2 1 X # 2 2 X # X X X
+3 0 X # 3 X X # 0 2 X	add red block level three position 3	3 0 X # 3 X X # 0 2 2
+0 X X # 3 0 X # 0 X X	remove blue block level one position 1	X X X # 3 0 X # 0 X X
+2 3 X # 2 X X	add blue block level three position 1	2 3 0 # 2 X X
+3 X X # 2 2 X	add blue block level two position 1	3 0 X # 2 2 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	add blue blocks level three postion 1 and 5	0 0 0 # 0 3 3 # 0 3 3 # 0 3 X # 0 0 0
+0 0 0 # 0 3 3 # 0 3 3 # 0 3 X # 0 0 0	add orange block level three position 4	0 0 0 # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 0
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	blue blocks level three postion 1 5	0 0 0 # 0 3 3 # 0 3 3 # 0 3 X # 0 0 0
+0 0 0 # 0 3 3 # 0 3 3 # 0 3 X # 0 0 0	orange block postion 4	0 0 0 # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 0
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	add orange block level three postion 4	0 0 X # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 X	add blue blocks level three postion 1 and 5	0 0 0 # 0 3 3 # 0 3 3 # 0 3 3 # 0 0 0

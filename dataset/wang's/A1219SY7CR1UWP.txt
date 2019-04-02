@@ -1,0 +1,7 @@
+3 X X # 0 X X # 1 X X # 2 X X # 3 X X # 0 X X	a	3 X X # 0 X X # 1 X X # 2 1 X # 3 X X # 0 X X
+3 X X # 0 X X # 1 X X # 2 X X # 3 X X # 0 X X	a	3 X X # 0 X X # 1 X X # 2 2 X # 3 X X # 0 X X
+3 X X # 0 X X # 1 X X # 2 X X # 3 X X # 0 X X	a	3 X X # 0 X X # 1 X X # X X X # 3 X X # 0 X X
+2 X X # 2 X X # 0 X X # 3 X X # 2 X X # 1 X X	b	2 X X # 2 X X # 0 X X # 3 X X # 2 X X # X X X
+0 X X # 0 X X # 2 X X # 3 X X # 1 X X	e	0 X X # 0 X X # 2 X X # X X X # 1 X X
+1 X X # 3 X X # 0 X X # 2 X X # 2 X X # 2 X X	f	1 X X # 3 X X # 0 X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 2 X X # 2 X X	f	3 X X # 3 X X # 1 X X # X X X # X X X # X X X

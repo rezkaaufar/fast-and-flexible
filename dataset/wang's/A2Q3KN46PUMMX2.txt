@@ -1,0 +1,12 @@
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X	stay put	X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X	stay put	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+X X X # X X X # X X X # X X X # X X X	go backward	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	stay put	3 X X # 3 X X # 1 X X # 2 X X # 1 X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	go forward	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	hop	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	hop	X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 1 X X # 2 X X # 1 X X	hop	X X X # X X X # X X X # X X X # X X X

@@ -1,0 +1,62 @@
+0 X X # 3 X X # 2 X X # 0 X X # 2 X X	word	0 X X # 3 X X # X X X # 0 X X # X X X
+0 X X # 1 X X # 2 X X # 0 X X # 0 X X # 2 X X	sit	0 X X # X X X # 2 X X # 0 X X # 0 X X # 2 X X
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X # 2 X X	stand	X X X # X X X # 1 X X # X X X # X X X # 2 X X
+1 X X # 1 X X # 0 X X # 2 X X # 2 X X # 2 X X	word	1 X X # 1 X X # 0 X X # X X X # X X X # X X X
+2 X X # 3 X X # 3 X X # 1 X X # 1 X X # 2 X X	space	2 X X # X X X # X X X # 1 X X # 1 X X # 2 X X
+1 X X # 2 X X # 2 X X # 3 X X # 3 X X	house	1 X X # X X X # X X X # 3 X X # 3 X X
+1 X X # 3 X X # 3 X X # 3 X X	stand	1 X X # 3 X X # 3 X X # 3 1 X
+0 X X # 3 X X # 0 X X # 3 X X # 0 X X # 0 X X	start	X X X # 3 X X # 0 X X # 3 X X # 0 X X # 0 X X
+2 X X # 2 X X # 1 X X # 2 X X # 2 X X # 1 X X	sit	2 X X # 2 X X # 1 X X # 2 X X # 2 X X # 1 2 X
+1 X X # 1 X X # 0 X X # 1 X X # 1 X X # 0 X X	house	1 X X # 1 X X # 0 X X # 1 X X # 1 X X # 0 1 X
+1 X X # 1 X X # 2 X X # 1 X X # 2 X X	sit	X X X # 1 X X # 2 X X # 1 X X # 2 X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X # 3 X X	houses	0 0 X # 0 X X # 0 X X # 0 X X # 0 X X # 3 X X
+1 X X # 2 X X # 1 X X # 2 X X	sit	1 X X # 2 X X # 1 X X # X X X
+2 X X # 2 X X # 3 X X # 2 X X	stand	2 2 X # 2 2 X # 3 X X # 2 2 X
+1 X X # 1 X X # 1 X X # 0 X X	hello	1 X X # 1 X X # 1 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 3 X X	goal	X X X # X X X # X X X # X X X # 3 X X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	house	2 2 0 # 3 3 X # 2 2 0 # 3 3 X # 2 2 0 # 3 3 X
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	house	1 X X # 3 1 X # 1 X X # 3 1 X # 1 X X # 3 1 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	wall	3 3 X # 3 1 1 # 3 3 X # 3 1 1 # 3 3 X # 3 1 1
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X # 3 1 X	sit	3 3 1 # 3 1 X # 3 3 1 # 3 1 X # 3 3 1 # 3 1 X
+0 0 X # 0 3 X # 0 0 X	wall	0 0 3 # 0 3 X # 0 0 3
+2 1 X # 1 2 X # 2 1 X	wall	2 1 0 # 1 2 X # 2 1 0
+0 0 X # 0 2 X # 0 0 X # 0 2 X	wall	0 0 X # 0 2 2 # 0 0 X # 0 2 2
+1 1 X # 1 2 X # 1 1 X	red	1 1 2 # 1 2 X # 1 1 2
+2 2 X # 3 3 X # 2 2 X	red	2 X X # 3 3 X # 2 X X
+2 2 X # 2 1 X # 2 2 X # 2 1 X	wall	2 2 X # 2 1 2 # 2 2 X # 2 1 2
+0 0 X # 0 3 X # 0 0 X # 0 3 X	wall	0 0 0 # 0 3 X # 0 0 0 # 0 3 X
+0 0 X # 0 3 X # 0 0 X # 0 3 X	sit	0 X X # 0 X X # 0 X X # 0 X X
+0 X X # 0 X X # 0 X X # 0 X X	wall	0 X X # X X X # X X X # X X X
+0 0 X # 0 3 X # 0 0 X # 0 3 X	wall	0 0 X # 0 X X # 0 0 X # 0 X X
+0 0 X # 0 X X # 0 0 X # 0 X X	wall	0 0 0 # 0 0 X # 0 0 0 # 0 0 X
+0 X X # 0 X X # 3 X X # 0 X X	house	0 X X # 0 X X # 3 X X # 0 X X
+0 X X # 0 X X # 3 X X # 0 X X	wall	0 0 X # 0 0 X # 3 X X # 0 0 X
+1 X X # 2 X X # 1 X X # 1 X X	start	1 X X # 2 X X # 1 X X # 1 X X
+1 X X # 2 X X # 1 X X # 1 X X	a	1 X X # 2 1 X # 1 X X # 1 X X
+2 X X # 2 X X # 2 X X # 2 X X	a	2 X X # X X X # X X X # X X X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X	house	0 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X	a	1 X X # X X X # X X X # X X X
+2 X X # 3 X X # 2 X X # 2 X X	wall	2 X X # 3 X X # 2 X X # 2 X X
+2 X X # 3 X X # 2 X X # 2 X X	sit	2 X X # 3 3 X # 2 3 X # 2 3 X
+2 X X # 2 X X # 2 X X	wall	2 0 X # 2 0 X # 2 0 X
+3 X X # 3 X X # 3 X X # 0 X X	a	3 X X # X X X # X X X # X X X
+3 X X # 0 X X # 0 X X # 0 X X # 3 X X	a	3 X X # X X X # X X X # X X X # X X X
+3 X X # 0 X X # 0 X X # 0 X X # 3 X X	right	X X X # X X X # X X X # X X X # 3 X X
+2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 X X	wall	2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 X X
+2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 X X	wall	2 2 X # 2 2 X # 2 2 X # 3 2 X # 2 2 X # 2 X X
+3 X X # 2 X X # 2 1 X # 1 1 X	a wall	3 2 X # 2 X X # 2 1 X # 1 1 X
+0 0 X # 3 X X # 0 3 X # 0 0 X	wall wall	0 0 3 # 3 3 X # 0 3 3 # 0 0 X
+0 0 X # 2 X X # 2 2 X	sit house	0 0 3 # 2 X X # 2 2 X
+0 X X # 1 0 X	right	X X X # 1 0 X
+2 X X # 2 0 X # 2 2 X	right	X X X # 2 0 X # 2 2 X
+1 3 X # 3 X X # 3 3 X	house	1 3 X # 3 X X # 3 3 1
+2 2 X # 1 X X # 3 X X # 3 X X	left	2 X X # 1 X X # 3 X X # 3 X X
+2 2 X # 1 X X # 3 X X # 3 X X	wall	2 2 0 # 1 0 X # 3 0 X # 3 X X
+2 2 X # 1 X X # 3 X X # 3 X X	start	2 2 2 # 1 2 X # 3 2 X # 3 2 X
+2 2 X # 1 X X # 3 X X # 3 X X	house	2 2 X # 1 X X # 3 2 X # 3 2 X
+2 2 X # 1 X X # 3 2 X # 3 2 X	left	2 2 2 # 1 X X # 3 2 X # 3 2 X
+2 X X # 0 2 X	start	2 X X # 0 X X
+2 X X # 0 1 X # 0 X X # 1 X X	wall	2 0 X # 0 1 X # 0 X X # 1 X X
+0 X X # 3 2 X # 2 2 X # 2 X X	right	X X X # 3 X X # 2 X X # 2 X X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	wall	0 0 X # 0 3 3 # 0 3 3 # 0 3 0 # 0 0 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	start	0 0 0 # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X

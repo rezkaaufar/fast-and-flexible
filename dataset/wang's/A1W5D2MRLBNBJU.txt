@@ -1,0 +1,52 @@
+1 X X # 0 X X # 1 X X # 3 X X # 1 X X # 3 X X	remove teal	1 X X # X X X # 1 X X # 3 X X # 1 X X # 3 X X
+1 X X # 3 X X # 0 X X # 2 X X # 3 X X	remove orange	1 X X # X X X # 0 X X # 2 X X # X X X
+0 X X # 1 X X # 2 X X # 0 X X # 2 X X # 1 X X	remove red	0 X X # 1 X X # X X X # 0 X X # X X X # 1 X X
+1 X X # 0 X X # 2 X X # 3 X X # 1 X X	remove teal	1 X X # X X X # 2 X X # 3 X X # 1 X X
+1 X X # 3 X X # 2 X X # 2 X X # 3 X X	remove red	1 X X # 3 X X # X X X # X X X # 3 X X
+1 X X # 2 X X # 1 X X # 1 X X # 2 X X	remove brown	X X X # 2 X X # X X X # X X X # 2 X X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X	remove one left	X X X # 2 X X # 2 X X # 2 X X # 2 X X
+1 X X # 1 X X # 1 X X # 3 X X # 1 X X # 3 X X	remove one left	X X X # 1 X X # 1 X X # 3 X X # 1 X X # 3 X X
+0 X X # 1 X X # 0 X X # 0 X X	add one top brown	0 X X # 1 1 X # 0 X X # 0 X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove one right	3 X X # 3 X X # 3 X X # 3 X X # 3 X X # X X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X # 3 X X	add one top right orange	3 X X # 2 X X # 3 X X # 2 X X # 3 X X # 3 3 X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X	add one top right teal	3 X X # 3 X X # 3 X X # 3 X X # 3 0 X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X # 0 X X	remove one left	X X X # 0 X X # 1 X X # 1 X X # 0 X X # 0 X X
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X	add one top left brown	0 1 X # 0 X X # 1 X X # 0 X X # 0 X X
+1 X X # 0 X X # 0 X X # 0 X X # 0 X X	remove one left	X X X # 0 X X # 0 X X # 0 X X # 0 X X
+1 2 X # 2 1 X # 1 2 X # 2 1 X	add top brown teal	1 2 X # 2 1 0 # 1 2 X # 2 1 0
+1 2 X # 2 1 X # 1 2 X # 2 1 X	add teal	1 2 X # 2 1 0 # 1 2 X # 2 1 0
+0 0 X # 0 2 X # 0 0 X # 0 2 X	remove top teal	0 X X # 0 2 X # 0 X X # 0 2 X
+3 3 X # 3 1 X # 3 3 X	remove top orange	3 X X # 3 1 X # 3 X X
+0 0 X # 0 1 X # 0 0 X # 0 1 X # 0 0 X	remove top teal	0 X X # 0 1 X # 0 X X # 0 1 X # 0 X X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X	remove top teal	0 X X # 0 2 X # 0 X X # 0 2 X # 0 X X
+2 2 X # 2 1 X # 2 2 X # 2 1 X # 2 2 X	remove top brown	2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X	remove top brown	3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X
+3 3 X # 3 0 X # 3 3 X # 3 0 X	remove top teal	3 3 X # 3 X X # 3 3 X # 3 X X
+2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X # 0 2 X	remove top teal	2 X X # 0 2 X # 2 X X # 0 2 X # 2 X X # 0 2 X
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	remove top orange	1 X X # 3 1 X # 1 X X # 3 1 X # 1 X X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	remove top red	0 X X # 2 2 X # 0 X X # 2 2 X # 0 X X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	remove top red	0 0 X # 2 X X # 0 0 X # 2 X X # 0 0 X
+0 X X # 0 X X # 0 X X	add top left two	0 0 X # 0 0 X # 0 X X
+1 X X # 3 X X # 1 X X # 3 X X	add orange top orange	1 X X # 3 3 X # 1 X X # 3 3 X
+3 X X # 3 X X # 3 X X	remove all	X X X # X X X # X X X
+0 X X # 0 X X # 2 X X # 2 X X # 2 X X # 2 X X	remove all but red right	X X X # X X X # X X X # X X X # X X X # 2 X X
+3 X X # 2 X X # 2 X X # 2 X X # 3 X X	remove red	3 X X # X X X # X X X # X X X # 3 X X
+3 X X # 1 X X # 3 X X	remove brown	3 X X # X X X # 3 X X
+1 X X # 1 X X # 1 X X # 2 X X # 1 X X # 1 X X	remove red	1 X X # 1 X X # 1 X X # X X X # 1 X X # 1 X X
+3 X X # 2 X X # 3 X X # 3 X X # 3 X X	remove red	3 X X # X X X # 3 X X # 3 X X # 3 X X
+2 X X # 2 X X # 2 X X # 2 X X	remove all but right	X X X # X X X # X X X # 2 X X
+2 X X # 1 X X # 2 X X	add top brown red	2 X X # 1 1 X # 2 X X
+2 X X # 1 X X # 2 X X	add top brown red	2 X X # 1 2 X # 2 X X
+1 3 X # 0 1 X	remove top right brown	1 3 X # 0 X X
+0 2 X # 2 1 X # 1 2 X	remove top brown	0 2 X # 2 X X # 1 2 X
+2 3 X # 2 1 X # 3 X X # 1 X X	remove top orange	2 X X # 2 1 X # 3 X X # 1 X X
+1 0 X # 0 X X # 0 X X # 0 X X	add top left red	1 0 2 # 0 X X # 0 X X # 0 X X
+1 X X # 1 X X	add top left teal	1 0 X # 1 X X
+2 2 X # 2 3 X # 1 X X	remove top brown	2 2 1 # 2 3 1 # 1 X X
+3 3 X # 3 2 X # 3 X X # 1 X X	add top left red	3 3 2 # 3 2 X # 3 X X # 1 X X
+0 X X # 2 2 X	add top left teal	0 0 X # 2 2 X
+2 1 X # 2 X X # 3 X X	remove middle red	2 1 X # X X X # 3 X X
+3 X X # 2 X X # 2 0 X	remove middle red	3 X X # X X X # 2 0 X
+3 X X # X X X # 2 0 X	remove top right teal	3 X X # X X X # 2 X X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	add right top orange	2 2 X # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 X	add sides red	2 2 2 # 2 3 3 # 2 3 3 # 2 3 3 # 2 2 2

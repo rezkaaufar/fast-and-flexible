@@ -1,0 +1,64 @@
+1 X X # 0 X X # 0 X X # 3 X X # 0 X X # 1 X X	gabboli	1 X X # X X X # X X X # 3 X X # X X X # 1 X X
+3 X X # 0 X X # 0 X X # 1 X X # 2 X X # 2 X X	what	3 X X # 0 X X # 0 X X # X X X # 2 X X # 2 X X
+1 X X # 2 X X # 1 X X # 3 X X # 3 X X	finger	1 X X # 2 X X # 1 X X # X X X # X X X
+3 X X # 1 X X # 1 X X # 2 X X # 2 X X	what	3 X X # 1 X X # 1 X X # X X X # X X X
+2 X X # 1 X X # 1 X X # 0 X X # 2 X X # 3 X X	something	2 X X # X X X # X X X # 0 X X # 2 X X # 3 X X
+0 X X # 1 X X # 3 X X # 1 X X # 3 X X # 1 X X	thingy	0 X X # X X X # 3 X X # X X X # 3 X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X # 0 X X	see	0 1 X # 0 X X # 0 X X # 0 X X # 0 X X # 0 X X
+0 X X # 0 X X # 1 X X # 1 X X	lemon	0 X X # 0 X X # 1 X X # 1 0 X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X	tryouts	2 0 X # 0 X X # 2 X X # 2 X X # 0 X X # 2 X X
+0 X X # 2 X X # 2 X X # 2 X X # 0 X X	whamm	0 X X # 2 X X # 2 X X # 2 X X # X X X
+0 X X # 3 X X # 3 X X # 3 X X # 3 X X # 0 X X	sister	0 X X # 3 X X # 3 X X # 3 X X # 3 X X # 0 X X
+0 X X # 3 X X # 3 X X # 3 X X # 3 X X # 0 X X	cupids	0 X X # 3 X X # 3 X X # 3 X X # 3 X X # X X X
+3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	streets	3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	singer	3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	singer	3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	trigger	3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+3 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	trigger	X X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	sabbath	2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	king	2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	king	X X X # 0 X X # 0 X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X # 0 X X	typo	1 X X # 1 X X # 1 X X # 1 X X # 1 X X # 0 X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X # 0 X X	bottle	X X X # 1 X X # 1 X X # 1 X X # 1 X X # 0 X X
+3 X X # 0 X X # 0 X X # 0 X X	soap	3 X X # 0 X X # 0 X X # 0 X X
+3 X X # 0 X X # 0 X X # 0 X X	tool	3 X X # 0 X X # 0 X X # 0 X X
+3 X X # 0 X X # 0 X X # 0 X X	tool	X X X # 0 X X # 0 X X # 0 X X
+2 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	moomoo	2 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+2 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	senate	2 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X
+2 X X # 3 X X # 2 X X # 3 X X # 3 X X # 3 X X	senate	2 X X # 3 X X # 2 X X # 3 X X # 3 X X # X X X
+2 2 X # 3 3 X # 2 2 X	cheaps	2 2 X # 3 3 X # 2 2 X
+2 2 X # 3 3 X # 2 2 X	soapcan	2 2 2 # 3 3 X # 2 2 2
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	weirdthing	0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	pooky	0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X
+0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X	toughgy	0 1 X # 3 0 1 # 0 1 X # 3 0 1 # 0 1 X
+2 2 X # 1 1 X # 2 2 X # 1 1 X	jojo	2 2 X # 1 X X # 2 2 X # 1 X X
+2 2 X # 1 X X # 2 2 X # 1 X X	hoho	2 2 1 # 1 X X # 2 2 1 # 1 X X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	tap	2 2 X # 3 X X # 2 2 X # 3 X X # 2 2 X # 3 X X
+0 2 X # 2 0 X # 0 2 X	cool	0 2 X # 2 0 0 # 0 2 X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	hmm	2 2 X # 3 X X # 2 2 X # 3 X X # 2 2 X # 3 X X
+2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X	test	2 2 X # 0 X X # 2 2 X # 0 X X # 2 2 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X	testest	2 2 1 # 2 0 X # 2 2 1 # 2 0 X # 2 2 1
+3 3 X # 3 0 X # 3 3 X # 3 0 X # 3 3 X # 3 0 X	phew	3 X X # 3 0 X # 3 X X # 3 0 X # 3 X X # 3 0 X
+2 1 X # 1 2 X # 2 1 X	lala	2 1 0 # 1 2 X # 2 1 0
+3 X X # 2 X X # 3 X X	testit	3 X X # X X X # X X X
+3 X X # 2 X X # 3 X X	goo	X X X # X X X # 3 X X
+2 X X # 3 X X # 3 X X # 2 X X # 2 X X # 3 X X	test	2 X X # X X X # X X X # X X X # X X X # X X X
+0 X X # 1 X X # 0 X X # 0 X X # 1 X X # 1 X X	this	0 X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 1 X X	huh	X X X # X X X # 1 X X
+2 X X # 2 X X # 0 X X	baby	2 2 X # 2 2 X # 0 X X
+2 X X # 0 X X # 0 X X # 2 X X # 2 X X	stuff	2 X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 2 X X # 2 X X	nut	3 2 X # 3 2 X # 3 2 X # 3 2 X # 2 X X # 2 X X
+2 X X # 2 X X # 2 X X # 0 X X # 0 X X	keeper	2 X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 3 X X # 3 X X	i	0 0 X # 0 0 X # 3 0 X # 3 X X
+0 X X # 2 1 X # 0 0 X # 2 0 X	goal	0 0 X # 2 1 X # 0 0 0 # 2 0 0
+1 X X # 0 X X # 3 0 X	start	1 X X # 0 X X # 3 X X
+2 3 X # 0 2 X	stacks	2 3 X # 0 X X
+2 2 X # 0 2 X # 2 3 X	stack	2 2 X # 0 2 0 # 2 3 0
+2 1 X # 1 X X # 2 2 X # 2 X X	thisisweird	2 1 X # 1 X X # 2 2 X # X X X
+2 0 X # 2 X X # 2 1 X # 0 X X	okay	2 0 X # X X X # 2 X X # 0 X X
+0 3 X # 3 0 X # 0 X X # 0 X X	heh	0 3 X # 3 0 3 # 0 3 X # 0 3 X
+3 1 X # 1 2 X	yeah	3 1 X # 1 2 2
+1 X X # 1 1 X # 3 2 X	what	1 X X # 1 1 X # 3 X X
+3 3 X # 2 X X	sup	3 3 X # 2 1 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	house	2 2 X # 2 3 X # 2 3 3 # 2 3 X # 2 2 X
+2 2 X # 2 3 3 # 2 3 3 # 2 3 X # 2 2 X	test	2 2 X # 2 3 X # 2 3 3 # 2 3 X # 2 2 X

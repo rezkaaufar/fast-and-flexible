@@ -1,0 +1,47 @@
+2 X X # 3 X X # 2 X X # 2 X X # 0 X X # 3 X X	fun	2 X X # 3 X X # 2 X X # 2 X X # X X X # 3 X X
+3 X X # 0 X X # 2 X X # 1 X X # 2 X X	happy	3 X X # X X X # 2 X X # 1 X X # 2 X X
+1 X X # 3 X X # 1 X X # 3 X X # 1 X X # 2 X X	glad	1 X X # 3 X X # 1 X X # 3 X X # 1 X X # X X X
+1 X X # 1 X X # 2 X X # 3 X X # 2 X X # 1 X X	sad	X X X # X X X # 2 X X # 3 X X # 2 X X # X X X
+1 X X # 0 X X # 0 X X # 2 X X # 2 X X	mad	1 X X # 0 X X # 0 X X # X X X # X X X
+1 X X # 2 X X # 2 X X # 2 X X # 3 X X	funny	X X X # 2 X X # 2 X X # 2 X X # 3 X X
+0 X X # 3 X X # 3 X X # 0 X X	wave	0 3 X # 3 X X # 3 X X # 0 3 X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 3 X X	shake	0 3 X # 0 X X # 3 X X # 3 X X # 3 X X # 3 X X
+1 X X # 2 X X # 2 X X # 1 X X # 2 X X # 1 X X	jingle	1 X X # 2 1 X # 2 1 X # 1 X X # 2 1 X # 1 X X
+0 X X # 0 X X # 1 X X # 1 X X # 1 X X # 1 X X	roll	0 X X # 0 X X # 1 0 X # 1 0 X # 1 0 X # 1 0 X
+3 X X # 3 X X # 3 X X # 3 X X # 1 X X	turn	3 X X # 3 X X # 3 X X # 3 X X # X X X
+2 X X # 0 X X # 2 X X # 0 X X # 2 X X # 2 X X	flop	2 0 X # 0 X X # 2 X X # 0 X X # 2 X X # 2 X X
+2 X X # 2 X X # 0 X X # 0 X X # 2 X X # 0 X X	crawl	2 X X # 2 X X # 0 X X # 0 X X # 2 X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 2 X X # 1 X X	walk	X X X # X X X # X X X # X X X # 2 X X # X X X
+0 X X # 0 X X # 3 X X # 0 X X	run	0 X X # 0 X X # 3 X X # 0 0 X
+0 X X # 0 X X # 0 X X # 3 X X # 0 X X	stumble	0 X X # 0 X X # 0 X X # 3 X X # 0 0 X
+2 2 X # 0 0 X # 2 2 X # 0 0 X	sleep	2 2 0 # 0 0 X # 2 2 0 # 0 0 X
+0 0 X # 0 1 X # 0 0 X	cat	0 0 0 # 0 1 X # 0 0 0
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	dog	3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X
+2 3 X # 3 2 X # 2 3 X	phone	2 3 X # 3 2 2 # 2 3 X
+3 3 X # 1 1 X # 3 3 X # 1 1 X	sad	3 3 3 # 1 1 X # 3 3 3 # 1 1 X
+1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X	happy	1 2 X # 2 1 2 # 1 2 X # 2 1 2 # 1 2 X # 2 1 2
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X	cry	0 0 2 # 0 2 X # 0 0 2 # 0 2 X # 0 0 2
+2 0 X # 0 2 X # 2 0 X # 0 2 X	wave	2 0 X # 0 2 2 # 2 0 X # 0 2 2
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X # 1 3 X	shake	1 1 3 # 1 3 X # 1 1 3 # 1 3 X # 1 1 3 # 1 3 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X	jingle'	0 3 X # 3 0 3 # 0 3 X # 3 0 3
+2 X X # 2 X X # 0 X X	roll	2 X X # 2 X X # 0 2 X
+2 X X # 1 X X # 2 X X # 1 X X # 2 X X	crawl	2 2 X # 1 2 X # 2 2 X # 1 2 X # 2 X X
+1 X X # 1 X X # 1 X X	walk	1 0 X # 1 0 X # 1 0 X
+3 X X # 3 X X # 3 X X # 0 X X # 0 X X	run	3 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # 0 X X # 0 X X # 1 X X	jump	X X X # X X X # 0 X X # 0 X X # X X X
+2 X X # 2 X X # 1 X X	hop	2 1 X # 2 1 X # 1 X X
+3 X X # 1 X X # 1 X X	slide	3 3 X # 1 X X # 1 X X
+3 X X # 2 X X # 3 X X # 2 X X # 3 X X # 2 X X	tap	3 2 X # 2 X X # 3 2 X # 2 X X # 3 2 X # 2 X X
+1 1 X # 0 X X	hi	1 X X # 0 X X
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 2 X X	wave	X X X # X X X # X X X # X X X # X X X # 2 X X
+0 X X # 3 X X # 0 2 X	happy	X X X # 3 X X # 0 2 X
+2 X X # 0 X X	sad	X X X # 0 X X
+0 1 X # 2 1 X # 2 0 X # 2 X X	glad	0 1 X # 2 1 X # 2 0 X # 2 2 X
+0 1 X # 2 2 X # 1 1 X # 0 X X	silly	0 X X # 2 X X # 1 X X # 0 X X
+2 2 X # 3 2 X # 2 X X # 1 X X	fun	2 X X # 3 X X # X X X # X X X
+3 X X # 0 1 X	tear	3 0 X # 0 1 0
+1 2 X # 2 1 X # 1 X X # 0 X X	fall	1 2 X # 2 X X # X X X # X X X
+1 X X # 3 X X	skid	1 X X # X X X
+1 X X # 3 X X	slide	1 X X # X X X
+1 X X # 1 X X # 2 X X # 2 X X # 2 X X # 1 X X	silly	1 2 X # 1 2 X # 2 2 X # 2 2 X # 2 2 X # 1 X X
+3 X X # 2 X X # 3 X X # 2 X X	sad	3 2 X # 2 2 X # 3 2 X # 2 X X

@@ -1,0 +1,57 @@
+0 X X # 3 X X # 1 X X # 1 X X # 3 X X # 2 X X	rem cy pos 1	X X X # 3 X X # 1 X X # 1 X X # 3 X X # 2 X X
+2 X X # 0 X X # 3 X X # 1 X X # 1 X X	rem or blk pos 3	2 X X # 0 X X # X X X # 1 X X # 1 X X
+3 X X # 3 X X # 1 X X # 0 X X # 3 X X	rem or blk	X X X # X X X # 1 X X # 0 X X # X X X
+0 X X # 2 X X # 0 X X # 1 X X # 1 X X # 0 X X	rem cy blk	X X X # 2 X X # X X X # 1 X X # 1 X X # X X X
+3 X X # 3 X X # 0 X X # 0 X X # 0 X X	rm or blk	X X X # X X X # 0 X X # 0 X X # 0 X X
+1 X X # 1 X X # 2 X X # 1 X X # 3 X X # 2 X X	rem rd blk	1 X X # 1 X X # X X X # 1 X X # 3 X X # X X X
+2 X X # 0 X X # 1 X X # 2 X X # 2 X X	rem rd blk	X X X # 0 X X # 1 X X # X X X # X X X
+3 X X # 0 X X # 3 X X # 3 X X # 0 X X # 3 X X	rem or blk pos 1	X X X # 0 X X # 3 X X # 3 X X # 0 X X # 3 X X
+2 X X # 0 X X # 2 X X # 2 X X	rem rd blk pos 4	2 X X # 0 X X # 2 X X # X X X
+0 X X # 3 X X # 3 X X # 3 X X # 3 X X	rem cy blk	X X X # 3 X X # 3 X X # 3 X X # 3 X X
+1 X X # 0 X X # 0 X X # 0 X X # 0 X X	rem bn blk	X X X # 0 X X # 0 X X # 0 X X # 0 X X
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	rem or blk	2 X X # X X X # X X X # 2 X X # X X X # X X X
+2 X X # 2 X X # 2 X X # 2 X X # 0 X X # 2 X X	rem rd blk	X X X # X X X # X X X # X X X # 0 X X # X X X
+1 X X # 1 X X # 1 X X # 3 X X	stack or blk pos 4	1 X X # 1 X X # 1 X X # 3 3 X
+1 X X # 1 X X # 0 X X # 1 X X # 0 X X # 0 X X	stack bn blk pos 1	1 1 X # 1 X X # 0 X X # 1 X X # 0 X X # 0 X X
+0 X X # 0 X X # 3 X X # 3 X X # 0 X X # 0 X X	stack cy blk pos 1	0 0 X # 0 X X # 3 X X # 3 X X # 0 X X # 0 X X
+1 X X # 0 X X # 1 X X # 0 X X	rem bn blk	X X X # 0 X X # X X X # 0 X X
+3 3 X # 3 2 X # 3 3 X	rem rd blk	3 3 X # 3 X X # 3 3 X
+3 3 X # 3 X X # 3 3 X	fill bn blk	3 3 1 # 3 1 X # 3 3 1
+3 2 X # 2 3 X # 3 2 X	rem or blk	3 2 X # 2 X X # 3 2 X
+3 2 X # 2 X X # 3 2 X	fill or blk	3 2 3 # 2 3 X # 3 2 3
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X	rem rd blk	2 X X # 3 3 X # 2 X X # 3 3 X # 2 X X
+0 3 X # 3 0 X # 0 3 X	rem cy blk	0 3 X # 3 X X # 0 3 X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X # 0 2 X	fill rd blk	0 0 2 # 0 2 X # 0 0 2 # 0 2 X # 0 0 2 # 0 2 X
+1 1 X # 1 0 X # 1 1 X	rem bn blk	1 X X # 1 0 X # 1 X X
+1 1 X # 3 3 X # 1 1 X # 3 3 X # 1 1 X	rem or blk	1 1 X # 3 X X # 1 1 X # 3 X X # 1 1 X
+1 1 X # 3 X X # 1 1 X # 3 X X # 1 1 X	fill cy blk	1 1 0 # 3 X X # 1 1 0 # 3 X X # 1 1 0
+3 3 X # 3 1 X # 3 3 X # 3 1 X	fill bn blk	3 3 1 # 3 1 X # 3 3 1 # 3 1 X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	fill or blk	1 1 3 # 1 3 X # 1 1 3 # 1 3 X # 1 1 3
+2 2 X # 2 1 X # 2 2 X # 2 1 X	rem bn blk	2 2 X # 2 X X # 2 2 X # 2 X X
+2 2 X # 2 X X # 2 2 X # 2 X X	fill or blk	2 2 3 # 2 3 X # 2 2 3 # 2 3 X
+3 X X # 3 X X # 3 X X # 0 X X # 3 X X	rem blk pos 2 thru 5	3 X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 1 X X	stack or blk pos 1	3 3 X # 1 X X # 1 X X
+2 X X # 1 X X # 2 X X # 1 X X # 2 X X	rem blk pos 1 thru 4	X X X # X X X # X X X # X X X # 2 X X
+3 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X	stack or blk pos 2 thru 6	3 X X # 2 3 X # 2 3 X # 2 3 X # 2 3 X # 2 3 X
+0 X X # 2 X X # 0 X X # 0 X X	rem blk pos 2 thru 4	0 X X # X X X # X X X # X X X
+1 X X # 1 X X # 1 X X # 1 X X # 1 X X # 1 X X	stack or blk pos 1 thru 5	1 3 X # 1 3 X # 1 3 X # 1 3 X # 1 3 X # 1 X X
+3 X X # 3 X X # 1 X X # 1 X X # 3 X X # 3 X X	rem bn blk	3 X X # 3 X X # X X X # X X X # 3 X X # 3 X X
+3 X X # 3 X X # X X X # X X X # 3 X X # 3 X X	rem or blk pos 2 thru 6	3 X X # X X X # X X X # X X X # X X X # X X X
+1 X X # 2 X X # 1 X X	stack rd blk pos 1 thru 2	1 2 X # 2 2 X # 1 X X
+3 X X # 1 X X # 1 X X # 1 X X	rem or blk	X X X # 1 X X # 1 X X # 1 X X
+X X X # 1 X X # 1 X X # 1 X X	rem bn blk pos 2 thru 3	X X X # X X X # X X X # 1 X X
+1 X X # 0 X X # 0 X X # 1 X X # 1 X X # 0 X X	rem bn blk	X X X # 0 X X # 0 X X # X X X # X X X # 0 X X
+0 X X # 1 1 X # 1 0 X	stack bn blk pos 1 thru 2	0 1 X # 1 1 1 # 1 0 X
+3 0 X # 0 1 X	rem bn blk	3 0 X # 0 X X
+0 X X # 0 2 X # 2 2 X	stack rd blk pos 1	0 2 X # 0 2 X # 2 2 X
+1 X X # 0 X X # 2 X X # 0 X X	rem rd blk	1 X X # 0 X X # X X X # 0 X X
+1 X X # 0 X X # 2 X X # 0 X X	rem blk pos 1 thru 3	X X X # X X X # X X X # 0 X X
+1 X X # 2 X X # 3 1 X # 1 3 X	rem blk pos 4	1 X X # 2 X X # 3 1 X # 1 X X
+2 3 X # 1 X X # 2 X X # 2 X X	rem or blk	2 X X # 1 X X # 2 X X # 2 X X
+2 3 X # 1 X X # 2 X X # 2 X X	rem blk pos 1 thru 3	2 X X # X X X # X X X # 2 X X
+3 3 X # 0 0 X # 0 X X	rem blk pos 1	3 X X # 0 0 X # 0 X X
+1 1 X # 0 2 X	stack rd blk pos 1	1 1 2 # 0 2 X
+1 X X # 2 X X # 0 1 X # 2 1 X	rem bn blk	X X X # 2 X X # 0 X X # 2 X X
+0 X X # 3 3 X # 3 X X	stack bn blk pos 1	0 1 X # 3 3 X # 3 X X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	add cy blk pos 4	2 2 X # 2 0 0 # 2 0 0 # 2 0 0 # 2 2 X
+2 2 X # 2 0 0 # 2 0 0 # 2 0 X # 2 2 X	stack cy blk pos 4	2 2 X # 2 0 0 # 2 0 0 # 2 0 0 # 2 2 X

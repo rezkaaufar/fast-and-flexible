@@ -1,0 +1,15 @@
+3 X X # 1 X X # 3 X X # 3 X X # 0 X X	remove brown block	3 X X # 1 1 X # 3 X X # 3 X X # 0 X X
+2 X X # 3 X X # 0 X X # 0 X X # 3 X X # 2 X X	remove orange blocks	2 X X # X X X # 0 X X # 0 X X # X X X # 2 X X
+3 X X # 0 X X # 0 X X # 1 X X # 2 X X	remove blue blocks	3 X X # X X X # X X X # 1 X X # 2 X X
+2 X X # 2 X X # 3 X X # 1 X X # 1 X X	remove orange blocks	2 X X # 2 X X # X X X # 1 X X # 1 X X
+2 X X # 3 X X # 2 X X # 3 X X # 0 X X # 0 X X	remove blue blocks	2 X X # 3 X X # 2 X X # 3 X X # X X X # X X X
+3 X X # 1 X X # 3 X X # 3 X X # 1 X X	remove one brown block on right	3 X X # 1 X X # 3 X X # 3 X X # X X X
+2 X X # 2 X X # 2 X X # 0 X X	stack one blue block on blue	2 X X # 2 X X # 2 X X # 0 0 X
+1 X X # 1 X X # 1 X X # 0 X X	remove blue block	1 X X # 1 X X # 1 X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X	remove orange block	2 X X # 2 X X # 2 X X # X X X
+2 X X # 3 X X # 3 X X # 3 X X # 2 X X # 2 X X	remove one red block from right	2 X X # 3 X X # 3 X X # 3 X X # 2 X X # X X X
+2 X X # 0 X X # 0 X X # 2 X X # 0 X X # 2 X X	remove one red block from left	X X X # 0 X X # 0 X X # 2 X X # 0 X X # 2 X X
+2 X X # 2 X X # 0 X X # 2 X X	stack one blue block on right	2 X X # 2 X X # 0 X X # 2 0 X
+1 X X # 3 X X # 1 X X # 3 X X	remove one orange block from right	1 X X # 3 X X # 1 X X # X X X
+3 X X # 3 X X # 1 X X # 3 X X # 3 X X	remove one orange block from right	3 X X # 3 X X # 1 X X # 3 X X # X X X
+1 X X # 2 X X # 2 X X # 1 X X # 2 X X	stack one brown block on left	1 1 X # 2 X X # 2 X X # 1 X X # 2 X X

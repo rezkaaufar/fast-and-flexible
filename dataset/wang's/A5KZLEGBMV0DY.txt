@@ -1,0 +1,1 @@
+1 X X # 0 X X # 3 X X # 0 X X # 0 X X # 0 X X	move blue	1 X X # 0 3 X # 3 X X # 0 3 X # 0 3 X # 0 3 X

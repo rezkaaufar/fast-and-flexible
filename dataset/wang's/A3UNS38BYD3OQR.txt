@@ -1,0 +1,51 @@
+0 X X # 3 X X # 1 X X # 3 X X # 0 X X # 0 X X	good morning	0 X X # 3 X X # X X X # 3 X X # 0 X X # 0 X X
+1 X X # 3 X X # 2 X X # 1 X X # 3 X X	good day	1 X X # 3 X X # X X X # 1 X X # 3 X X
+2 X X # 0 X X # 0 X X # 3 X X # 0 X X # 3 X X	nice to see you	X X X # 0 X X # 0 X X # 3 X X # 0 X X # 3 X X
+2 X X # 1 X X # 2 X X # 0 X X # 1 X X # 2 X X	go fetch	2 X X # 1 X X # 2 X X # X X X # 1 X X # 2 X X
+1 X X # 3 X X # 1 X X # 0 X X # 3 X X # 3 X X	good evening	1 X X # 3 X X # 1 X X # X X X # 3 X X # 3 X X
+3 X X # 0 X X # 3 X X # 3 X X	Good morning	3 X X # X X X # 3 X X # 3 X X
+1 X X # 2 X X # 2 X X # 2 X X	good day	1 X X # 2 X X # 2 X X # 2 1 X
+2 X X # 0 X X # 0 X X # 0 X X # 0 X X	nice to see you	2 X X # 0 X X # 0 X X # 0 X X # 0 0 X
+0 X X # 2 X X # 0 X X # 0 X X # 0 X X	whats for dinner	X X X # 2 X X # X X X # X X X # X X X
+2 X X # 1 X X # 1 X X # 1 X X # 2 X X # 2 X X	how was your day	X X X # 1 X X # 1 X X # 1 X X # X X X # X X X
+0 X X # 2 X X # 2 X X # 0 X X # 2 X X	it's nice to meet you	0 0 X # 2 X X # 2 X X # 0 0 X # 2 X X
+0 X X # 0 X X # 0 X X # 2 X X # 2 X X	what did you do	0 2 X # 0 2 X # 0 2 X # 2 X X # 2 X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	move up	3 3 X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+2 X X # 2 X X # 3 X X # 2 X X # 3 X X	jump around	2 X X # 2 X X # 3 3 X # 2 X X # 3 3 X
+3 X X # 3 X X # 0 X X # 0 X X # 0 X X # 0 X X	Happy kitty, sad kitty	3 X X # 3 X X # X X X # X X X # X X X # X X X
+3 2 X # 2 3 X # 3 2 X # 2 3 X # 3 2 X	find goal	3 2 2 # 2 3 X # 3 2 2 # 2 3 X # 3 2 2
+2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X	fly	2 X X # 1 2 X # 2 X X # 1 2 X # 2 X X # 1 2 X
+2 2 X # 2 3 X # 2 2 X # 2 3 X # 2 2 X # 2 3 X	run	2 2 X # 2 3 2 # 2 2 X # 2 3 2 # 2 2 X # 2 3 2
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X	jump	0 X X # 0 2 X # 0 X X # 0 2 X # 0 X X
+2 2 X # 3 3 X # 2 2 X # 3 3 X	walk	2 X X # 3 3 X # 2 X X # 3 3 X
+1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 X	hop	1 X X # 2 2 X # 1 X X # 2 2 X # 1 X X # 2 2 X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X # 0 1 X	aqua	1 0 0 # 0 1 X # 1 0 0 # 0 1 X # 1 0 0 # 0 1 X
+2 2 X # 2 1 X # 2 2 X # 2 1 X	water	2 2 1 # 2 1 X # 2 2 1 # 2 1 X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	gold	1 1 X # 1 0 3 # 1 1 X # 1 0 3 # 1 1 X
+0 0 X # 0 2 X # 0 0 X # 0 2 X # 0 0 X	testing	0 X X # 0 2 X # 0 X X # 0 2 X # 0 X X
+3 X X # 3 X X # 0 X X # 0 X X	joy	3 X X # 3 X X # X X X # X X X
+3 X X # 0 X X # 3 X X # 3 X X	joyous	3 X X # 0 3 X # 3 X X # 3 X X
+3 X X # 3 X X # 3 X X	joyful	X X X # X X X # 3 X X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 0 X X	two	0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 0 X X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 0 X X	three	0 X X # 0 0 X # 3 0 X # 3 0 X # 3 0 X # 0 0 X
+0 X X # 1 X X # 0 X X # 1 X X # 1 X X # 1 X X	god	0 X X # 1 0 X # 0 0 X # 1 0 X # 1 0 X # 1 0 X
+1 X X # 0 X X # 0 X X	car	1 X X # X X X # X X X
+3 X X # 3 X X # 3 X X # 1 X X # 1 X X # 3 X X	go	X X X # X X X # X X X # X X X # X X X # 3 X X
+1 X X # 0 X X # 1 X X # 0 X X	faster	X X X # X X X # X X X # 0 X X
+1 X X # 2 X X # 2 X X # 2 X X # 1 X X	fastest	1 X X # X X X # X X X # X X X # 1 X X
+3 X X # 2 X X # 2 X X # 3 X X	faster	3 X X # X X X # X X X # X X X
+1 X X # 2 X X # 1 X X # 1 X X # 1 X X	go	1 X X # 2 1 X # 1 1 X # 1 1 X # 1 1 X
+3 0 X # 3 X X # 0 3 X # 0 X X	continue	3 0 3 # 3 X X # 0 3 X # 0 X X
+3 2 X # 2 1 X # 1 2 X	fast	3 2 2 # 2 1 X # 1 2 X
+0 X X # 3 X X	think faster	0 1 X # 3 X X
+2 X X # 2 X X	go go	2 X X # X X X
+2 X X # 2 X X	hell	2 3 X # 2 X X
+3 X X # 3 3 X	town	3 1 X # 3 3 X
+3 X X # 0 3 X	building	X X X # 0 3 X
+3 X X # 3 X X # 0 X X # 3 3 X	bridge	3 X X # 3 X X # 0 X X # 3 3 3
+3 0 X # 3 0 X # 1 X X # 3 3 X	ocean	3 X X # 3 X X # X X X # 3 3 X
+0 X X # 1 X X # 2 X X # 2 X X	boat	0 X X # X X X # X X X # X X X
+0 X X # 0 2 X # 3 X X # 0 2 X	mast	X X X # 0 2 X # 3 X X # 0 2 X
+0 0 X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	home	0 X X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X
+0 X X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	home	X X X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X
+X X X # 0 3 3 # 0 3 3 # 0 3 X # 0 0 X	house	X X X # 0 3 X # 0 3 3 # 0 3 X # 0 0 X

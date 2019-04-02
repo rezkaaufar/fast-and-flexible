@@ -1,0 +1,59 @@
+2 X X # 2 X X # 3 X X # 1 X X # 2 X X # 1 X X	usuń brązowe klocki	2 X X # 2 X X # 3 X X # X X X # 2 X X # X X X
+0 X X # 0 X X # 2 X X # 3 X X # 2 X X # 0 X X	usuń pomarańczowy klocek	0 X X # 0 X X # 2 X X # X X X # 2 X X # 0 X X
+3 X X # 1 X X # 3 X X # 0 X X # 2 X X # 0 X X	usuń czerwony klocek	3 X X # 1 X X # 3 X X # 0 X X # X X X # 0 X X
+3 X X # 1 X X # 3 X X # 0 X X # 0 X X	usuń pomarańczowe klocki	X X X # 1 X X # X X X # 0 X X # 0 X X
+1 X X # 0 X X # 0 X X # 1 X X # 0 X X # 1 X X	postaw brązowy klocek na pierwszym klocku	1 1 X # 0 X X # 0 X X # 1 X X # 0 X X # 1 X X
+3 X X # 1 X X # 1 X X # 3 X X	usuń pomarańczowe klocki	X X X # 1 X X # 1 X X # X X X
+1 X X # 3 X X # 1 X X # 3 X X # 1 X X # 3 X X	usuń brązowe klocki	X X X # 3 X X # X X X # 3 X X # X X X # 3 X X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 2 X X	usuń ostatni klocek	2 X X # 2 X X # 2 X X # 2 X X # 2 X X # X X X
+2 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	postaw pomarańczowy klocek na pierwszym klocku	2 3 X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X
+2 X X # 2 X X # 2 X X # 0 X X # 0 X X	postaw czerwony klocek na pierwszym klocku	2 2 X # 2 X X # 2 X X # 0 X X # 0 X X
+3 X X # 3 X X # 0 X X # 0 X X # 3 X X	usuń pierwszy klocek	X X X # 3 X X # 0 X X # 0 X X # 3 X X
+3 X X # 3 X X # 0 X X # 3 X X # 0 X X # 0 X X	usuń ostatni klocek	3 X X # 3 X X # 0 X X # 3 X X # 0 X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X # 1 X X	usuń pomarańczowy klocek	1 X X # 1 X X # X X X # 1 X X # 1 X X
+2 X X # 2 X X # 2 X X # 1 X X # 2 X X # 2 X X	usuń pierwszy klocek	X X X # 2 X X # 2 X X # 1 X X # 2 X X # 2 X X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	postaw pomarańczowe klocki na brązowych	1 1 3 # 1 3 X # 1 1 3 # 1 3 X # 1 1 3
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	usuń pomarańczowe klocki	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X
+1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X	postaw czerwone klocki na brązowych	1 1 2 # 1 2 X # 1 1 2 # 1 2 X # 1 1 2
+3 3 X # 3 2 X # 3 3 X # 3 2 X	postaw czerwone klocki na pomarańczowych	3 3 2 # 3 2 X # 3 3 2 # 3 2 X
+3 2 X # 2 3 X # 3 2 X # 2 3 X # 3 2 X	postaw niebieskie klocki na pomarańczowych	3 2 X # 2 3 0 # 3 2 X # 2 3 0 # 3 2 X
+1 3 X # 3 1 X # 1 3 X	usuń pomarańczowe klocki w górnym rzędzie	1 X X # 3 1 X # 1 X X
+3 2 X # 2 3 X # 3 2 X # 2 3 X	usuń czerwone klocki w górnym rzędzie	3 X X # 2 3 X # 3 X X # 2 3 X
+1 1 X # 1 0 X # 1 1 X	usuń niebieski klocek	1 1 X # 1 X X # 1 1 X
+1 1 X # 1 0 X # 1 1 X	usuń niebieski klocek	1 1 X # 1 X X # 1 1 X
+1 1 X # 1 X X # 1 1 X	postaw brązowe klocki na brązowych	1 1 1 # 1 1 X # 1 1 1
+3 1 X # 1 3 X # 3 1 X # 1 3 X	usuń brązowe klocki w górnym rzędzie	3 X X # 1 3 X # 3 X X # 1 3 X
+2 2 X # 3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	usuń pomarańczowe klocki w górnym rzędzie	2 2 X # 3 X X # 2 2 X # 3 X X # 2 2 X # 3 X X
+2 2 X # 2 1 X # 2 2 X # 2 1 X # 2 2 X # 2 1 X	usuń brązowe klocki	2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X # 2 X X
+2 2 X # 2 X X # 2 2 X # 2 X X # 2 2 X # 2 X X	postaw czerwone klocki na czerwonych	2 2 2 # 2 2 X # 2 2 2 # 2 2 X # 2 2 2 # 2 2 X
+0 0 X # 0 3 X # 0 0 X	usuń pomarańczowy klocek	0 0 X # 0 X X # 0 0 X
+0 0 X # 0 X X # 0 0 X	postaw czerwone klocki na niebieskich	0 0 2 # 0 2 X # 0 0 2
+2 X X # 3 X X # 2 X X # 2 X X # 3 X X # 2 X X	postaw czerwone klocki na czerwonych	2 2 X # 3 X X # 2 2 X # 2 2 X # 3 X X # 2 2 X
+1 X X # 1 X X # 2 X X # 2 X X # 2 X X # 2 X X	usuń czerwone klocki	1 X X # 1 X X # X X X # X X X # X X X # X X X
+1 X X # 1 X X # X X X # X X X # X X X # X X X	usuń ostatni brązowy klocek	1 X X # X X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 0 X X	postaw pomarańczowe klocki	0 3 X # 0 3 X # 3 3 X # 3 3 X # 3 3 X # 0 3 X
+0 3 X # 0 3 X # 3 3 X # 3 3 X # 3 3 X # 0 3 X	usuń ostatni pomarańczowy klocek	0 3 X # 0 3 X # 3 3 X # 3 3 X # 3 3 X # 0 X X
+2 X X # 2 X X # 1 X X # 1 X X # 1 X X # 2 X X	postaw brązowe klocki na czerwonych	2 1 X # 2 1 X # 1 X X # 1 X X # 1 X X # 2 1 X
+1 X X # 0 X X # 1 X X # 1 X X	postaw brązowe klocki	1 1 X # 0 1 X # 1 1 X # 1 1 X
+1 1 X # 0 1 X # 1 1 X # 1 1 X	usuń ostatni brązowy klocek	1 1 X # 0 1 X # 1 1 X # 1 X X
+1 X X # 3 X X # 3 X X # 3 X X # 1 X X # 3 X X	postaw pomarańczowe klocki	1 3 X # 3 3 X # 3 3 X # 3 3 X # 1 3 X # 3 3 X
+1 3 X # 3 3 X # 3 3 X # 3 3 X # 1 3 X # 3 3 X	usuń ostatni pomarańczowy klocek	1 3 X # 3 3 X # 3 3 X # 3 3 X # 1 3 X # 3 X X
+1 X X # 2 X X # 1 X X # 1 X X	usuń czerwony klocek	1 X X # X X X # 1 X X # 1 X X
+0 X X # 1 X X # 0 X X # 0 X X	usuń brązowy klocek	0 X X # X X X # 0 X X # 0 X X
+3 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	usuń wszystkie klocki	X X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 3 X X # 3 X X # 2 X X # 3 X X # 3 X X	usuń wszystkie klocki oprócz ostatniego	X X X # X X X # X X X # X X X # X X X # 3 X X
+1 X X # 1 X X # 0 X X # 1 X X # 0 X X # 1 X X	usuń brązowe klocki	X X X # X X X # 0 X X # X X X # 0 X X # X X X
+3 X X # 2 X X # 2 3 X	usuń niebieskie klocki	3 X X # 2 X X # 2 3 X
+3 X X # 2 X X # 2 3 X	postaw niebieskie klocki	3 0 X # 2 0 X # 2 3 0
+3 0 X # 2 0 X # 2 3 0	usuń ostatni niebieski klocek	3 0 X # 2 0 X # 2 3 X
+0 X X # 3 X X # 1 3 X	postaw brązowe klocki	0 1 X # 3 1 X # 1 3 1
+2 3 X # 2 X X # 0 X X # 3 X X	postaw pomarańczowy klocek na pierwszym klocku	2 3 3 # 2 X X # 0 X X # 3 X X
+1 X X # 0 X X # 1 X X # 1 X X	usuń ostatni klocek	1 X X # 0 X X # 1 X X # X X X
+2 X X # 0 X X	usuń czerwony klocek	X X X # 0 X X
+0 X X # 2 2 X # 2 2 X # 2 X X	usuń niebieski klocek	X X X # 2 2 X # 2 2 X # 2 X X
+2 X X # 0 X X	postaw niebieski klocek na czerwonym	2 2 X # 0 X X
+2 X X # 0 X X	postaw niebieski klocek na czerwonym	2 0 X # 0 X X
+2 1 X # 3 X X # 1 X X # 2 2 X	usuń ostatni czerwony klocek	2 1 X # 3 X X # 1 X X # 2 X X
+2 1 X # 3 X X # 1 X X # 2 X X	usuń pomarańczowy klocek	2 1 X # X X X # 1 X X # 2 X X
+0 X X # 1 1 X # 2 1 X	usuń brązowe klocki w górnym rzędzie	0 X X # 1 X X # 2 X X
+0 3 X # 3 X X # 0 X X	postaw brązowy klocek na pierwszym klocku	0 3 1 # 3 X X # 0 X X

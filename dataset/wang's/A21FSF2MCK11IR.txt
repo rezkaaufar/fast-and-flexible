@@ -1,0 +1,67 @@
+2 X X # 2 X X # 2 X X # 1 X X # 0 X X	Start	2 X X # 2 X X # 2 X X # 1 2 X # 0 X X
+2 X X # 2 X X # 2 X X # 1 2 X # 0 X X	Get rid of top block	2 1 X # 2 1 X # 2 1 X # 1 2 1 # 0 X X
+2 X X # 2 X X # 2 X X # 1 X X # 0 X X	delete brown block	2 X X # 2 X X # 2 X X # 1 1 X # 0 X X
+2 X X # 2 X X # 2 X X # 1 1 X # 0 X X	wrong	2 X X # 2 X X # 2 X X # 1 1 1 # 0 X X
+2 X X # 2 X X # 2 X X # 1 1 X # 0 X X	wrong	2 X X # 2 X X # 2 X X # 1 1 1 # 0 X X
+2 X X # 2 X X # 2 X X # 1 1 X # 0 X X	wrong	2 X X # 2 X X # 2 X X # 1 1 1 # 0 X X
+2 X X # 2 X X # 2 X X # 1 X X # 0 X X	Delete brown blocks	2 X X # 2 X X # 2 X X # 1 1 X # 0 X X
+2 X X # 2 X X # 2 X X # 1 X X # 0 X X	delete brown block	2 X X # 2 X X # 2 X X # X X X # 0 X X
+2 X X # 1 X X # 0 X X # 2 X X # 2 X X	delete ends	X X X # 1 X X # 0 X X # X X X # X X X
+1 X X # 3 X X # 2 X X # 3 X X # 2 X X	delete orange	1 X X # X X X # 2 X X # X X X # 2 X X
+2 X X # 3 X X # 0 X X # 1 X X # 2 X X # 0 X X	delete red	X X X # 3 X X # 0 X X # 1 X X # 2 X X # 0 X X
+X X X # 3 X X # 0 X X # 1 X X # 2 X X # 0 X X	delete other red	X X X # 3 X X # 0 X X # 1 X X # X X X # 0 X X
+3 X X # 3 X X # 2 X X # 1 X X # 2 X X	delete red	3 X X # 3 X X # X X X # 1 X X # X X X
+0 X X # 3 X X # 2 X X # 3 X X # 1 X X # 3 X X	delete brown	0 X X # 3 X X # 2 X X # 3 X X # X X X # 3 X X
+0 X X # 1 X X # 0 X X # 0 X X # 1 X X	delete blue	X X X # 1 X X # X X X # X X X # 1 X X
+1 X X # 0 X X # 1 X X # 0 X X	delete right piece	1 X X # 0 X X # 1 X X # X X X
+3 X X # 3 X X # 1 X X # 1 X X	add orange on top of right piece	3 X X # 3 X X # 1 X X # 1 3 X
+2 X X # 2 X X # 0 X X # 0 X X	add red on top of right piece	2 X X # 2 X X # 0 X X # 0 2 X
+2 X X # 2 X X # 2 X X # 3 X X # 3 X X # 2 X X	add orange on top of right piece	2 X X # 2 X X # 2 X X # 3 X X # 3 X X # 2 3 X
+0 X X # 0 X X # 1 X X # 1 X X # 0 X X	delete right piece	0 X X # 0 X X # 1 X X # 1 X X # X X X
+3 X X # 3 X X # 2 X X # 2 X X	add red on top of left piece	3 2 X # 3 X X # 2 X X # 2 X X
+3 X X # 1 X X # 1 X X # 3 X X # 1 X X # 1 X X	add brown on top of orange pieces	3 1 X # 1 X X # 1 X X # 3 X X # 1 X X # 1 X X
+3 1 X # 1 X X # 1 X X # 3 X X # 1 X X # 1 X X	add brown on top of other orange piece	3 1 X # 1 X X # 1 X X # 3 1 X # 1 X X # 1 X X
+3 X X # 2 X X # 2 X X # 3 X X	delete right piece	3 X X # 2 X X # 2 X X # X X X
+0 X X # 3 X X # 3 X X # 3 X X # 0 X X	add blue on top of left piece	0 0 X # 3 X X # 3 X X # 3 X X # 0 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	put red pieces on top of brown pieces	1 0 X # 0 1 2 # 1 0 X # 0 1 2 # 1 0 X
+1 0 X # 0 1 2 # 1 0 X # 0 1 2 # 1 0 X	change blue pieces on middle row to red;	1 X X # 0 1 2 # 1 X X # 0 1 2 # 1 X X
+1 0 X # 0 1 X # 1 0 X # 0 1 X # 1 0 X	put red pieces on top of brown pieces	1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X
+1 X X # 0 1 X # 1 X X # 0 1 X # 1 X X	put red pieces on top of brown pieces	1 2 X # 0 1 2 # 1 2 X # 0 1 2 # 1 2 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X	put blue pieces on top of red pieces	2 2 0 # 2 0 X # 2 2 0 # 2 0 X
+1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X # 2 1 X	put red pieces on top of brown pieces	1 2 X # 2 1 2 # 1 2 X # 2 1 2 # 1 2 X # 2 1 2
+0 0 X # 0 2 X # 0 0 X # 0 2 X	put red pieces on top of red pieces	0 0 X # 0 2 2 # 0 0 X # 0 2 2
+2 3 X # 3 2 X # 2 3 X	delete top orange pieces	2 X X # 3 2 X # 2 X X
+2 X X # 3 2 X # 2 X X	put brown pieces on top of red pieces	2 1 X # 3 2 1 # 2 1 X
+1 1 X # 2 2 X # 1 1 X # 2 2 X	put blue pieces on top of brown pieces	1 1 X # 2 X X # 1 1 X # 2 X X
+1 1 X # 2 X X # 1 1 X # 2 X X	put blue pieces on top of brown pieces	1 1 0 # 2 X X # 1 1 0 # 2 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X # 2 3 X # 3 2 X	put red pieces on top of orange pieces	2 3 2 # 3 2 X # 2 3 2 # 3 2 X # 2 3 2 # 3 2 X
+3 3 X # 3 1 X # 3 3 X # 3 1 X # 3 3 X	delete top orange pieces	3 X X # 3 1 X # 3 X X # 3 1 X # 3 X X
+0 2 X # 2 0 X # 0 2 X # 2 0 X	delete top red pieces	0 X X # 2 0 X # 0 X X # 2 0 X
+0 X X # 2 0 X # 0 X X # 2 0 X	put brown pieces on top of blue pieces	0 1 X # 2 0 1 # 0 1 X # 2 0 1
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X # 1 0 X	put brown pieces on top of brown pieces	1 1 1 # 1 0 X # 1 1 1 # 1 0 X # 1 1 1 # 1 0 X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X # 1 0 X	delete blue pieces and replace with brown	1 1 1 # 1 0 X # 1 1 1 # 1 0 X # 1 1 1 # 1 0 X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X # 1 0 X	delete blue pieces	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X
+1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X # 1 X X	put brown pieces on top of all brown pieces	1 1 1 # 1 1 X # 1 1 1 # 1 1 X # 1 1 1 # 1 1 X
+1 X X # 1 X X # 3 X X # 3 X X # 1 X X # 3 X X	delete all but left piece	1 X X # X X X # X X X # X X X # X X X # X X X
+0 X X # 1 X X # 1 X X	delete left piece	X X X # 1 X X # 1 X X
+3 X X # 1 X X # 3 X X # 3 X X # 1 X X	delete orange pieces	X X X # 1 X X # X X X # X X X # 1 X X
+1 X X # 2 X X # 1 X X # 1 X X	put red pieces on top of all, besides right piece	1 2 X # 2 2 X # 1 2 X # 1 X X
+3 X X # 2 X X # 2 X X # 3 X X # 2 X X	delete all but right piece	X X X # X X X # X X X # X X X # 2 X X
+2 X X # 2 X X # 2 X X # 3 X X # 2 X X # 2 X X	delete all but right piece	X X X # X X X # X X X # X X X # X X X # 2 X X
+1 X X # 1 X X # 2 X X # 2 X X # 2 X X	put red pieces on top of all red pieces	1 X X # 1 X X # 2 2 X # 2 2 X # 2 2 X
+0 X X # 3 X X # 0 X X	delete left pieces	X X X # 3 X X # 0 X X
+X X X # 3 X X # 0 X X	delete orange piece	X X X # X X X # 0 X X
+2 X X # 0 X X # 0 X X # 2 X X # 0 X X	delete all but right piece	X X X # X X X # X X X # X X X # 0 X X
+1 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	delete all but left piece	1 X X # X X X # X X X # X X X # X X X # X X X
+2 X X # 1 X X	put brown piece on top of red piece	2 1 X # 1 X X
+0 X X # 0 X X # 3 X X	put blue piece on top of orange piece	0 X X # 0 X X # 3 0 X
+3 X X # 3 X X	delete right piece	3 X X # X X X
+1 0 X # 2 X X	put brown piece on top of blue piece	1 0 1 # 2 X X
+1 X X # 3 X X	delete left piece	X X X # 3 X X
+0 X X # 2 X X # 0 0 X	fill top with two red pieces	0 2 X # 2 2 X # 0 0 2
+0 2 X # 2 2 X # 0 0 2	delete highest red piece	0 2 X # 2 2 X # 0 0 X
+3 2 X # 2 X X # 0 X X # 2 X X	delete highest piece	3 X X # 2 X X # 0 X X # 2 X X
+3 2 X # 2 X X # 0 X X # 2 X X	delete middle pieces and top red	3 X X # X X X # X X X # 2 X X
+3 X X # 1 X X	delete left piece	X X X # 1 X X
+2 X X # 0 X X # 0 X X	delete right piece	2 X X # 0 X X # X X X
+1 X X # 2 X X # 1 X X # 2 1 X	delete middle two and top brown	1 X X # X X X # X X X # 2 X X

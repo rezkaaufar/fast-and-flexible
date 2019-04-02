@@ -1,0 +1,63 @@
+2 X X # 0 X X # 1 X X # 0 X X # 2 X X	remove cube 1	X X X # 0 X X # 1 X X # 0 X X # 2 X X
+X X X # 0 X X # 1 X X # 0 X X # 2 X X	remove red cube	X X X # 0 X X # 1 X X # 0 X X # X X X
+3 X X # 3 X X # 3 X X # 1 X X # 1 X X # 1 X X	remove cube 6	3 X X # 3 X X # 3 X X # 1 X X # 1 X X # X X X
+3 X X # 3 X X # 3 X X # 1 X X # 1 X X # X X X	remove brown cubes	3 X X # 3 X X # 3 X X # X X X # X X X # X X X
+1 X X # 0 X X # 2 X X # 1 X X # 3 X X # 0 X X	remove red cube	1 X X # 0 X X # X X X # 1 X X # 3 X X # 0 X X
+2 X X # 0 X X # 1 X X # 3 X X # 3 X X	remove brown cube	2 X X # 0 X X # X X X # 3 X X # 3 X X
+1 X X # 1 X X # 1 X X # 2 X X	remove red cube	1 X X # 1 X X # 1 X X # X X X
+1 X X # 3 X X # 1 X X # 3 X X # 1 X X # 1 X X	remove red cubes	1 X X # X X X # 1 X X # X X X # 1 X X # 1 X X
+0 X X # 0 X X # 3 X X # 0 X X # 0 X X	remove cube 1	X X X # 0 X X # 3 X X # 0 X X # 0 X X
+0 X X # 3 X X # 0 X X # 3 X X # 3 X X # 3 X X	stack orange cubes on blue cubes	0 3 X # 3 X X # 0 3 X # 3 X X # 3 X X # 3 X X
+0 X X # 3 X X # 3 X X # 0 X X	remove cube 4	0 X X # 3 X X # 3 X X # X X X
+0 X X # 0 X X # 3 X X # 0 X X	remove blue cubes	X X X # X X X # 3 X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 3 X X	remove cube 1	X X X # 3 X X # 3 X X # 3 X X # 3 X X
+3 X X # 1 X X # 1 X X # 3 X X # 1 X X # 3 X X	remove cube 1	X X X # 1 X X # 1 X X # 3 X X # 1 X X # 3 X X
+1 X X # 1 X X # 1 X X # 1 X X # 0 X X # 1 X X	stack blue cube on cube 1	1 0 X # 1 X X # 1 X X # 1 X X # 0 X X # 1 X X
+0 X X # 0 X X # 0 X X # 0 X X	remove cube 1	X X X # 0 X X # 0 X X # 0 X X
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	remove red cubes on layer 2	1 X X # 3 1 X # 1 X X # 3 1 X # 1 X X # 3 1 X
+3 1 X # 1 3 X # 3 1 X # 1 3 X # 3 1 X	stack red cubes on red cubes	3 1 X # 1 3 3 # 3 1 X # 1 3 3 # 3 1 X
+2 0 X # 0 2 X # 2 0 X	remove blue cubes on layer 2	2 X X # 0 2 X # 2 X X
+2 X X # 0 2 X # 2 X X	stack orange cubes on all	2 3 X # 0 2 3 # 2 3 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X	remove orange cubes on layer 2	0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X
+0 X X # 3 0 X # 0 X X # 3 0 X # 0 X X # 3 0 X	add blue cubes on all	0 0 X # 3 0 0 # 0 0 X # 3 0 0 # 0 0 X # 3 0 0
+2 2 X # 3 3 X # 2 2 X # 3 3 X	remove orange cubes on layer 2	2 2 X # 3 X X # 2 2 X # 3 X X
+2 2 X # 3 X X # 2 2 X # 3 X X	add brown cubes on red cubes	2 2 1 # 3 X X # 2 2 1 # 3 X X
+2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X	remove blue cubes on layer 2	2 2 X # 0 X X # 2 2 X # 0 X X # 2 2 X
+1 2 X # 2 1 X # 1 2 X # 2 1 X # 1 2 X	stack red cubes on brown cubes	1 2 X # 2 1 2 # 1 2 X # 2 1 2 # 1 2 X
+0 1 X # 1 0 X # 0 1 X # 1 0 X	stack brown cubes on blue cubes	0 1 X # 1 0 1 # 0 1 X # 1 0 1
+0 0 X # 0 3 X # 0 0 X # 0 3 X # 0 0 X	remove red blocks	0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X
+0 0 X # 0 X X # 0 0 X # 0 X X # 0 0 X	stack blue blocks on blue blocks	0 0 0 # 0 0 X # 0 0 0 # 0 0 X # 0 0 0
+2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	remove blue blocks on row 2	2 2 X # 0 X X # 2 2 X # 0 X X # 2 2 X # 0 X X
+2 2 X # 0 X X # 2 2 X # 0 X X # 2 2 X # 0 X X	stack brown blocks on red blocks	2 2 1 # 0 X X # 2 2 1 # 0 X X # 2 2 1 # 0 X X
+0 X X # 0 X X # 0 X X # 0 X X # 3 X X # 3 X X	remove blue blocks	X X X # X X X # X X X # X X X # 3 X X # 3 X X
+X X X # X X X # X X X # X X X # 3 X X # 3 X X	remove 1st orange block	X X X # X X X # X X X # X X X # X X X # 3 X X
+1 X X # 1 X X # 2 X X # 2 X X	stack red blocks on red blocks	1 X X # 1 X X # 2 2 X # 2 2 X
+3 X X # 3 X X # 3 X X # 3 X X	add orange blocks on orange blocks	3 3 X # 3 3 X # 3 3 X # 3 3 X
+3 3 X # 3 3 X # 3 3 X # 3 3 X	remove last orange block on row 2	3 3 X # 3 3 X # 3 3 X # 3 X X
+2 X X # 2 X X # 1 X X # 1 X X # 2 X X	stack brown blocks on brown blocks	2 X X # 2 X X # 1 1 X # 1 1 X # 2 X X
+2 X X # 0 X X # 0 X X	stack red block on block 1	2 2 X # 0 X X # 0 X X
+2 2 X # 0 X X # 0 X X	stack red block on block 2	2 2 X # 0 2 X # 0 X X
+3 X X # 3 X X # 1 X X # 1 X X	remove brown blocks	3 X X # 3 X X # X X X # X X X
+3 X X # 3 X X # X X X # X X X	remove block 2	3 X X # X X X # X X X # X X X
+2 X X # 2 X X # 2 X X # 2 X X # 2 X X # 3 X X	stack orange blocks on row 1	2 3 X # 2 3 X # 2 3 X # 2 3 X # 2 3 X # 3 3 X
+2 3 X # 2 3 X # 2 3 X # 2 3 X # 2 3 X # 3 3 X	remove 1st orange block on row 2	2 X X # 2 3 X # 2 3 X # 2 3 X # 2 3 X # 3 3 X
+3 X X # 0 X X # 0 X X	stack orange blocks on blue blocks	3 X X # 0 3 X # 0 3 X
+1 X X # 0 X X # 1 X X # 0 X X # 0 X X	remove blue blocks	1 X X # X X X # 1 X X # X X X # X X X
+1 X X # X X X # 1 X X # X X X # X X X	remove last brown block	1 X X # X X X # X X X # X X X # X X X
+1 X X # 2 X X # 1 X X # 1 X X # 1 X X # 2 X X	remove brown blocks	X X X # 2 X X # X X X # X X X # X X X # 2 X X
+X X X # 2 X X # X X X # X X X # X X X # 2 X X	remove first red block	X X X # X X X # X X X # X X X # X X X # 2 X X
+0 X X # 0 X X # 2 0 X # 3 3 X	stack blue block on block 1	0 0 X # 0 X X # 2 0 X # 3 3 X
+3 0 X # 3 X X # 0 X X	stack brown block on block 2	3 0 X # 3 1 X # 0 X X
+3 0 X # 3 1 X # 0 X X	stack brown block on first blue block	3 0 1 # 3 1 X # 0 X X
+2 X X # 0 2 X	stack red block on blue block	2 X X # 0 2 X
+2 X X # 0 2 X	remove red block on row 2	2 X X # 0 X X
+2 3 X # 3 3 X # 2 X X	stack orange block on block 3	2 3 X # 3 3 X # 2 3 X
+2 3 X # 3 3 X # 2 X X	stack orange blocks on all	2 3 3 # 3 3 3 # 2 3 X
+2 3 3 # 3 3 3 # 2 3 X	remove 1st orange block on row 3	2 3 X # 3 3 3 # 2 3 X
+0 X X # 3 X X # 0 3 X	remove 1st blue block	X X X # 3 X X # 0 3 X
+3 X X # 1 3 X # 3 3 X # 3 X X	stack red blocks on all	3 2 X # 1 3 2 # 3 3 2 # 3 2 X
+1 0 X # 0 0 X # 0 X X # 0 X X	stack brown blocks on all	1 0 1 # 0 0 1 # 0 1 X # 0 1 X
+1 0 1 # 0 0 1 # 0 1 X # 0 1 X	remove first brown block on row 3	1 0 X # 0 0 1 # 0 1 X # 0 1 X
+1 X X # 0 X X # 0 1 X	remove 1st brown block	X X X # 0 X X # 0 1 X
+2 2 X # 1 2 X	remove first red block on row 2	2 X X # 1 2 X
+1 3 X # 2 2 X	remove red block on row 2	1 3 X # 2 X X

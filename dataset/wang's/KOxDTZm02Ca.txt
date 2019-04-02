@@ -1,0 +1,39 @@
+1 X X # 2 X X # 2 X X # 0 X X # 2 X X	remove brown block	X X X # 2 X X # 2 X X # 0 X X # 2 X X
+0 X X # 2 X X # 0 X X # 3 X X # 3 X X # 1 X X	remove second red block	0 X X # X X X # 0 X X # 3 X X # 3 X X # 1 X X
+0 X X # 0 X X # 1 X X # 2 X X # 2 X X	add 2 red blocks to the end	0 X X # 0 X X # 1 X X # 2 X X # 2 X X
+0 X X # 0 X X # 1 X X # 2 X X # 2 X X	remove red	0 X X # 0 X X # 1 X X # X X X # X X X
+3 X X # 1 X X # 3 X X # 1 X X # 0 X X # 1 X X	remove brown	3 X X # X X X # 3 X X # X X X # 0 X X # X X X
+3 X X # 0 X X # 2 X X # 1 X X # 2 X X # 1 X X	remove brown	3 X X # 0 X X # 2 X X # X X X # 2 X X # X X X
+2 X X # 3 X X # 3 X X # 2 X X	add orange block to the last red block	2 X X # 3 X X # 3 X X # 2 3 X
+2 X X # 1 X X # 1 X X # 2 X X # 2 X X	add red block	2 X X # 1 X X # 1 X X # 2 X X # 2 2 X
+3 X X # 3 X X # 3 X X # 3 X X # 2 X X # 2 X X	remove red blocks	3 X X # 3 X X # 3 X X # 3 X X # X X X # X X X
+3 X X # 3 X X # 3 X X # 3 X X # 2 X X	remove first orange block	X X X # 3 X X # 3 X X # 3 X X # 2 X X
+3 X X # 0 X X # 3 X X # 0 X X	remove first orange block	X X X # 0 X X # 3 X X # 0 X X
+0 X X # 1 X X # 1 X X # 0 X X # 0 X X	remove first blue block	X X X # 1 X X # 1 X X # 0 X X # 0 X X
+1 X X # 2 X X # 1 X X # 2 X X	remove last red block	1 X X # 2 X X # 1 X X # X X X
+2 X X # 1 X X # 1 X X # 2 X X	remove last red block	2 X X # 1 X X # 1 X X # X X X
+0 X X # 0 X X # 0 X X # 0 X X # 0 X X	remove last blue block	0 X X # 0 X X # 0 X X # 0 X X # X X X
+3 X X # 3 X X # 3 X X # 2 X X	move red block to the first block	3 2 X # 3 X X # 3 X X # 2 X X
+2 0 X # 0 2 X # 2 0 X	remove blue block in level 3	2 0 X # 0 2 0 # 2 0 X
+2 2 X # 2 0 X # 2 2 X # 2 0 X # 2 2 X # 2 0 X	turn orange to red	2 2 X # 2 0 2 # 2 2 X # 2 0 2 # 2 2 X # 2 0 2
+0 0 X # 1 1 X # 0 0 X	remove middle brown blos row 2	0 0 1 # 1 1 X # 0 0 1
+2 2 X # 2 0 X # 2 2 X	add one red block	2 X X # 2 0 X # 2 X X
+3 1 X # 1 3 X # 3 1 X # 1 3 X	add 2 orange	3 1 X # 1 3 1 # 3 1 X # 1 3 1
+2 2 X # 1 1 X # 2 2 X # 1 1 X # 2 2 X # 1 1 X	remove 3 brown	2 2 X # 1 X X # 2 2 X # 1 X X # 2 2 X # 1 X X
+2 0 X # 0 2 X # 2 0 X # 0 2 X # 2 0 X	put 3 brown blocks on blue	2 0 1 # 0 2 X # 2 0 1 # 0 2 X # 2 0 1
+1 1 X # 3 3 X # 1 1 X # 3 3 X	remove 2 brown block	1 X X # 3 3 X # 1 X X # 3 3 X
+2 2 X # 0 0 X # 2 2 X # 0 0 X	remove 2 blue blocks	2 2 X # 0 X X # 2 2 X # 0 X X
+3 3 X # 2 2 X # 3 3 X # 2 2 X # 3 3 X	add orange blocks to orange rows	3 3 3 # 2 2 X # 3 3 3 # 2 2 X # 3 3 3
+1 3 X # 3 1 X # 1 3 X # 3 1 X # 1 3 X	add orange blocks to brown rows	1 3 X # 3 1 3 # 1 3 X # 3 1 3 # 1 3 X
+1 X X # 2 X X # 1 X X # 2 X X # 1 X X # 2 X X	remove all but last red	X X X # X X X # X X X # X X X # X X X # 2 X X
+1 X X # 1 X X # 0 X X	add 2 brown	1 X X # 1 X X # 0 X X
+1 X X # 1 X X # 0 X X	add 2 brown	1 1 X # 1 1 X # 0 X X
+1 X X # 1 X X # 3 X X # 1 X X	remove all but first brown	1 X X # X X X # X X X # X X X
+3 X X # 3 X X # 3 X X	add two orange to first two	3 3 X # 3 3 X # 3 X X
+2 X X # 3 X X # 3 X X # 2 X X	add 3 red	2 X X # 3 2 X # 3 2 X # 2 2 X
+2 X X # 0 X X # 2 X X	add one blue to middle of red	2 0 X # 0 0 X # 2 X X
+2 X X # 2 X X # 2 X X # 2 X X	remove 2 more	2 X X # X X X # X X X # X X X
+1 X X # 2 X X # 1 X X # 2 X X	remove all brown	X X X # 2 X X # X X X # 2 X X
+3 X X # 3 X X # 3 X X	add 2 blue	3 0 X # 3 0 X # 3 X X
+0 X X # 2 X X # 2 X X	reove red	0 X X # X X X # X X X
+3 1 X # 0 3 X	remove orange	3 1 X # 0 X X

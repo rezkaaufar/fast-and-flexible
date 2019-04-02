@@ -1,0 +1,50 @@
+1 X X # 0 X X # 3 X X # 2 X X # 2 X X # 0 X X	4	1 X X # 0 X X # 3 X X # X X X # X X X # 0 X X
+3 X X # 0 X X # 2 X X # 0 X X # 3 X X # 3 X X	2	3 X X # X X X # 2 X X # X X X # 3 X X # 3 X X
+0 X X # 0 X X # 1 X X # 2 X X # 2 X X	45	0 X X # 0 X X # 1 X X # X X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X # 0 X X	124	X X X # X X X # 3 X X # X X X # 0 X X
+3 X X # 2 X X # 0 X X # 3 X X # 2 X X	25	3 X X # X X X # 0 X X # 3 X X # X X X
+1 X X # 0 X X # 0 X X # 3 X X # 2 X X	23	1 X X # X X X # X X X # 3 X X # 2 X X
+1 X X # 2 X X # 0 X X # 3 X X # 0 X X	35	1 X X # 2 X X # X X X # 3 X X # X X X
+3 X X # 0 X X # 2 X X # 2 X X # 1 X X # 2 X X	346	3 X X # 0 X X # X X X # X X X # 1 X X # X X X
+1 X X # 1 X X # 3 X X # 1 X X # 3 X X	5	1 X X # 1 X X # 3 X X # 1 X X # X X X
+2 X X # 1 X X # 2 X X # 1 X X	13	2 1 X # 1 X X # 2 1 X # 1 X X
+1 X X # 2 X X # 2 X X # 2 X X # 1 X X # 2 X X	1	1 2 X # 2 X X # 2 X X # 2 X X # 1 X X # 2 X X
+1 X X # 0 X X # 1 X X # 1 X X # 1 X X # 1 X X	2	1 X X # X X X # 1 X X # 1 X X # 1 X X # 1 X X
+1 X X # 2 X X # 2 X X # 2 X X # 2 X X	5	1 X X # 2 X X # 2 X X # 2 X X # 2 2 X
+3 X X # 3 X X # 3 X X # 1 X X	4	3 X X # 3 X X # 3 X X # X X X
+1 X X # 0 X X # 1 X X # 0 X X # 0 X X # 0 X X	2456	1 X X # X X X # 1 X X # X X X # X X X # X X X
+2 X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X	1	X X X # 3 X X # 3 X X # 3 X X # 3 X X # 3 X X
+2 X X # 1 X X # 1 X X # 2 X X # 1 X X # 1 X X	2356	2 X X # 1 1 X # 1 1 X # 2 X X # 1 1 X # 1 1 X
+2 X X # 0 X X # 2 X X # 2 X X # 0 X X	134	2 0 X # 0 X X # 2 0 X # 2 0 X # 0 X X
+1 1 X # 1 2 X # 1 1 X # 1 2 X	13	1 1 2 # 1 2 X # 1 1 2 # 1 2 X
+0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X	246	0 0 X # 2 X X # 0 0 X # 2 X X # 0 0 X # 2 X X
+1 1 X # 1 0 X # 1 1 X # 1 0 X # 1 1 X	12345	1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X
+1 1 X # 1 X X # 1 1 X # 1 X X # 1 1 X	12345	1 1 1 # 1 1 X # 1 1 1 # 1 1 X # 1 1 1
+2 1 X # 1 2 X # 2 1 X	13	2 X X # 1 2 X # 2 X X
+3 0 X # 0 3 X # 3 0 X	2	3 0 X # 0 X X # 3 0 X
+3 0 X # 0 3 X # 3 0 X # 0 3 X # 3 0 X # 0 3 X	246	3 0 X # 0 3 0 # 3 0 X # 0 3 0 # 3 0 X # 0 3 0
+1 1 X # 0 0 X # 1 1 X # 0 0 X	13	1 1 1 # 0 0 X # 1 1 1 # 0 0 X
+0 0 X # 0 1 X # 0 0 X	13	0 0 3 # 0 1 X # 0 0 3
+1 1 X # 1 3 X # 1 1 X # 1 3 X	13	1 1 0 # 1 3 X # 1 1 0 # 1 3 X
+1 1 X # 1 3 X # 1 1 X # 1 3 X # 1 1 X	135	1 X X # 1 3 X # 1 X X # 1 3 X # 1 X X
+3 X X # 3 X X # 3 X X # 2 X X # 2 X X	2345	3 X X # X X X # X X X # X X X # X X X
+0 X X # 3 X X # 3 X X # 3 X X # 0 X X # 3 X X	12345	X X X # X X X # X X X # X X X # X X X # 3 X X
+2 X X # 3 X X # 2 X X	2	2 X X # X X X # 2 X X
+3 X X # 1 X X # 1 X X # 1 X X	123	3 1 X # 1 1 X # 1 1 X # 1 X X
+2 X X # 2 X X # 2 X X # 2 X X # 1 X X # 1 X X	12345	X X X # X X X # X X X # X X X # X X X # 1 X X
+0 X X # 2 X X # 0 X X # 0 X X # 0 X X # 0 X X	23456	0 X X # X X X # X X X # X X X # X X X # X X X
+3 X X # 1 X X # 1 X X # 1 X X	123	X X X # X X X # X X X # 1 X X
+0 X X # 0 X X # 0 X X # 1 X X	123	0 0 X # 0 0 X # 0 0 X # 1 X X
+1 X X # 3 X X # 3 X X	23	1 X X # 3 3 X # 3 3 X
+1 X X # 2 X X # 1 X X # 1 X X # 1 X X	2345	1 X X # X X X # X X X # X X X # X X X
+3 0 X # 3 3 X # 1 0 X	12	3 X X # 3 X X # 1 0 X
+0 X X # 2 0 X	12	X X X # 2 X X
+0 X X # 3 2 X # 0 X X	3	0 X X # 3 2 X # X X X
+3 2 X # 0 X X # 2 0 X # 2 X X	4	3 2 X # 0 X X # 2 0 X # 2 2 X
+0 X X # 1 X X # 3 X X # 3 X X	123	X X X # X X X # X X X # 3 X X
+1 2 X # 3 X X # 1 1 X	2	1 2 X # X X X # 1 X X
+2 X X # 0 0 X	2	2 X X # 0 0 0
+0 3 X # 3 X X # 0 0 X	3	0 3 X # 3 X X # 0 0 0
+0 3 X # 3 0 X # 1 0 X # 3 0 X	1	0 3 0 # 3 0 X # 1 0 X # 3 0 X
+1 1 X # 3 X X	1	1 X X # 3 X X
+2 2 X # 2 1 1 # 2 1 1 # 2 1 X # 2 2 X	135	2 2 X # 2 1 1 # 2 1 1 # 2 1 1 # 2 2 X

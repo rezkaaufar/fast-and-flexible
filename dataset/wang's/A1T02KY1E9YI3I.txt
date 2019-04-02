@@ -1,0 +1,18 @@
+0 X X # 0 X X # 1 X X # 2 X X # 2 X X # 0 X X	remove the two red color cubes	0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X
+0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X	REMOVE THE RED COLOR CUBES AND BROWN COLOR IN THE TOP	0 X X # 0 X X # 1 3 X # 2 X X # X X X # 0 X X
+0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X	REMOVE THE RED COLOR CUBES AND BROWN COLOR IN THE TOP	0 X X # 0 X X # 1 3 X # 2 X X # X X X # 0 X X
+0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X	REMOVE THE RED COLOR CUBES AND BROWN COLOR IN THE TOP	0 X X # 0 X X # 1 3 X # 2 X X # X X X # 0 X X
+0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X	REMOVE THE RED COLOR CUBES AND BROWN COLOR IN THE TOP	0 X X # 0 X X # 1 3 X # 2 X X # X X X # 0 X X
+0 X X # 0 X X # 1 3 X # 2 X X # 2 X X # 0 X X	REMOVE THE RED COLOR CUBES AND BROWN COLOR IN THE TOP	0 X X # 0 X X # 1 3 X # 2 0 X # 2 X X # 0 X X
+1 X X # 3 X X # 0 X X # 3 X X # 1 X X	REMOVE THE MIDDLE CUBE	1 X X # 3 X X # X X X # 3 X X # 1 X X
+3 X X # 2 X X # 3 X X # 1 X X # 1 X X	REMOVE FIRST AND SECOND CUBE	3 X X # 2 X X # 3 X X # 1 X X # X X X
+3 X X # 2 X X # 3 X X # 1 X X # X X X	REMOVE THE FIRST CUBE	3 X X # 2 X X # 3 X X # X X X # X X X
+1 X X # 1 X X # 2 X X # 3 X X # 3 X X # 1 X X	REMOVE LAST TWO CUBES	1 X X # 1 X X # 2 X X # 3 X X # 3 X X # X X X
+1 X X # 1 X X # 2 X X # 3 X X # 3 X X # X X X	REMOVE LAST TWO CUBES	X X X # 1 X X # 2 X X # 3 X X # 3 X X # X X X
+1 X X # 1 X X # 2 X X # 3 X X # 3 X X # X X X	REMOVE LAST TWO CUBES	X X X # X X X # 2 X X # 3 X X # 3 X X # X X X
+3 X X # 2 X X # 0 X X # 3 X X # 0 X X	REMOVE SECOND BROWN COLOR CUBE	3 X X # 2 X X # 0 X X # X X X # 0 X X
+3 X X # 2 X X # 0 X X # X X X # 0 X X	REMOVE LAST BROWN TUBE	X X X # 2 X X # 0 X X # X X X # 0 X X
+1 X X # 2 X X # 2 X X # 3 X X # 0 X X	REMOVE THE SECOND CUBE	1 X X # 2 X X # 2 X X # X X X # 0 X X
+0 X X # 3 X X # 2 X X # 1 X X # 2 X X # 3 X X	REMOVE ALL RED COLOR CUBES	0 X X # 3 X X # 2 X X # 1 X X # X X X # 3 X X
+0 X X # 3 X X # 2 X X # 1 X X # X X X # 3 X X	REMOVE MIDDLE CUBE	0 X X # 3 X X # X X X # 1 X X # X X X # 3 X X
+3 X X # 3 X X # 3 X X # 0 X X # 3 X X	PLACE A CUBE ON THE TOP OF LAST CUBE	3 2 X # 3 X X # 3 X X # 0 X X # 3 X X

@@ -1,0 +1,68 @@
+2 X X # 1 X X # 2 X X # 3 X X # 1 X X	Move block	X X X # X X X # X X X # X X X # X X X
+1 X X # 0 X X # 0 X X # 1 X X # 1 X X # 2 X X	Move block	X X X # X X X # 0 X X # X X X # X X X # X X X
+X X X # X X X # 0 X X # X X X # X X X # X X X	Move block	X X X # X X X # 0 X X # X X X # X X X # X X X
+X X X # X X X # 0 X X # X X X # X X X # X X X	Move block	X X X # X X X # 0 X X # X X X # X X X # X X X
+0 X X # 2 X X # 1 X X # 2 X X # 3 X X	Move block twice	0 X X # 2 X X # 1 X X # 2 X X # X X X
+0 X X # 1 X X # 3 X X # 0 X X # 0 X X	Move the blocks fool	0 X X # 1 X X # X X X # 0 X X # 0 X X
+0 X X # 2 X X # 3 X X # 2 X X # 2 X X	Continue moving the blocks	0 X X # X X X # 3 X X # X X X # X X X
+1 X X # 2 X X # 3 X X # 1 X X # 0 X X # 0 X X	Continue doing what you did before	1 X X # 2 X X # 3 X X # 1 X X # X X X # X X X
+2 X X # 3 X X # 1 X X # 0 X X # 3 X X	Continue	2 X X # X X X # 1 X X # 0 X X # X X X
+3 X X # 3 X X # 3 X X # 1 X X # 3 X X # 0 X X	Continue	3 X X # 3 X X # 3 X X # 1 X X # 3 X X # X X X
+3 X X # 2 X X # 1 X X # 1 X X # 3 X X	Continue	3 X X # 2 X X # X X X # X X X # 3 X X
+2 X X # 1 X X # 2 X X # 3 X X # 2 X X	Continue	2 X X # X X X # 2 X X # 3 X X # 2 X X
+2 X X # 2 X X # 3 X X # 3 X X # 2 X X # 2 X X	Try for yourself	X X X # 2 X X # 3 X X # 3 X X # 2 X X # 2 X X
+0 X X # 0 X X # 1 X X # 1 X X	Do that again	X X X # 0 X X # 1 X X # 1 X X
+1 X X # 1 X X # 3 X X # 1 X X # 3 X X # 3 X X	Stop being stupid	1 X X # 1 X X # 3 X X # 1 X X # 3 X X # X X X
+1 X X # 1 X X # 3 X X # 3 X X	Match the blocks to look like the goal	X X X # X X X # 3 X X # 3 X X
+0 X X # 1 X X # 0 X X # 1 X X # 1 X X	Continue to do what you did last time	0 0 X # 1 X X # 0 X X # 1 X X # 1 X X
+0 X X # 3 X X # 3 X X # 3 X X	Good, keep doing that	0 X X # X X X # X X X # X X X
+2 X X # 2 X X # 3 X X # 2 X X # 3 X X	Continue	2 X X # 2 X X # 3 X X # 2 X X # 3 3 X
+3 X X # 3 X X # 2 X X # 3 X X # 2 X X	Do what you did last time	3 3 X # 3 X X # 2 X X # 3 X X # 2 X X
+2 X X # 1 X X # 1 X X # 2 X X # 2 X X	Match the goal	2 X X # 1 X X # 1 X X # 2 X X # X X X
+3 X X # 0 X X # 0 X X # 0 X X # 3 X X	Copy the goal	3 X X # 0 X X # 0 X X # 0 X X # 3 0 X
+0 3 X # 3 0 X # 0 3 X # 3 0 X	You have to stack the blocks exactly like the goal	0 3 0 # 3 0 X # 0 3 0 # 3 0 X
+0 0 X # 2 2 X # 0 0 X # 2 2 X	Match the blocks and the colors too	0 0 X # 2 X X # 0 0 X # 2 X X
+2 2 X # 0 0 X # 2 2 X # 0 0 X # 2 2 X # 0 0 X	Change the three at the top from blue to brown	2 2 X # 0 0 1 # 2 2 X # 0 0 1 # 2 2 X # 0 0 1
+0 0 X # 0 3 X # 0 0 X	Copy the goal's height and its colors	0 0 3 # 0 3 X # 0 0 3
+0 0 X # 3 3 X # 0 0 X	Take one orange block from #8	0 0 3 # 3 3 X # 0 0 3
+0 0 X # 3 3 X # 0 0 X	Try again	0 0 X # 3 X X # 0 0 X
+0 0 X # 3 X X # 0 0 X	Match the goal	0 0 3 # 3 X X # 0 0 3
+1 1 X # 1 2 X # 1 1 X # 1 2 X # 1 1 X	Use only brown and red blocks	1 1 X # 1 2 X # 1 1 X # 1 2 X # 1 1 X
+1 1 X # 1 2 X # 1 1 X # 1 2 X # 1 1 X	Add three brown blocks at the top	1 1 1 # 1 2 X # 1 1 1 # 1 2 X # 1 1 1
+1 2 X # 2 1 X # 1 2 X	Use only blue brown and red	1 2 X # 2 1 1 # 1 2 X
+3 3 X # 3 2 X # 3 3 X # 3 2 X # 3 3 X # 3 2 X	Use only ornage	3 3 X # 3 2 X # 3 3 X # 3 2 X # 3 3 X # 3 2 X
+3 3 X # 3 2 X # 3 3 X # 3 2 X # 3 3 X # 3 2 X	Take away the red blocks	3 3 X # 3 X X # 3 3 X # 3 X X # 3 3 X # 3 X X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	Add more blocks	2 3 X # 3 2 X # 2 3 X # 3 2 X
+2 3 X # 3 2 X # 2 3 X # 3 2 X	Add two more blocks	2 3 X # 3 2 3 # 2 3 X # 3 2 3
+0 0 X # 0 1 X # 0 0 X # 0 1 X	No, only blue blocks	0 0 X # 0 X X # 0 0 X # 0 X X
+3 3 X # 2 2 X # 3 3 X	Take away the red block in the middle	3 3 X # 2 X X # 3 3 X
+3 3 X # 2 X X # 3 3 X	Add two red blocks	3 3 2 # 2 X X # 3 3 2
+0 X X # 0 X X # 3 X X # 3 X X # 3 X X # 3 X X	Remove four orange blocks	0 X X # 0 X X # X X X # X X X # X X X # X X X
+0 X X # 0 X X # 1 X X # 0 X X # 0 X X	Remove only three blue blocks	X X X # X X X # X X X # X X X # 0 X X
+3 X X # 1 X X # 1 X X # 1 X X # 3 X X # 1 X X	Leave only two ornage blocks	3 X X # X X X # X X X # X X X # 3 X X # X X X
+2 X X # 2 X X # 2 X X # 3 X X	Put three red blocks at the top	2 2 X # 2 2 X # 2 2 X # 3 X X
+2 X X # 2 X X # 2 X X # 3 X X	Add three red blocks on the top on the left side	2 X X # 2 X X # 2 X X # 3 2 X
+2 X X # 2 X X # 2 X X # 3 X X	Three red blocks	2 2 X # 2 2 X # 2 2 X # 3 2 X
+2 2 X # 2 2 X # 2 2 X # 3 2 X	Take one block away	2 X X # 2 2 X # 2 2 X # 3 2 X
+1 X X # 1 X X # 1 X X # 0 X X	Put three blue blocks on the top	1 0 X # 1 0 X # 1 0 X # 0 0 X
+1 0 X # 1 0 X # 1 0 X # 0 0 X	Take away one blue block on the right	1 X X # 1 0 X # 1 0 X # 0 0 X
+0 X X # 3 X X # 0 X X # 3 X X # 0 X X	Take away the blue blocks	X X X # 3 X X # X X X # 3 X X # X X X
+2 X X # 2 X X # 1 X X # 2 X X # 1 X X	Put brown blocks on top	2 1 X # 2 1 X # 1 1 X # 2 1 X # 1 1 X
+2 X X # 2 X X # 1 X X # 2 X X # 1 X X	Add three brown cubes	2 1 X # 2 1 X # 1 X X # 2 1 X # 1 X X
+2 X X # 1 X X # 2 X X	Take away brown cube	2 X X # X X X # 2 X X
+2 X X # X X X # 2 X X	Take away red cube on the right	X X X # X X X # 2 X X
+2 X X # 3 X X # 2 X X # 2 X X # 3 X X # 3 X X	Take away all red cubes	X X X # X X X # X X X # X X X # X X X # 3 X X
+3 X X # 2 X X # 3 X X # 2 X X	Take away the orange cubes	X X X # 2 X X # X X X # 2 X X
+X X X # 2 X X # X X X # 2 X X	Take away the red cube on the right	X X X # X X X # X X X # 2 X X
+2 2 X # 3 X X # 2 X X	Add one brown cube on the right	2 2 1 # 3 X X # 2 X X
+2 2 1 # 3 X X # 2 X X	Add one brown cube on the left	2 2 1 # 3 X X # 2 1 X
+0 X X # 3 X X # 1 0 X	Take away only the right blue cube	X X X # 3 X X # 1 0 X
+X X X # 3 X X # 1 0 X	Take away only the orange cube	X X X # X X X # 1 0 X
+1 3 X # 1 X X	Take away right brown cube	1 3 X # X X X
+1 X X # 3 X X	Take away right brown cube	X X X # 3 X X
+3 X X # 1 X X	Add two orange cubes	3 3 X # 1 3 X
+2 0 X # 0 X X # 0 X X	Add two red cubes	2 0 2 # 0 2 X # 0 X X
+1 3 X # 3 X X # 0 1 X # 0 X X	Take away top brown cube	1 3 1 # 3 X X # 0 1 X # 0 X X
+3 1 X # 3 X X # 0 X X # 1 X X	Take away top brown cube	3 X X # 3 X X # 0 X X # 1 X X
+2 0 X # 0 2 X # 3 X X # 3 X X	Add four red cubes	2 0 2 # 0 2 X # 3 2 X # 3 2 X
+2 X X # 2 2 X # 0 X X # 3 X X	Add one blue cube to the right side	2 0 X # 2 2 X # 0 X X # 3 X X

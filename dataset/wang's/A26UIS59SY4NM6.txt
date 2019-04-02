@@ -1,0 +1,3 @@
+3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	move1	3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X
+3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	move2	3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X
+3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X	move2	3 X X # 0 X X # 0 X X # 2 X X # 2 X X # 2 X X

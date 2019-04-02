@@ -1,0 +1,2 @@
+0 X X # 3 X X # 1 X X # 1 X X # 3 X X	remove one orange block	0 X X # 3 3 X # 1 X X # 1 X X # 3 3 X
+0 X X # 3 3 X # 1 X X # 1 X X # 3 3 X	add one blue block	0 X X # 3 3 3 # 1 X X # 1 X X # 3 3 3
