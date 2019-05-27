@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc7510f-e99d-4763-875e-80284a6e599b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/fields.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/get_standard_iter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/evaluator/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/evaluator/evaluator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/loss/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/loss/loss.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/metrics/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/metrics/metrics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/DecoderConv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/DecoderRNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/EncoderConv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/EncoderRNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/attention.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/baseConv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/baseModel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/baseRNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/enc2dec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/optimizer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/optimizer/optimizer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trainer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trainer/supervised_trainer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/callback.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/callback_container.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/history.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/logger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/callbacks/model_checkpoint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/checkpoint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_model.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/offline-dataset/lang_games_data_artificial_test_nvl_utter_blocks_50000.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/offline-dataset/lang_games_data_artificial_train_nvl_utter_blocks_50000.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/offline-dataset/lang_games_data_artificial_valid_nvl_utter_blocks_50000.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +84,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="198">
-                <caret line="17" column="78" lean-forward="false" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+                <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -312,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1368" height="742" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19166666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -321,7 +284,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -759,7 +722,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="198">
-            <caret line="17" column="78" lean-forward="false" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+            <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor />
